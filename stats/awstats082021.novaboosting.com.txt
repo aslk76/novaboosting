@@ -1,0 +1,3877 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 202108 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.novaboosting.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1999                
+POS_TIME 2687                
+POS_VISITOR 33086               
+POS_DAY 155856              
+POS_DOMAIN 3744                
+POS_LOGIN 3982                
+POS_ROBOT 4137                
+POS_WORMS 5977                
+POS_EMAILSENDER 6108                
+POS_EMAILRECEIVER 6251                
+POS_SESSION 156873              
+POS_SIDER 157084              
+POS_FILETYPES 6386                
+POS_DOWNLOADS 6693                
+POS_OS 6741                
+POS_BROWSER 7106                
+POS_SCREENSIZE 12066               
+POS_UNKNOWNREFERER 12140               
+POS_UNKNOWNREFERERBROWSER 13418               
+POS_ORIGIN 14067               
+POS_SEREFERRALS 14221               
+POS_PAGEREFS 15413               
+POS_SEARCHWORDS 15920               
+POS_KEYWORDS 16108               
+POS_MISC 2351                
+POS_ERRORS 16209               
+POS_CLUSTER 3838                
+POS_SIDER_404 16341               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210901000013 28620 7398030 12131283245609
+FirstTime 20210801000528
+LastTime 20210831235953
+LastUpdate 20210901033001 8728 0 8727 0 0
+TotalVisits 1958                
+TotalUnique 1835                
+MonthHostsKnown 0                   
+MonthHostsUnknown 2682                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 291 8909 1172112096 326 433 3420321
+1 361 7851 953501046 222 422 4008631
+2 203 5573 719651005 169 313 2487018
+3 157 5015 661131966 200 291 3064236
+4 128 3840 499396174 135 243 2473267
+5 162 5260 665858389 260 1016 88401399
+6 203 6516 844901582 179 228 1253752
+7 226 5215 649056415 217 372 4529944
+8 245 4902 628609677 254 330 2921043
+9 314 5825 742457472 277 359 2845009
+10 357 6666 821189357 327 435 3992250
+11 394 8286 1032463228 543 658 13405978
+12 497 10751 1356778215 431 683 25680087
+13 490 10294 1296775072 429 508 3169711
+14 455 9609 1191072427 408 528 6498315
+15 557 11821 1485582075 488 645 3740197
+16 537 10894 1368943202 461 556 3050580
+17 502 10816 1377105072 425 580 4831376
+18 453 10357 1324808393 354 395 3857295
+19 481 9444 1177736260 392 511 6006644
+20 453 10927 1387754087 416 516 5281578
+21 464 10632 1350950986 376 530 4641040
+22 401 10755 1356812956 335 552 16854397
+23 321 8898 1145538886 253 360 4668849
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 8652 199056 25210186038
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 44
+Googlebot/ 613 9442402 20210831163825 27
+bingpreview 589 14776553 20210830201036 0
+bot[\s_+:,\.\;\/\\-] 436 46439475 20210831194119 101
+bingbot/ 368 20693196 20210831233421 35
+core 235 29261126 20210831014016 0
+crawl 154 18660235 20210830044254 4
+dataprovider\.com 151 18883474 20210811052218 1
+infobot 123 992855 20210831214352 49
+YandexBot/ 105 721171 20210831231256 54
+Apache\-HttpClient/ 101 1358836 20210824171514 0
+netcraft 7 98300 20210831221048 0
+Mail\.RU_Bot/ 9 29495 20210824202037 7
+qwantify 6 80468 20210831103511 0
+GrapeshotCrawler/ 2 13480 20210827134011 1
+MJ12bot/ 4 31382 20210826025004 2
+CFNetwork 1 1546 20210830001006 0
+DotBot/ 4 26360 20210818085451 2
+DuckDuckGo\-Favicons\-Bot/ 93 952435 20210831175235 0
+baidu 2 29033 20210824102251 0
+link 6 42641 20210820151215 3
+YandexImages/ 5 1070647 20210830232207 0
+MSIE[\x20]5 2 16784 20210808204554 0
+python 22 319375 20210831131419 0
+unknown 42 2772 20210830163739 42
+AdIdxBot/ 1 587006 20210801093241 0
+spider 2 16128 20210808191532 0
+MSIE[\x20]6 4 60279 20210806102004 0
+SemrushBot/ 14 78131 20210830083328 7
+facebookexternalhit/ 24 9148451 20210810134305 1
+java 2 26228 20210822165435 0
+discover 1 15623 20210810043156 0
+BLEXBot/ 5 39770 20210809151214 2
+yandex 5 43326 20210829022913 0
+Discordbot/ 54 726396 20210831172829 0
+no_user_agent 96 375654 20210831185913 1
+(firefox/)([0-9]\.|[0-1][0]\.) 1 13414 20210826170009 0
+custo 20 285916 20210831202658 0
+YandexMetrika/ 11 280083 20210811013102 0
+Sogou[\x20]web[\x20]spider/ 1 66 20210816231733 1
+AhrefsBot/ 92 874208 20210831195233 30
+proximic 5 29536 20210825221110 2
+favicon 12 131975 20210830112240 0
+Googlebot\-Image/ 92 13943945 20210831141624 0
+twitterbot 8 58330 20210819224905 4
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+gif 2885 447149558 0 0
+png 112779 20796856048 0 0
+jpg 32559 2802567900 0 0
+svg 68 62912 0 0
+map 66 3740238 0 0
+html 242 3063672 0 0
+php 6552 90051376 0 0
+ttf 1746 328781670 0 0
+css 9405 85896235 0 0
+js 32708 648892845 0 0
+woff 46 3123584 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+macosx10 19 9
+macosx12 6 0
+win8 159 11
+linux 620 194
+linuxubuntu 1 1
+win8.1 502 29
+macosx6 1 1
+ios_iphone 11352 430
+ios_ipad 396 7
+Unknown 84 74
+macosx11 17 6
+macosx9 5 5
+winlong 4 4
+win2003 1 1
+win10 169574 6952
+winxp 7 7
+win7 1011 219
+unix 145 7
+macosx8 3 3
+linuxandroid 12385 510
+macosx 2764 182
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 224
+safari13.1.3 3 1
+chrome89.0.4389.114 17 17
+safari14.0.2 249 8
+safari12.1.2 153 6
+safari14.1 5 3
+safari12.0 1 1
+chrome84.0.4147.125 127 3
+chrome83.0.4103.0 2 2
+chrome50.0.2970.49 1 1
+firefox66.0 1 1
+chrome71.0.3578.98 3 3
+firefox31.0 2 2
+chrome90.0.4600.0 150 3
+chrome73.0.3683.86 1 1
+chrome35.0.1916.117 1 1
+chrome34.0.1818.0 1 1
+chrome83.0.4087.0 1 1
+firefox53.0 2 2
+chrome81.0.4044.129 39 39
+Unknown 42 42
+chrome38.0.2125.104 1 1
+chrome83.0.4103.7 2 2
+firefox78.0 5 4
+safari11.0 2 2
+chrome92.0.4515.134 45 4
+safari13.1.1 303 8
+safari9.0.2 1 1
+opera76.0.4017.222 35 1
+chrome68.0.3440.106 2 2
+chrome84.0.4147.135 1 1
+chrome48.0.2564.103 1 0
+chrome92.0.0.0 1 1
+chrome42.0.2311.90 1 1
+chrome91.0.4472.167 140 2
+chrome78.0.3904.96 7 1
+opera76.0.4017.227 1 1
+safari14.1.1 3658 133
+chrome88.0.4298.0 1 1
+chrome80.0.3987.149 36 21
+opera77.0.4054.277 2764 76
+opera77.0.4054.275 3438 116
+chrome26.0.1410.65 2 2
+chrome78.0.3904.108 63 63
+chrome37.0.2062.94 1 1
+chrome85.0.4183.101 2 1
+chrome92.0.4515.107 17664 666
+chrome74.0.3729.169 1 1
+safari10.0 2 2
+android 11 11
+chrome36.0.1985.125 2 2
+firefox63.0 2 2
+firefox84.0 8 8
+chrome7.0.540.0 1 1
+opera77.0.4054.205 12 11
+iphone 810 20
+chrome38.0.2112.0 1 1
+chrome73.0.3683.103 3 3
+opera77.0.4054.316 1 1
+chrome70.0.3538.80 2 2
+safari 1571 51
+chrome66.0.3359.170 1 1
+firefox64.0 1 1
+msie11.0 99 99
+chrome88.0.4472.114 3 0
+chrome40.0.2176.0 1 1
+chrome94.0.4603.0 1 1
+wap 1 1
+chrome38.0.2098.0 1 1
+chrome45.0.2454.94 1 1
+chrome52.0.2743.116 8 8
+chrome31.0.1602.0 1 1
+opera78.0.4093.112 59 4
+chrome35.0.1916.153 1 1
+chrome68.0.3440.75 2 2
+firefox33.0 1 1
+chrome84.0.4147.105 12 12
+chrome79.0 12 12
+firefox90.0 6257 428
+chrome85.0.4183.83 1 1
+chrome33.0.1750.46 1 1
+opera64.2.3282.60128 13 2
+chrome38.0.2125.44 1 1
+chrome88.0.4324.181 2 2
+chrome39.0.2148.0 1 1
+chrome91.0.4472.164 640 28
+chrome90.0.4430.91 3 2
+firefox92.0 6 3
+chrome92.0.4515.131 65388 2433
+chrome34.0.1847.116 2 2
+chrome79.0.3945.147 491 8
+chrome70.0.3538.77 1 1
+mozilla 37 27
+chrome81.0.4044.138 150 3
+opera12.15 4 4
+opera78.0.4093.147 2819 88
+chrome91.0.4472.88 1 1
+chrome35.0.1916.114 2 2
+chrome78.0.3904.62 3 3
+chrome91.0.4472.114 726 23
+firefox81.0 30 29
+chrome88.0.4324.190 1 1
+firefox89.0 524 14
+firefox25.0 1 1
+chrome86.0.4240.111 1 1
+opera12.10 1 1
+chrome67.0.3396.79 4 4
+chrome51.0.2704.84 16 5
+chrome83.0.4103.24 1 1
+chrome80.0.3987.116 1 1
+opera73.0.3856.424 5 1
+firefox28.0 6 6
+chrome38.0.2125.111 1 1
+opera78.0.4093.171 4 2
+opera63.3.3216.58675 2 1
+opera77.0.4054.298 1556 49
+chrome73.0.3683.90 1 1
+chrome88.0.4324.146 136 136
+firefox91.0 13129 668
+safari14.0 128 3
+safari14.1.2 4304 189
+safari13.0.4 2 2
+safari13.0.3 140 2
+chrome92.0.4515.159 60618 2267
+chrome92.0.4515.115 1657 69
+chrome90.0.4430.72 16 3
+chrome90.0.4430.210 2 1
+chrome93.0.4577.18 1 1
+opera69.0.3686.7 2 2
+chrome34.0.1802.0 1 1
+chrome90.0.4430.85 2 2
+firefox73.0 3 3
+chrome69.2.0.1713 8 1
+opera54.0.2952.71 2 2
+opera78.0.4093.186 251 7
+chrome72.0.3626.96 1 1
+chrome33.0.1750.58 1 1
+chrome90.0.4430.82 16 3
+chrome90.0.4430.40 2 1
+firefox82.0 2 2
+chrome80.0.3987.132 1 1
+chrome83.0.4093.3 1 1
+chrome84.0.4147.89 1 1
+safari13.0.5 2 2
+firefox57.0 115 3
+safari14.0.1 120 4
+chrome86.0.4240.198 4 2
+chrome83.0.4103.61 143 7
+chrome87.0.4280.101 70 4
+chrome67.0.3396.87 2 2
+netscape5.0 5 5
+chrome60.0.3112.107 6 6
+chrome41.0.2227.1 1 1
+firefox88.0 3 3
+chrome88.0.4324.141 1 1
+safari13.1.2 338 9
+firefox68.0 71 5
+chrome79.0.3945.88 11 7
+safari14.0.3 534 22
+edge18 5 3
+chrome30.0.1575.0 1 1
+firefox65.0 1 1
+chrome42.0.2360.5 1 1
+chrome93.0.4577.0 142 2
+chrome83.0.4089.0 1 1
+chrome34.0.1827.0 1 1
+chrome91.0.4472.120 437 10
+chrome89.0.4472.114 2 1
+chrome80.0.3987.122 1 1
+chrome72.0.3626.109 32 12
+opera78.0.4093.153 3208 125
+chrome91.0.4472.124 337 14
+chrome88.0.4324.152 139 2
+chrome78.0.3904.87 5 5
+chrome51.0.2704.81 1 0
+msie9.0 19 14
+opera17.0.1241.53 1 1
+firefox38.0 10 0
+chrome83.0.4103.14 1 1
+chrome88.0.4240.193 15 15
+chrome39.0.2171.95 1 1
+firefox30.0 1 1
+chrome83.0.4103.44 1 1
+chrome68.0.3432.3 25 25
+chrome77.0.3865.73 71 2
+chrome76.0.3809.71 77 4
+chrome90.0.4430.95 3 1
+chrome83.0.4103.106 139 3
+chrome92.0.4515.166 62 5
+chrome90.0.4430.212 5 2
+chrome89.0.4389.90 142 4
+chrome87.0.4280.141 1109 51
+chrome83.0.4086.0 1 1
+chrome63.0.3239.84 1 1
+chrome35.0.1916.47 2 2
+chrome59.0.3071.115 7 1
+chrome35.0.1916.125 1 1
+chrome33.0.1719.0 1 1
+chrome91.0.4472.101 155 4
+safari15.0 5 4
+edge12 2 2
+chrome34.0.1751.0 1 1
+chrome33.0.1750.154 2 2
+chrome87.0.4472.114 2 0
+chrome75.0.3770.143 81 2
+chrome90.0.4430.214 19 1
+chrome80.0.3987.121 63 3
+opera12.17 1 1
+opera12.14 2 2
+opera12.16 3 3
+chrome90.0.4430.93 4 4
+chrome77.0.3865.75 1 1
+chrome83.0.4103.97 148 121
+chrome83.0.4103.34 3 3
+opera12.11 3 3
+opera77.0.4054.278 47 1
+chrome90.0.4430.106 1 1
+firefox40.1 1 1
+chrome51.0.2704.64 5 5
+chrome86.0.4240.75 156 9
+chrome32.0.1700.102 1 1
+chrome27.0.1453.93 1 1
+chrome93.0.4577.25 65 3
+chrome91.0.4472.135 107 5
+chrome35.0.1915.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 18
+Mozilla/5.0_(compatible;_Embedly/0.2;_snap;__http://support.embed.ly/) 20210818093804
+Mozilla/5.0_zgrab/0.x 20210830132418
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20210830000411
+GRequests/0.10 20210819185355
+quic-go-HTTP/3 20210820202203
+Mozilla/5.0_(compatible;_Wappalyzer) 20210817103357
+SEMrushBot 20210827205943
+ScamadviserExternalHit/1.0 20210827040713
+Mozilla/5.0_(compatible;_vkShare;__http://vk.com/dev/Share) 20210826170543
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210831060637
+Go_http_package,gzip(gfe) 20210824040154
+Mozilla/5.0_(compatible;_Google-Test;) 20210805224726
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com,gzip(gfe) 20210823012658
+Mozilla/5.0_(compatible;_evc-batch/2.0) 20210825104944
+Go_http_package 20210830083721
+Mozilla/5.0_(compatible;_WebDataStats/1.0_;__https://webdatastats.com/policy.html) 20210805073551
+Opera_Mini/7.5.31657/30.3558;_U;_ar)_Presto/2.8.119_Version/11.10 20210829183526
+Mozilla/5.0_(compatible;_Embedly/0.2;__http://support.embed.ly/) 20210818093759
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+SEMrushBot 20210827205943
+quic-go-HTTP/3 20210820202203
+Opera_Mini/7.5.31657/30.3558;_U;_ar)_Presto/2.8.119_Version/11.10 20210829183526
+Go_http_package 20210830083721
+GRequests/0.10 20210819185355
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com,gzip(gfe) 20210823012658
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210831060637
+Go_http_package,gzip(gfe) 20210824040154
+ScamadviserExternalHit/1.0 20210827040713
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1562 2022
+From1 1 1
+From2 4740 4771
+From3 176 176
+From4 2173 192086
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 55
+www_google_com_my 1 1
+www_google_se 20 20
+www_google_no 11 11
+www_google_com_co 3 3
+bing 76 84
+www_google_cz 3 3
+www_google_ch 2 2
+www_google_lt 1 1
+google_com 0 10
+t_online_de 1 1
+search_yahoo_com 2 2
+www_google_com_tr 13 13
+www_google_hr 1 1
+www_google_pt 2 2
+duckduckgo 33 33
+www_google_si 2 2
+www_google_ru 2 2
+www_google_co_uk 35 35
+www_google_hu 10 10
+yandex 1 1
+www_google_ca 6 6
+search_yahoo_catchall 1 1
+www_google_nl 15 15
+www_google_com 4194 4207
+www_google_de 131 131
+de_search_yahoo_com 3 3
+www_google_sk 2 2
+r_search_yahoo_com 2 2
+www_google_pl 10 10
+yandexru 19 19
+uk_search_yahoo_com 2 2
+yandexcomtr 1 1
+www_google_com_vn 1 1
+www_google_ie 1 1
+www_google_dz 1 1
+www_google_com_pe 1 1
+www_google_fi 1 1
+www_google_at 23 23
+www_google_com_ar 2 2
+www_google_ro 5 5
+ecosia 6 6
+qwant_com 2 2
+www_google_it 3 3
+www_google_bg 1 1
+www_google_com_au 8 8
+www_google_com_hk 2 2
+www_google_be 8 8
+www_google_es 23 23
+search 2 2
+www_google_dk 27 27
+yahoo_catchall 1 1
+es_search_yahoo_com 2 2
+www_google_gr 3 3
+startpage 1 1
+www_google_fr 11 11
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 13
+https://t.co/Y9Pr7dPa0w 106 106
+https://l.instagram.com 24 24
+http://104.21.58.198 15 15
+http://172.67.207.58 11 11
+http://172.67.207.58:80 7 7
+http://104.21.58.198:80 6 6
+http://pesl.saxun.net 1 1
+http://fbkwriter.com/about-me/ 1 1
+https://l.instagram.com 1 1
+http://liwb.saxun.net 1 1
+http://klsmxj.olwoq.com 1 1
+http://m.facebook.com 1 1
+https://t.co 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+nova+boosting 1
+wow+boost+discord 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 5
+boosting 1
+wow 1
+discord 1
+boost 1
+nova 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+206 6 82971
+404 7825 30242236
+302 30 16186
+403 18 63018
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 520
+//wp1/wp-includes/wlwmanifest.xml 45 -
+/assets/images/BOTTLED%20ANIMA.gif 6 -
+/assets/jquery-file-upload/server/php/index.php 1 -
+/wp-admin/config.bak.php 5 anonymousfox.co
+/up.php 7 anonymousfox.co
+/magento_version 1 -
+/backup/wp-admin/install.php 1 -
+/th3_err0r.php 5 anonymousfox.co
+/assets/images/Waltz%20of%20Blood.gif 1 -
+/user/login 1 -
+/admin/index.php 2 -
+/s.php 1 -
+/sym403.php 1 -
+/xymox.html 6 -
+/3.php 1 -
+/undefined 5524 https://novaboosting.com/
+/kiss.php 1 -
+/assets/images/ShriekwingOutline-main.png 2 -
+/config.php 5 anonymousfox.co
+/.well-known/traffic-advice 2 -
+/main/ 1 -
+/Lux.php 1 -
+/altimor.html 8 -
+/wp-admin/includes/maint/repair-bak.php 1 -
+/1index.php 2 -
+/lf.php 1 -
+/index.html/assets/vendor/moment-timezone/builds/moment-timezone-with-data.min.js 1 -
+/wso1337.php 1 -
+/wp2.php 1 -
+/index.rss 2 -
+/assets/images/Stonelegion-Map%20Layout%20Section-18.png 1 -
+/wp-file.php 1 -
+/2019/ 1 -
+/stonelegion.html 6 -
+/new/ 2 -
+/assets/admin/js/plugins/elFinder/php/connector.minimal.php 1 -
+/index.html/assets/vendor/soundmanager2/script/soundmanager2-nodebug-jsmin.js 1 -
+/wp-content/wp-admin.php 1 -
+/wp-content/includes/uploads/Va.php 1 -
+/assets/images/CONTAINER%20BREACH.gif 6 -
+/cms.php 1 -
+/wp-admin/includes/class-wp-media-list-data.php 1 -
+/haders.php 5 anonymousfox.co
+/bk/ 1 -
+/wp-content/langar.php 5 anonymousfox.co
+/y.php 1 -
+/wikindex.php 1 -
+/assets/vendor/gsap/src/minified/tweenmax.min.js 1 -
+/xmlrp.php 5 anonymousfox.co
+/assets/images/VICIOUS%20LUNGE.gif 7 -
+/leafmailer2.8.php 2 -
+/nasgor.php 1 -
+/assets/images/Xy_RelicPhase1-1.png 1 https://novaboosting.com/assets/images/Xy_RelicPhase1-1.png
+/application/configs/application.ini 1 -
+/modules/jmsslider/ajax_jmsslider.php 1 -
+/modules/smartprestashopthemeadmin/ajax_smartprestashopthemeadmin.php 1 -
+/modules/jmsslider/views/img/layers/up.php 1 -
+/ads.txt 12 http://novaboosting.com/ads.txt
+/assets/images/Danse%20Macabre.gif 3 -
+/assets/images/ShriekwingOutline.png 2 -
+/xx.php 2 -
+/test/wp-admin/install.php 1 -
+/upload.php 6 anonymousfox.co
+/q.php 1 -
+/wordpress/wp-admin/install.php 1 -
+/boom.php 5 anonymousfox.co
+/bc/ 1 https://novaboosting.com/bc/
+/wp-content/mu-plugins/db-safe-mode.php 5 anonymousfox.co
+/administrator/index.php 2 -
+/resource/js/corelang.js 1 https://novaboosting.com/resource/js/corelang.js
+/xxx.php 1 -
+/user/login/ 1 -
+/1033.php 1 -
+/alfindex.php 5 anonymousfox.co
+//2020/wp-includes/wlwmanifest.xml 15 -
+/wp-admin/css/modern/colors.css.php 1 -
+/assets/images/STASIS%20TRAP.gif 4 -
+/wp-includes/small.php 5 anonymousfox.co
+/phpinfo 3 -
+/indy/indy.css 1 https://novaboosting.com/indy/indy.css
+/g.php 1 -
+/bak/ 1 -
+/assets/images/SHADE%20OF%20KAELTHAS.gif 6 -
+/administrator 1 https://novaboosting.com/administrator
+/new-site/ 1 -
+/feeds 2 -
+/install/ 1 -
+/FoxWSO.php 1 -
+/assets/images/SINS%20AND%20SUFFERING.gif 6 -
+/config.bak.php 5 anonymousfox.co
+/assets/images/Sludgefist_Mythic.png 2 -
+/admin/cms/login/ 1 https://novaboosting.com/admin/cms/login/
+/assets/images/CHAIN%20SLAM.gif 5 -
+/assets/images/FATAL%20FINESSE.gif 1 -
+/c.php 1 -
+/kindex.php 1 -
+/xchris.exe.php 1 -
+//site/wp-includes/wlwmanifest.xml 45 -
+/assets/images/RAVENOUS%20FEAST.gif 2 -
+/symlink.php 1 -
+/index.html/assets/vendor/hammerjs/hammer.min.js 1 -
+/index.html/assets/vendor/summernote/dist/summernote-bs4.min.js 1 -
+/assets/images/Lady_Inerva_Overview.png 1 -
+/test.php 4 anonymousfox.co
+/index.html/assets/vendor/jarallax/dist/jarallax-video.min.js 1 -
+/ru/admin/login.html 1 https://novaboosting.com/ru/admin/login.html
+/wordpress/ 4 -
+/home/ 1 -
+/misc/ajax.js 2 -
+/siredenathrius.html 7 -
+/netcat/ 1 https://novaboosting.com/netcat/
+/adm/css/errors.css 1 https://novaboosting.com/adm/css/errors.css
+/wp/wp-admin/install.php 2 -
+/wp-includes/sys.php 1 -
+//blog/wp-includes/wlwmanifest.xml 45 -
+/alexusmailer%202.0.php 1 -
+/uploads/contexmini.php 1 -
+//media/wp-includes/wlwmanifest.xml 24 -
+/js/header-rollup-554.js 2 -
+/xindex.php 1 -
+/autoload_classmap.php 1 -
+/streaming/clients_live.php 7 -
+/assets/images/ANIMA%20RELEASE.gif 5 -
+/index.html/assets/vendor/bootstrap/dist/js/bootstrap.min.js 1 -
+/87.php 1 -
+/site/wp-admin/install.php 1 -
+/assets/images/AltimorOutline.png 3 -
+/modules/bamegamenu/ajax_phpcode.php 1 -
+/41.php 1 -
+/assets/images/FLEETING%20SPIRITS.gif 4 -
+/ohayo.php 1 -
+/wp-content/plugins/config.bak.php 5 anonymousfox.co
+/administrator/help/en-GB/toc.json 2 -
+/2018/ 1 -
+/modules 1 https://novaboosting.com/modules
+/app_master/telerik.web.ui.dialoghandler.aspx 1 -
+/alexuse.php 1 -
+/srx.php 1 -
+/rahma.php 1 -
+/assets/images/SEED%20OF%20EXTINCTION.gif 5 -
+/media-admin.php 1 -
+//sito/wp-includes/wlwmanifest.xml 45 -
+/wso.php 2 -
+/new-index.php 1 -
+/config/aws.yml 3 -
+/assets/images/Sire_Phase1-1.png 2 https://www.google.com/
+/test/ 2 -
+/index.html/assets/plugins/nk-share/nk-share.js 1 -
+/backup/ 3 -
+/wso1.php 1 -
+/wp-json/wp/v2/users 1 -
+/assets/images/EDGE%20OF%20ANNIHILATION.gif 5 -
+/assets/images/HATEFUL%20GAZE.gif 1 -
+/assets/images/AltimorOutline-main.png 2 -
+/assets/images/CONCENTRATED%20ANIMA.gif 3 -
+/WSO.php 1 -
+/assets/images/SINS%20OF%20THE%20PAST%20ORBS.gif 6 -
+/assets/images/Shriek_Mythic1-1.png 3 -
+/lol.php 1 -
+/moduless.php 5 anonymousfox.co
+/.well-known/apple-app-site-association 2 https://novaboosting.com/
+/assets/images/Sludgefist_Phase1-1.png 1 -
+/wp-includes/css/css.php 5 anonymousfox.co
+/wp-confiig.php 1 -
+/index.html/assets/vendor/gsap/src/minified/tweenmax.min.js 1 -
+/alfa.php 6 anonymousfox.co
+/wp-admin/includes/maint/wp-cron.php 1 -
+/modules/verticalmegamenus/VerticalMegaMenusUploadImage.php 1 -
+/static/common.css 1 https://novaboosting.com/static/common.css
+/haxor.php 2 -
+/style.php 5 anonymousfox.co
+/assets/images/GLYPH%20OF%20DESTRUCTION.gif 7 -
+/wp-login.php 64 -
+/modules/mod_stats.xml 1 https://novaboosting.com/modules/mod_stats.xml
+//wp2/wp-includes/wlwmanifest.xml 45 -
+/assets/images/ANIMA%20WEB.gif 4 -
+/wp-content/plugins/t_file_wp/t_file_wp.php 5 anonymousfox.co
+/assets/images/RIFT%20BLAST.gif 2 -
+/403.php 1 -
+/assets/images/Shriek_Phase2.png 1 -
+/cms/lang/ru_utf8/css/sbIndex.css 1 https://novaboosting.com/cms/lang/ru_utf8/css/sbIndex.css
+/sym.php 1 -
+/404.php 1 -
+/index.html/assets/vendor/jarallax/dist/jarallax.min.js 1 -
+/r.php 1 -
+/assets/images/sireoutline.png 2 -
+/2index.php 2 -
+/owl.php 1 -
+/index.rdf 2 -
+/admin/includes/general.js 2 -
+/assets/images/Blood_Lantern.gif 1 -
+/index.xml 2 -
+/sitemap.xml 12 http://novaboosting.com/sitemap.xml
+/www.novaboosting.com/assets/images/favicon.png 1 -
+/fa.php 1 -
+/XxX.php 2 -
+/wso2.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 15 -
+/te3/signup.php 1 -
+/p.php 1 -
+/.fk.php 1 -
+/wp-configer.php 1 -
+/new/wp-admin/install.php 1 -
+/alfa123.php 1 -
+//cms/wp-includes/wlwmanifest.xml 45 -
+/sites/default/files/ 18 binance.com
+/assets/images/Stonelegion-Map%20Layout%20Section-32.png 2 -
+//shop/wp-includes/wlwmanifest.xml 39 -
+/vendor/phpunit/phpunit/build.xml 2 -
+/web/wp-admin/install.php 1 -
+/DesktopModules/dnnWerk.RadEditorProvider/DialogHandler.aspx 1 -
+/stalker_portal/c/version.js 7 -
+/mini.php 1 -
+/administrator/language/en-GB/install.xml 2 -
+/assets/images/Hungering_Phase1.png 1 -
+/hello.php 1 -
+/dev/ 1 -
+/data.php 1 -
+/.wp-cache.php 1 -
+/nee.php 1 -
+/c/version.js 7 -
+/_profiler/phpinfo 3 -
+//news/wp-includes/wlwmanifest.xml 45 -
+/na-guilds.html 37 -
+/1337.php 2 -
+/FoxWSOv1.php 1 -
+/assets/images/RIP%20SOUL.gif 6 -
+/alf.php 1 -
+/eu-guilds.html 43 -
+/credits.txt 6 -
+/wp-rss.php 1 -
+/777.php 1 -
+/config.js 3 -
+/web/ 1 -
+/etm/indy.css 1 https://novaboosting.com/etm/indy.css
+/nathria.html 12 -
+/wp.php 1 -
+/aws.yml 3 -
+/old/wp-admin/install.php 1 -
+/sludgefist.html 5 -
+/i.php 1 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/skins/simpla_blue/style.css 1 https://novaboosting.com/skins/simpla_blue/style.css
+/this-is-cms-s3 1 https://novaboosting.com/this-is-cms-s3
+/Install/InstallWizard.aspx 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 2 -
+/wp-admin/includes/edit-tag-menu.php 1 -
+/shell.php 2 -
+/js/lang/ru_RU/translate.js 1 https://novaboosting.com/js/lang/ru_RU/translate.js
+/it.php 1 -
+/rss.xml 2 -
+/assets/vendor/jarallax/dist/jarallax-video.min.js.map 15 -
+/assets/images/Altimor_Add.png 2 -
+/stindex.php 1 -
+/vuln.php 1 -
+//2018/wp-includes/wlwmanifest.xml 24 -
+/assets/js/elfinder/php/connector.minimal.php 1 -
+/modules/verticalmegamenus/images/temps/up.php 1 -
+/engine/classes/js/dle_js.js 1 https://novaboosting.com/engine/classes/js/dle_js.js
+/legion.php 5 anonymousfox.co
+/admin/controller/extension/extension/ 18 binance.com
+/adm/ 1 https://novaboosting.com/adm/
+/sunking.html 4 -
+/MARIJUANA.php 1 -
+/assets/images/COMMAND%20MASSACRE.gif 2 -
+/f.php 1 -
+/priv8.php 1 -
+/wp-admin/install.php 2 -
+/assets/images/EMBER%20BLAST.gif 5 -
+/wp/ 10 -
+/wp-includes/js/jquery/jquery.js 2 -
+/bypass.php 1 -
+/if.php 1 -
+/baindex.php 1 -
+/wp-content/db_cache.php 5 anonymousfox.co
+/wp-admin/includes/readindex.php 1 -
+/13.php 1 -
+/old/ 8 -
+//test/wp-includes/wlwmanifest.xml 45 -
+/images/editor/separator.gif 2 -
+/wp-booking.php 5 anonymousfox.co
+/a.php 1 -
+/edit-form.php 2 -
+/index.html/assets/vendor/object-fit-images/dist/ofi.min.js 1 -
+/Gel.php 1 -
+/DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx 1 -
+/index.html/assets/js/goodgames-init.js 1 -
+/alwso.php 1 -
+/sendmail.php 1 -
+/apple-touch-icon.png 4 -
+/!.php 1 -
+/admin.php 7 https://novaboosting.com/admin.php
+/wp-admin/includes/maint/wp-readindex.php 1 -
+/wp-includes/css/wp-config.php 5 anonymousfox.co
+/manager/ 1 -
+/www.php 1 -
+/index.html/assets/vendor/fontawesome-free/js/v4-shims.js 1 -
+/wp-admin/css/ 18 binance.com
+/admin 1 https://novaboosting.com/admin
+/.env 75 -
+/index.html/assets/vendor/jquery-validation/dist/jquery.validate.min.js 1 -
+/4price.php 1 -
+/wp-content/wp-1ogin_bak.php 5 anonymousfox.co
+/info.php 3 -
+/site/ 1 -
+/Cpanel.php 1 -
+/sh3ll.php 1 -
+/hungering.html 6 -
+/administrator/ 3 -
+/xmlrpc.php 32 -
+/feed 2 -
+/0.php 1 -
+//wp-json/wp/v2/users 1 -
+/wp-content/plugins/ioptimization/IOptimize.php 6 anonymousfox.co
+/blog/ 6 -
+/mailer.php 1 -
+/ckeditor/ckfinder/core/connector/php/connector.php 1 -
+/wp-1ogin_bak.php 5 anonymousfox.co
+/admin/images/cal_date_over.gif 1 -
+/wp-admin/upload_index.php 1 -
+/assets/images/CHAIN%20LINK.gif 6 -
+/assets/images/sludgebg.png 1 -
+/index.html/assets/vendor/jquery-countdown/dist/jquery.countdown.min.js 1 -
+/index.html/assets/vendor/fontawesome-free/js/all.js 1 -
+/index.html/assets/js/goodgames.min.js 1 -
+/wp-wso.php 1 -
+//wordpress/wp-includes/wlwmanifest.xml 45 -
+/edc_admin/Login/Style.css 1 https://novaboosting.com/edc_admin/Login/Style.css
+/v.php 1 -
+//wp-includes/wlwmanifest.xml 44 -
+/wp-admin/includes/media-site.php 1 -
+/assets/images/counciloutline-main.png 4 -
+/uploads/ 18 binance.com
+/gallery.html 6 -
+/ups.php 1 -
+/user/ 1 -
+/wp-content/plugins/iva-business-hours-pro/assets/fontello/LICENSE.txt 2 -
+/assets/images/PETRIFYING%20HOWL.gif 5 -
+/novaboosting.zip 24 http://novaboosting.com/novaboosting.zip
+/bb.php 2 -
+/larva.php 5 anonymousfox.co
+/wp-content/wp-old-index.php 5 anonymousfox.co
+/wp-content/uploads/small.php 1 -
+/assets/images/Shriek_Phase1-1.png 3 -
+/mi.php 1 -
+/w.php 1 -
+/h.php 1 -
+/tmp/ 1 -
+/leaf.php 2 -
+/kn.php 1 -
+/2.php 1 -
+/index.php 8 -
+/alexus-mailer.php 1 -
+/o.php 1 -
+/assets/images/Bargast.png 1 -
+/wp-confirm.php 1 -
+/assets/vendor/jarallax/dist/jarallax.min.js.map 15 -
+/demo/ 1 -
+/wp-ad.php 2 -
+/wi.php 1 -
+/blog/wp-login.php 1 -
+/blog/wp-admin/install.php 2 -
+/m.php 2 -
+/wp-content/themes/config.bak.php 5 anonymousfox.co
+/emergency.php 1 -
+/assets/images/sirebg.png 1 -
+/shx.php 1 -
+/shriekwing.html 6 -
+/old-site/ 1 -
+//wp/wp-includes/wlwmanifest.xml 45 -
+/wp-admin/includes/block-line.php 1 -
+/assets/images/REBORN%20PHOENIX.gif 4 -
+/assets/images/COLOSSAL%20ROAR.gif 2 -
+/assets/images/Sunkingoutline-main.png 2 -
+/https://www.facebook.com/sharer/sharer.php 38 -
+/dr.php 1 -
+/7yn.php 1 -
+/Sendemail.php 1 -
+/ok.php 1 -
+/index.html/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js 1 -
+/streamers.html 7 -
+/wp-uploads.php 1 -
+/rss.php 1 -
+/assets/images/FRACTURED%20BOULDER.gif 5 -
+/inerva.html 7 -
+//xmlrpc.php 45 -
+/olu.php 1 -
+/j.php 1 -
+/mar.php 1 -
+/wp-admin/includes/tablepress_controllers.php 1 -
+/index.html/assets/vendor/jquery/dist/jquery.min.js 1 -
+/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php 5 anonymousfox.co
+/wp-content/uploads/readindex.php 1 -
+/https://discord.gg/cH6gAzTHV7 6 -
+/.aws/credentials 4 -
+/k.php 1 -
+/cms/ 2 https://novaboosting.com/cms/
+/oldsite/wp-admin/install.php 1 -
+/cindex.php 5 anonymousfox.co
+/assets/images/Sire_Phase1.png 1 -
+/apple-touch-icon-120x120.png 1 -
+/new.php 1 -
+/xo.php 1 -
+/wp-one.php 1 -
+/temp/ 2 -
+/assets/images/Stonelegion-Map%20Layout%20Section-20.png 1 -
+/d.php 1 -
+/desktopmodules/telerikwebui/radeditorprovider/telerik.web.ui.dialoghandler.aspx 1 -
+/anone.php 1 -
+//web/wp-includes/wlwmanifest.xml 45 -
+/wp-json/wp/v2/users/ 1 http://novaboosting.com/wp-json/wp/v2/users/
+/kk.php 1 -
+/wp-content/wp-logins.php 1 -
+/assets/images/Bargast2.png 2 -
+/humans.txt 3 http://novaboosting.com/humans.txt
+/t.php 1 -
+/static/cartreminder.js 1 https://novaboosting.com/static/cartreminder.js
+/manager 1 https://novaboosting.com/manager
+/wp-includes 2 www.google.com
+/index.html/assets/vendor/bootstrap-slider/dist/bootstrap-slider.min.js 1 -
+/100.php 1 -
+/content.php 1 -
+/x.php 2 -
+/old-wp/ 1 -
+/wp-content/plugins/wpdiscuz/themes/default/style-rtl.css 5 anonymousfox.co
+/wp-includes/fonts/css.php 5 anonymousfox.co
+/alexus.php 1 -
+//.env 2 -
+/assets/vendor/summernote/dist/summernote-bs4.min.js.map 15 -
+/11index.php 1 -
+/old-index.php 6 anonymousfox.co
+/assets/images/PIERCE%20SOUL.gif 4 -
+/alex.php 1 -
+/cpanel.php 1 -
+/admin/login.php 1 https://novaboosting.com/admin/login.php
+/fw.php 1 -
+/assets/images/stoneoutline-main.png 1 -
+/admin/users/login_do/ 1 -
+/apple-touch-icon-precomposed.png 3 -
+/assets/vendor/nanoscroller/bin/javascripts/jquery.nanoscroller.js.map 1 -
+/v2/ 1 -
+/cms/wp-admin/install.php 1 -
+/assets/images/SOUL%20INFUSION.gif 5 -
+/council.html 7 -
+/.well-known/ 18 binance.com
+/wp-includes/wpconfig.bak.php 5 anonymousfox.co
+/index.html/assets/vendor/gsap/src/minified/plugins/scrolltoplugin.min.js 1 -
+/wp-content/ 7 -
+//2019/wp-includes/wlwmanifest.xml 39 -
+/icms 1 https://novaboosting.com/icms
+/assets/images/SHADES%20OF%20BARGAST.gif 7 -
+/plugins/system/debug/debug.xml 2 -
+//website/wp-includes/wlwmanifest.xml 45 -
+/wp2/ 1 -
+/u.php 1 -
+/e.php 1 -
+/login 1 https://novaboosting.com/login
+/wp-admin/includes/mar.php 1 -
+/wp-includes/lfx.php 5 anonymousfox.co
+/blog.php 1 -
+/2020/ 1 -
+/admin/textolite.css 1 https://novaboosting.com/admin/textolite.css
+/wp1/ 1 -
+/wp-admin.php 1 -
+/assets/images/Council_Overview1.png 1 -
+/admin/view/javascript/common.js 3 https://novaboosting.com/admin/view/javascript/common.js
+/wp-includes/config.bak.php 5 anonymousfox.co
+/assets/images/SEISMIC%20SHIFT.gif 5 -
+/.well-known/gpc.json 1 https://novaboosting.com/
+/doc.php 1 -
+/assets/images/Hungeringbg.png 3 -
+/cp.php 1 -
+/modules/groupcategory/GroupCategoryUploadImage.php 1 -
+/assets/images/ESSENCE%20FONT.gif 5 -
+/assets/images/counciloutline.png 1 -
+/assets/images/DESTRUCTIVE%20STOMP.gif 5 -
+/qindex.php 1 -
+/root.php 1 -
+/.well-known/assetlinks.json 2 https://novaboosting.com/
+/providers/htmleditorproviders/telerik/telerik.web.ui.dialoghandler.aspx 1 -
+/vendor/phpunit/phpunit/phpunit.xml 1 -
+/wp-content/plugins/ubh/up.php 5 anonymousfox.co
+/n.php 1 -
+/ws.php 1 -
+/b.php 1 -
+/wp-admin/css/ie.css 1 -
+/phpinfo.php 3 -
+/defau1t.php 1 -
+/stream/live.php 7 -
+/wp-content/config.bak.php 5 anonymousfox.co
+/scripts/admin/popup.js 1 https://novaboosting.com/scripts/admin/popup.js
+/vita.php 1 -
+/index.html/assets/vendor/photoswipe/dist/photoswipe.min.js 1 -
+/mscms/ 1 https://novaboosting.com/mscms/
+/sindex.php 1 -
+/assets/images/ANIMA%20WEB%20ROTATE.gif 6 -
+/send.php 1 -
+/wpindex.php 5 anonymousfox.co
+/wp/rahma.php 1 -
+/c99.php 2 -
+/wp-content/plugins/backup_index.php 5 anonymousfox.co
+/wp-content/plugins/wpconfig.bak.php 5 anonymousfox.co
+/0byte.php 1 -
+/.env.bak 3 -
+/xox.php 1 -
+/mrjn.php 1 -
+/system_api.php 7 -
+/wordpress/wp-admin/ 1 http://novaboosting.com/
+/https://novaboosting.com/ 2 -
+/admin/ 2 -
+/3index.php 1 -
+/images/vuln.php 1 -
+/v1/ 1 -
+/css/admin/layout.css 1 https://novaboosting.com/css/admin/layout.css
+/1.php 1 -
+/l.php 1 -
+/.well-known/security.txt 1 https://novaboosting.com/
+/z.php 1 -
+/wp-blog.php 1 -
+/assets/images/sireoutline-main.png 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2682
+87.98.241.180 6622 6722 94010639 20210831235951
+2a01:79e:7be1:a1bc:710d:56c1:c194:e54a 4 19 1420036 20210825161234
+46.227.241.120 4 158 22870170 20210806180418
+2003:e0:9f04:4100:84c7:a0f3:50ba:fef1 4 4 457738 20210812173126
+136.35.235.253 3 286 37579638 20210814020715
+5.24.38.20 3 203 25787115 20210825215231
+24.118.35.122 3 268 36465009 20210822225908
+2003:d1:4f04:9360:48e2:798c:d508:2c97 3 48 7362954 20210822135540
+2001:b07:5d2a:6cc9:a890:62a7:1af2:3f6d 3 84 7139657 20210802084012
+2600:380:e8a2:3656:1568:c489:82c4:4972 3 3 269230 20210801193548
+2001:4c4e:2680:1f00:30d7:f147:ffd7:b333 1 124 14114160 20210824174344
+37.48.17.131 1 138 18550241 20210824120948
+78.185.155.81 1 136 16417940 20210812090223
+2a02:2f0a:b409:7100:308d:67b6:ab26:1f96 1 23 1569045 20210810122753
+78.45.22.106 1 147 19107944 20210830101557
+185.68.217.157 1 139 18670500 20210826065406
+82.41.193.113 2 131 16352408 20210824130202
+86.120.128.133 0 6 192191 
+47.60.50.176 1 151 19160655 20210830132740
+2600:1007:b0da:9348:9109:293a:a3cf:95e7 1 138 18556138 20210806183644
+212.112.151.4 1 1 12818 20210809123006
+2a02:1811:3c0a:2700:10ba:72d8:9cf8:1e9c 1 5 158739 20210812134854
+67.170.142.115 1 147 19016566 20210823224929
+83.233.132.223 0 1 8279 
+97.71.146.67 1 148 19018112 20210819053749
+2.68.166.59 1 148 19018182 20210808142330
+2603:8000:be46:2e70:840c:a9f7:7767:bf28 1 145 18979504 20210808160209
+181.162.18.76 1 141 18569900 20210818053203
+178.175.132.77 1 120 15070477 20210809180227
+31.4.241.26 1 157 19387333 20210815212023
+2a02:587:4c01:1b0b:782e:61a6:eb27:4424 1 18 1935518 20210817172855
+2a02:a31a:e03c:5980:6859:143c:f54e:895e 1 1 67904 20210816112958
+181.9.140.75 1 145 19108474 20210827082212
+2003:d0:9f3c:8c5a:468:d82:6acf:3aaf 1 110 15421510 20210831195754
+47.201.229.43 1 138 18550253 20210816030608
+46.196.74.136 0 5 16036 
+213.149.57.222 1 1 12818 20210811165156
+85.13.73.240 1 137 18548746 20210809145322
+86.85.9.90 1 12 1400724 20210805152414
+2a02:ab88:2a42:1d00:a404:fa8f:f3bb:89b0 0 109 16630896 
+174.21.66.56 1 136 14759848 20210829143225
+70.50.82.180 0 1 105455 
+98.128.229.151 1 133 17748422 20210810203028
+84.25.137.71 0 5 16036 
+89.109.93.200 1 138 18550291 20210801220217
+2601:18c:ce7f:9750:2946:fabe:2b47:2dd7 1 148 19018136 20210817002312
+75.84.190.21 2 275 35008734 20210802213958
+2a02:a457:99d3:1:b476:cd8e:316e:e790 0 1 12640 
+45.135.187.94 1 147 19016491 20210824212253
+45.70.56.66 1 138 18550279 20210809150012
+186.176.72.164 1 149 19135428 20210826204930
+143.55.59.212 1 135 16703555 20210829033832
+81.235.221.239 1 138 18550241 20210820130050
+95.70.244.181 1 147 19012672 20210801160657
+2a02:2f0f:8010:7600:943:5b1f:3bb4:dc4e 0 75 13378200 
+93.41.153.9 1 138 18550241 20210820173847
+31.6.188.194 1 7 700631 20210818211002
+2a0a:a540:28fc:0:e177:809c:e040:96d2 2 38 4066327 20210826131101
+2a00:f41:8022:752d:0:50:5790:f401 0 3 222106 
+82.29.31.172 0 19 624221 
+62.176.88.252 0 1 72508 
+79.70.97.151 1 2 69525 20210806193134
+212.95.5.180 0 16 292942 
+2a02:560:4253:fc00:956e:2e54:92a:1e76 2 48 6044966 20210819193831
+2600:6c5d:17f:1393:956f:8f13:4c35:7378 1 138 18550241 20210814022611
+46.2.234.72 1 315 40249656 20210813124304
+81.198.159.204 1 149 19135428 20210831064722
+160.176.69.128 1 145 18569705 20210804123034
+174.208.237.12 1 92 12314792 20210819150107
+2003:fa:bf06:c4a1:49fc:8c40:3ae6:2bcb 0 3 1688766 
+24.138.52.175 1 148 19018112 20210813165700
+188.143.108.243 0 91 13505321 
+83.55.209.252 1 62 11697557 20210809212436
+77.249.134.98 1 54 3496272 20210818153301
+2a03:2880:21ff:b::face:b00c 0 14 2387670 
+84.63.175.89 1 1 12822 20210831195447
+2a09:5e40:304b:40:ed73:5e15:3e83:b5b1 1 1 188508 20210808174821
+178.222.4.1 0 1 14085 
+2003:d0:8f20:4f00:45d8:75e2:905b:8432 1 5 238882 20210802131750
+5.193.79.195 0 2 157753 
+2001:16b8:1e31:9700:905e:48dc:79f9:989a 2 256 34536006 20210831182745
+88.240.210.116 1 128 16172103 20210802105635
+2402:800:628f:3568:cce7:78eb:2c0b:d511 1 68 12203997 20210808044855
+2800:484:4287:9b00:6070:dc2d:1878:2173 1 138 18550241 20210821032910
+62.166.179.153 1 8 2708313 20210813062050
+84.249.196.246 1 102 11282974 20210805142727
+78.160.7.195 1 131 17274951 20210815123015
+98.114.62.69 2 199 32603245 20210821030317
+155.190.18.6 0 1 105455 
+49.228.149.123 1 151 19245922 20210830153453
+77.6.130.49 1 53 5967439 20210823082502
+79.47.179.90 1 136 18476393 20210804135407
+88.230.7.42 1 131 18465306 20210824173842
+2001:8a0:e3fb:9e00:9116:701d:f1b4:ded3 1 135 15636831 20210809150036
+86.123.22.118 0 38 2921319 
+105.106.78.208 1 71 7352174 20210825012216
+112.207.104.113 2 257 24649066 20210815150321
+105.209.148.136 1 138 18550241 20210823120651
+109.95.143.7 1 146 19011453 20210811115012
+176.159.78.148 1 65 11717228 20210809153947
+2a02:2f0f:d006:9c00:505b:8c1b:f61:aea5 0 1 42577 
+2003:e9:7f3c:9962:45ae:3a86:a789:2a40 1 1 188508 20210803165123
+109.49.57.202 1 86 16196035 20210823212429
+185.229.154.127 0 8 476905 
+2601:903:4000:8190:6150:3607:17f:a3c9 1 141 18572417 20210816204410
+2001:16b8:4925:d700:356f:4436:3977:d670 1 1 67904 20210804094506
+85.138.86.68 1 1 188508 20210817213245
+77.20.174.144 0 2 47265 
+69.112.23.46 1 139 18552304 20210810010109
+2001:8f8:183d:d950:303a:e9d2:3465:eae4 1 122 6261032 20210830101346
+2003:ed:b743:7773:cc21:d8d2:357a:c722 0 1 113561 
+86.49.235.92 0 2 142448 
+2407:7000:884e:ec00:653b:30fc:b8e:314c 1 147 19014533 20210811095529
+2a02:3030:1:ac06:45c5:ccca:95:b53d 1 1 188508 20210812205428
+79.153.182.159 1 1 12822 20210826141700
+2a01:5ec0:d801:57c2:e44f:3eae:75ff:327e 0 3 727200 
+2407:7000:884e:ec00:8d92:965c:26b:7dee 1 74 12701677 20210809044102
+88.246.79.230 1 135 18475331 20210815021207
+2001:871:24d:2f10:b88c:d2a9:630c:ade4 1 70 6705340 20210822063157
+2a02:8108:8140:338:1c4c:9878:eaf8:3fd2 0 1 62605 
+2604:3d09:677d:8000:b8c5:1684:8bbf:6ca2 1 138 18550376 20210809024118
+134.19.103.65 0 2 11654 
+74.76.223.237 1 113 13795578 20210827203143
+2806:101e:9:5577:f59c:720c:287d:22e6 1 135 18901602 20210811183510
+79.116.94.201 0 31 5175024 
+88.95.178.121 0 2 6838 
+94.64.46.75 1 36 5320206 20210824161633
+84.236.52.108 0 10 793355 
+65.186.53.254 0 1 321125 
+52.144.116.148 2 148 19205322 20210828024720
+2a02:1205:34f6:1fb0:148b:9fb2:7a44:18c8 1 11 1621822 20210803151048
+2a00:1110:208:46ac:0:62:daaf:ce01 1 148 19018124 20210816152802
+78.172.79.223 1 137 18469586 20210827114302
+2a02:c7e:1e24:3c00:84f:da2b:1884:aedc 0 1 9911 
+201.186.24.250 1 7 681136 20210803163431
+80.210.79.173 0 5 16036 
+34.106.116.30 1 148 19018202 20210808115612
+77.0.176.66 1 39 3941325 20210817085036
+95.90.224.22 1 5 2256161 20210813151124
+176.179.80.197 1 1 188508 20210827110302
+109.241.170.123 1 110 15929665 20210827203228
+194.169.84.79 1 35 3564554 20210831031102
+176.23.51.180 1 1 188508 20210809172010
+84.80.90.109 0 5 619863 
+95.105.177.172 1 148 19131625 20210831224406
+199.7.158.58 2 127 17585041 20210815162200
+87.48.9.99 1 3 261927 20210810000641
+213.113.3.41 1 143 18991559 20210810121822
+78.190.105.236 1 132 18467247 20210824154426
+94.31.84.191 1 87 13348972 20210811164611
+109.36.133.152 1 32 2073954 20210827055000
+2601:281:c501:7f10:201c:8596:52fe:c395 1 86 11961664 20210810001347
+185.229.155.106 1 1 12831 20210802194737
+142.118.32.107 1 139 18552279 20210812033318
+2601:240:d700:1330:3573:b2d0:cb72:db38 1 133 18493094 20210825125213
+2001:8f8:1a65:9586:d86b:8d84:2df7:9e10 1 144 19008087 20210816202735
+91.218.190.246 0 1 14085 
+2601:410:280:4390:f187:736:cdde:a8ae 1 108 13251264 20210824015449
+2001:b07:5d2a:6cc9:8481:f4b4:b003:1ee9 1 135 18352093 20210818101430
+2601:601:9f80:3d90:685a:52d6:b967:cb63 1 112 16227967 20210810203620
+178.233.148.140 1 126 16163640 20210801114721
+2001:4c4c:14cf:900:c0db:55a:3ed6:7b55 1 98 12206854 20210823172011
+213.32.243.96 0 2 20919 
+92.221.255.146 1 1 12818 20210817094439
+2603:7000:6a00:a69d:1049:41ff:a6e0:4a4c 1 24 476356 20210817040944
+113.31.155.140 0 1 2064787 
+91.43.74.67 1 1 188508 20210812144032
+95.175.75.120 1 120 15070477 20210809005129
+83.37.119.220 1 1 188508 20210813020158
+104.200.151.123 1 148 19018112 20210813203504
+2001:999:42:b31e:25a7:6252:ac01:628 1 128 18534672 20210820145745
+83.226.56.112 1 116 18284798 20210820234200
+89.74.40.174 1 18 826290 20210808082908
+2a01:799:de1:3100:6ccb:293c:e148:d26f 1 138 18550241 20210820190806
+34.138.204.220 0 1 1546 
+81.225.216.135 1 283 32724125 20210815203151
+68.20.5.175 1 146 19127197 20210831230307
+186.4.54.14 0 1 8706 
+2a01:cb05:8b7a:3f00:1d71:b1c7:8a09:7e1 1 1 188508 20210808215426
+91.39.206.87 1 1 67904 20210823225853
+80.114.26.216 1 1 188508 20210829071035
+2001:818:e96e:4800:f4fd:5cc:6603:31c9 0 1 1546 
+84.236.71.184 0 15 1490046 
+78.31.84.122 1 222 26424147 20210805191120
+85.104.17.143 1 132 16525174 20210801124708
+79.53.227.83 1 44 3554273 20210820160850
+2003:e2:b735:98b3:d810:fa:484a:84d9 1 93 14252239 20210808171932
+2a02:810d:abc0:1888:7824:ffa8:a806:53c2 0 2 45714 
+2a02:560:424b:5b00:119a:18be:58ed:83f9 1 104 15048527 20210826174728
+142.162.253.56 0 119 18106340 
+79.186.61.154 0 26 1123956 
+2a02:2f07:b200:e500:5db5:699b:d37d:a3cf 0 55 4443347 
+128.90.169.240 1 53 3494726 20210819190003
+45.86.200.10 0 4 15418 
+84.48.181.134 1 1 188508 20210813231556
+208.68.252.24 1 141 18567162 20210822080404
+62.231.72.83 1 149 19135428 20210830153557
+80.212.219.100 1 1 188508 20210822153402
+62.42.132.64 1 5 308301 20210818225853
+77.222.118.144 1 3 563406 20210812002750
+103.89.179.193 1 140 19068256 20210831004956
+174.91.82.226 1 138 18550300 20210810134755
+176.179.155.152 0 1 36684 
+88.6.178.20 1 138 18550407 20210804135138
+212.102.52.76 0 2 106211 
+2001:ee0:4bc2:8310:901c:944b:17ec:b980 0 1 1136191 
+88.88.117.122 1 1 188508 20210817191558
+18.116.86.92 0 1 361801 
+2401:7400:c802:ea75:1d21:c0a5:1d7e:9bee 2 298 37287019 20210825062442
+89.177.101.196 2 139 18563059 20210824154317
+2003:c8:670b:24d7:e19d:480c:840f:4e1a 1 98 14350008 20210826103322
+2001:818:eaff:1600:bda9:7a38:e003:1d9d 1 50 4993633 20210810225052
+2a01:c23:88ee:3b00:59f7:592a:8d56:c29c 1 104 15002101 20210825173504
+2601:243:ca00:2af:a870:2ad7:56e8:a87f 1 138 18550278 20210811161056
+213.18.167.178 2 294 38022038 20210823014031
+2a02:908:1470:c8e0:6d22:572c:5971:958b 0 106 12927807 
+2600:380:e8a2:3656:c188:aa70:9783:285 1 147 18097034 20210801192803
+178.120.8.94 1 117 11456975 20210818114948
+83.40.97.106 1 66 12028412 20210811122743
+88.26.96.203 1 1 188508 20210822225752
+2001:16b8:201d:d900:5598:d748:cc1a:2aeb 0 1 7393 
+188.86.45.176 1 1 12818 20210823105802
+2a00:23c5:db0e:2e01:2575:93bb:fab1:6917 0 4 116037 
+2001:e68:5431:a6fc:9085:9a1e:af77:7e53 1 148 19018112 20210816013055
+78.30.26.184 1 1 188508 20210815203017
+2607:fb90:46fd:2863:3562:f895:9b6:1fbc 1 1 188508 20210806184741
+2a02:a450:d890:1:ecf6:30f6:5369:8378 0 1 16492 
+152.65.37.174 0 81 7851382 
+176.88.136.11 0 18 1721193 
+2601:408:8002:7c70:100a:3d4a:1027:ab62 0 9 67172 
+178.235.182.211 1 10 2010070 20210804123418
+176.55.146.138 1 148 19082101 20210825094821
+93.138.65.251 1 69 5002378 20210803064917
+82.79.186.94 0 10 793355 
+24.133.140.190 0 15 576703 
+2601:1c2:4e01:cfc0:11e5:b04e:b9c6:4527 1 132 18271763 20210824203023
+84.62.20.90 1 1 188508 20210801203839
+66.17.118.228 1 135 16703555 20210829231056
+212.40.89.111 0 18 1721167 
+86.11.97.122 0 3 245094 
+2a02:a212:a200:1680:186b:1f9c:81bb:3158 0 1 39966 
+2003:ee:674d:b801:2079:8031:1f84:be33 1 15 2708917 20210802101412
+158.174.195.199 1 30 3095498 20210830190408
+82.52.67.4 1 138 18909578 20210801144745
+2003:d3:6f3e:6d00:e522:40fe:6142:986 0 5 16036 
+176.199.19.118 0 6 354036 
+94.209.73.11 0 6 609874 
+2003:ee:870c:f6e9:1c9c:73e5:13d9:447a 1 31 4979074 20210818224102
+87.205.148.193 1 32 5026417 20210819041142
+2a02:ab04:2f43:a400:f151:6382:7d95:b8ec 1 138 18550254 20210815130841
+31.193.37.136 1 140 19099070 20210831180802
+174.6.81.128 1 58 8591045 20210829180657
+74.50.156.191 1 148 19018112 20210820230700
+82.20.214.166 1 58 10220415 20210811201019
+193.181.44.246 0 6 643241 
+104.52.0.251 1 139 18384556 20210801192134
+88.152.134.43 1 1 12818 20210808142536
+83.93.122.154 1 1 12818 20210822143434
+2a00:bba0:110d:0:3410:bc8a:a3f0:7403 1 1 188508 20210809132721
+2a01:598:b9a9:40d:80b7:587d:5183:35 1 108 15724114 20210826214646
+83.238.236.90 1 1 67904 20210806165526
+2001:a61:467:b201:998a:73d:1c43:1733 1 93 12133422 20210820011245
+5.173.97.115 0 2 692461 
+83.24.92.254 1 1 188508 20210815224136
+2a02:587:ee00:99a8:1d78:4cb5:f134:dd34 1 1 188508 20210810031244
+92.223.89.60 1 110 5168892 20210802194733
+2.248.65.185 0 1 15749 
+2a0e:40b:d6e3:0:353a:666f:e35e:e19a 1 104 14084535 20210831071907
+2804:14c:101:8a4c:49f4:50fc:6ed8:75d4 1 149 19135428 20210829122809
+174.99.158.115 1 98 13276849 20210827092917
+79.169.67.82 1 135 15636831 20210810001044
+89.238.177.131 1 32 2236686 20210826102405
+146.198.110.122 1 8 2369660 20210812190042
+5.14.193.21 0 18 1721193 
+141.224.222.253 1 1 188508 20210808192854
+86.99.100.51 2 275 37098701 20210812104207
+92.23.253.189 1 1 12831 20210811201900
+87.205.156.241 1 24 3088914 20210816061503
+2003:ee:a736:a1ae:9c64:dd5a:c544:1a41 0 76 8210356 
+173.73.99.239 2 140 18680379 20210827160349
+94.110.18.104 0 3 48811 
+178.237.230.150 1 1 188508 20210815145915
+82.78.49.245 0 54 4226668 
+159.205.29.166 1 139 18667557 20210829090322
+91.224.128.156 0 1 47889 
+87.19.110.247 1 138 18550241 20210820154815
+2a02:587:7e1f:2700:398c:d1d:3cd1:e31c 0 3 937819 
+46.53.240.15 0 5 16036 
+35.203.254.234 0 1 1546 
+2001:1c00:1200:3800:9d36:de48:39e7:e56a 2 68 12022408 20210810190146
+2a02:1812:d1d:1d00:1861:7966:6ee5:4ad0 0 3 139342 
+104.222.32.23 2 57 1380575 20210804130537
+83.55.42.85 1 1 188508 20210805084709
+2603:8001:d02:4f81:710c:2642:e795:1c03 0 3 1645009 
+51.174.139.8 1 1 188508 20210808161804
+155.4.167.182 1 1 188508 20210831155910
+2804:14d:4ca5:9b74:4559:5932:975d:cc46 1 148 19018112 20210815233547
+2003:dc:670d:bd83:2d4e:7da4:d548:c452 0 3 1688766 
+89.22.176.166 1 61 6277705 20210820124218
+2a01:598:c82a:7d53:98f5:fa8f:92f6:7f53 1 1 12818 20210820125423
+185.246.21.100 2 78 3591335 20210823183449
+185.44.147.147 1 71 7364035 20210826113114
+2a00:23c4:de3c:df00:44a0:3f5f:9a9d:8a0b 1 6 83940 20210818144912
+2.107.144.93 0 1 8279 
+2001:4c4e:1005:9d00:d123:771f:f75:a780 1 117 13387638 20210812120539
+2.248.4.9 1 2 204257 20210823135810
+2.104.91.126 1 1 12818 20210819215951
+85.255.19.216 0 70 9353846 
+2607:fea8:bfdf:a740:345b:eabf:6df6:7786 1 2 362123 20210830234505
+62.72.116.62 1 1 188508 20210820141009
+86.140.163.251 0 1 13819 
+2600:1f18:65b9:df01:28dc:1a2b:7fde:291f 0 1 431513 
+91.232.164.109 0 4 29450 
+84.216.142.37 0 28 2666785 
+2a01:e0a:9a7:cfa0:ec56:5e45:45c4:72d8 0 4 108197 
+186.96.210.91 1 135 18465766 20210819174823
+2a02:8108:1840:11d8:68c9:801d:fe38:852 0 1 5721 
+89.185.105.53 0 2 24508 
+88.244.254.204 1 133 18472340 20210816222053
+2a01:c844:243a:4400:8d71:7148:aee2:cf4 1 139 18552279 20210823210427
+45.232.76.251 1 139 18554120 20210809143610
+207.46.13.73 0 1 1810 
+178.120.61.43 0 140 21627295 
+2a01:5ec0:9818:53f9:1:0:cec3:b637 1 67 12635609 20210811204802
+2603:8081:5101:a16f:5514:27d3:2932:9783 1 138 16990973 20210818223418
+95.86.30.136 0 4 1993520 
+2001:4bb8:10e:a6c4:45d:86f5:ac10:e852 1 63 12490466 20210819063946
+61.135.15.164 0 2 432958 
+178.159.3.167 0 1 13819 
+74.101.204.173 1 148 19018112 20210820151111
+178.157.252.243 0 2 73419 
+195.198.26.140 1 26 1435315 20210826000721
+240f:7f:fcd7:1:402d:c664:2279:74e7 1 138 18550275 20210815185247
+64.93.97.11 1 148 19133983 20210830162656
+2404:4408:67a4:b400:34f6:ebcc:867b:8279 1 149 19135428 20210826144641
+217.168.252.211 1 63 9391692 20210812145305
+2a02:2f01:651a:cc00:742d:4d52:5de9:848b 0 3 185439 
+194.103.157.70 1 4 242522 20210811221641
+2001:16b8:6783:b400:9d61:67a2:d088:bf1d 1 1 188508 20210829085843
+82.15.44.223 1 1 67904 20210810212340
+159.196.171.174 0 98 12981754 
+79.26.233.142 1 148 19018233 20210806164737
+31.183.151.9 1 16 3140576 20210802224905
+78.180.4.115 1 126 16163505 20210806193813
+2001:4c4c:155f:800:684e:4d31:bee2:47aa 0 5 1192149 
+95.70.214.79 1 144 18094296 20210831015604
+94.31.82.15 1 89 14112233 20210808203359
+178.199.17.34 1 76 6897712 20210801155804
+207.46.13.127 0 1 2385 
+2601:18c:ce7f:9750:3523:a2c1:3b9:e5f3 1 138 18666011 20210830020514
+176.232.63.215 0 41 2502462 
+2001:16b8:10b3:2b00:f52d:f530:617d:a7dd 0 1 16597 
+2003:ce:1f2a:1300:2865:644f:5e:872e 1 49 7434730 20210805123525
+2a02:120b:2c31:20d0:b5d7:5efd:9a6f:6375 1 97 13625771 20210831152833
+2800:810:500:8306:687c:39f7:7693:7f25 1 138 18550241 20210813221827
+47.150.5.112 2 5 2022025 20210824015411
+2a02:3030:402:8e08:6607:3a46:d01e:1cfe 0 2 2094240 
+2001:8003:4861:6100:c805:cbd6:a923:8742 1 148 19018338 20210808060610
+2a00:23c7:6994:b800:9dea:f621:cc8a:8692 0 1 130134 
+113.109.48.24 0 1 47889 
+88.156.139.140 0 11 3305964 
+86.121.85.187 2 17 1358347 20210816193042
+2001:4c4c:1fa8:e000:95bb:ddaa:1f8f:1fa2 1 93 12133422 20210820101909
+217.209.196.248 1 19 1596693 20210804183449
+34.74.171.144 0 1 1546 
+2003:ed:671e:f774:a5ff:57ac:6efa:e68e 1 95 14348311 20210825115519
+84.211.63.159 2 3 288676 20210803150419
+85.98.109.134 1 134 16399480 20210811193214
+2003:e5:f0f:b000:9d4c:8ebf:616b:2432 1 1 12818 20210810162058
+83.44.176.162 0 2 40065 
+93.81.217.225 0 50 5056399 
+2a01:e0a:209:8870:e1f7:1357:4252:227 1 1 12822 20210829122509
+2003:d0:8f20:4f00:1cf6:818f:a17c:a236 3 31 5606305 20210803190147
+78.166.168.63 1 135 18475331 20210820212300
+178.164.199.22 1 146 19014873 20210816161735
+212.142.127.170 1 142 18572391 20210812174817
+185.107.14.183 0 43 3270896 
+81.213.254.245 1 141 18679863 20210822001105
+2001:8a0:fef9:4501:e548:c470:8ebf:1137 1 138 18550338 20210801144556
+2604:3d09:a987:df00:589b:b1e3:72d4:903c 1 148 19018125 20210818174525
+89.136.136.133 0 7 60708 
+2a02:a03f:66e5:d700:793d:a25c:8381:dd53 0 1 70297 
+46.56.201.57 0 1 1546 
+178.190.210.75 1 1 12818 20210823115200
+2a02:8308:f:a00:bc92:8504:36ee:5b5d 1 146 18994548 20210805142337
+2a02:2f0e:807:3c00:9560:f712:e2e6:3fea 0 2 195094 
+95.49.150.252 0 23 1737241 
+46.196.16.108 0 15 576703 
+190.190.240.91 1 3 58432 20210826205648
+81.235.163.177 1 143 18992706 20210810192316
+158.174.142.122 1 4 242535 20210811171823
+188.25.104.56 0 67 3996652 
+37.39.174.239 1 148 19018348 20210810181800
+49.199.24.200 1 138 18550319 20210810091303
+185.126.108.75 1 1 188508 20210811124857
+85.187.117.28 0 16 1401198 
+178.84.170.121 1 6 409980 20210826012059
+2603:6011:9f00:8589:38e5:e432:dea0:f30a 1 149 19135428 20210827004048
+220.255.68.55 0 118 18219350 
+93.100.86.64 0 1 21685 
+178.233.145.29 0 3 281011 
+185.84.144.34 1 109 10530986 20210823180113
+82.3.177.184 0 1 12653 
+2401:7400:6007:6904:1:1:749f:e3a9 1 66 11395639 20210829124339
+78.180.8.171 1 127 16165669 20210803183438
+2a02:c7f:8ea9:4200:e59f:19fc:49aa:289e 0 2 44550 
+46.114.165.149 1 21 535233 20210831203430
+93.37.159.209 1 138 18550331 20210808185303
+194.93.165.122 1 111 13269434 20210810183243
+2800:5f0:819:11d1:b4f0:54c5:43:effa 1 147 21323774 20210806050302
+2003:cd:7f40:5100:8cb1:87e8:cbab:b2f9 1 87 13348926 20210811152713
+107.150.65.247 3 3 38454 20210812194229
+90.69.183.179 1 1 188508 20210815223354
+135.12.133.121 1 145 18303948 20210802061015
+36.85.223.45 1 120 18311250 20210827063804
+79.167.222.243 3 141 14645323 20210825101317
+178.223.227.103 0 9 1090050 
+46.194.3.132 1 148 19018112 20210823174422
+188.146.65.20 1 1 67904 20210831064948
+160.2.176.140 1 141 18337620 20210818230639
+69.142.18.62 1 138 18550304 20210810214335
+87.222.62.34 1 1 12818 20210810120906
+85.24.222.120 0 38 3254860 
+2600:2b00:a311:f000:60fc:24b1:7da8:1664 1 149 19135428 20210830015333
+78.79.245.239 1 55 7980936 20210806115415
+80.87.215.126 0 77 6069985 
+217.171.50.238 1 88 14088419 20210808073125
+88.231.125.230 1 142 18764150 20210818101318
+186.12.96.139 1 148 19018212 20210810062242
+172.113.52.31 1 148 19018112 20210818170759
+80.163.25.232 1 146 19010972 20210812152611
+2a01:e34:ec90:6260:d432:97b1:95c:cdeb 0 1 10597 
+66.249.81.178 1 1 12818 20210812170959
+2803:9800:9843:86b6:ed5f:96c9:2e06:2f34 1 148 19133983 20210831234414
+167.172.170.4 0 1 23603 
+118.101.232.207 1 145 19009770 20210804122845
+37.123.143.133 0 1 1546 
+117.20.117.19 0 1 29188 
+84.242.125.139 1 163 19215152 20210818010543
+2a06:4004:b03b:1:3402:21eb:d700:a36c 1 143 18993104 20210819114630
+2a00:5400:e053:e80:9d05:997c:95d3:b7d 1 148 19018112 20210818215359
+190.236.211.31 1 149 19135428 20210826204920
+95.175.78.193 3 299 37548451 20210819161403
+217.180.233.13 1 100 12711363 20210827014019
+193.154.69.233 0 5 16048 
+2601:ca:201:8180:78d6:1ca4:ad2c:77 1 147 18993936 20210825003517
+2a02:2f04:d4ff:ffff::6453:8c71 0 1 154360 
+99.246.107.223 1 150 28154299 20210801140328
+193.253.54.94 1 60 11871632 20210806211004
+2001:8a0:786f:7d01:d8d2:3407:3fb2:84b4 1 23 453951 20210810162726
+186.237.164.234 1 139 18552246 20210811134817
+81.98.57.166 1 1 12818 20210809162305
+91.101.43.215 0 3 48811 
+67.177.34.125 1 144 19006902 20210808213900
+24.101.118.152 0 1 8706 
+88.232.137.240 0 9 607526 
+88.6.170.133 1 138 18550350 20210806180312
+176.43.141.153 0 17 887895 
+121.6.97.186 1 146 18150249 20210831100656
+46.45.185.186 0 1 19992 
+190.163.103.170 1 147 19016566 20210813025019
+2001:16b8:328e:3900:45b0:8bc0:d300:196b 1 147 19118299 20210831063754
+100.6.40.22 1 148 19018124 20210816001546
+77.169.41.225 0 4 154082 
+176.205.18.84 0 3 165864 
+73.181.92.124 1 138 16721216 20210831052949
+24.101.127.53 1 146 19010379 20210812232909
+89.71.1.248 1 1 12818 20210824135425
+2.153.243.39 1 1 188508 20210816111820
+2601:5cc:0:4300:c5bc:f597:54e5:d839 0 120 18223631 
+147.78.30.251 2 149 19031068 20210809212254
+45.144.113.182 1 138 18550241 20210820220528
+108.62.107.249 1 19 406875 20210818215259
+42.61.242.14 1 141 18571035 20210816173338
+93.140.126.46 0 18 2593974 
+85.229.104.137 1 4 242535 20210811151114
+13.55.104.150 1 28 734574 20210813050118
+2001:16b8:11e5:9200:c45a:39e3:5293:b37f 1 48 9433257 20210820210807
+89.205.128.212 1 32 2073954 20210827163617
+81.33.230.98 0 5 16036 
+193.234.40.148 0 24 2373162 
+2001:4c4c:155f:800:3401:d7da:80c8:62c 1 119 15398319 20210802213036
+193.203.22.13 1 148 19018124 20210812152332
+2402:a040:213:1d70:54c0:340f:69e0:4c 1 138 18550241 20210822050905
+50.4.41.155 1 112 13265172 20210824230909
+84.62.255.29 1 3 272580 20210825203942
+114.5.219.238 1 148 19018112 20210817150626
+2a02:8071:459b:dc00:c0fe:d736:c044:c679 0 2 269419 
+2001:8003:d46d:d600:bd8b:56a7:f964:7c9 1 138 18550478 20210802045546
+90.161.0.241 0 1 75850 
+176.161.234.39 0 1 39966 
+188.183.129.176 1 1 188508 20210815033413
+2a03:2880:21ff:4::face:b00c 0 43 4733877 
+198.14.217.93 1 138 18550241 20210825064234
+98.121.247.226 0 1 921279 
+88.129.118.89 1 148 19018112 20210816222340
+84.246.165.5 1 136 18526605 20210805185725
+2003:dc:3710:3200:a0fc:2f96:452a:909c 0 3 64406 
+2a02:8388:2780:3e80:c52c:efeb:66b3:da39 0 1 14085 
+2600:1700:5280:1d10:3092:34a8:6d99:f569 1 138 18550241 20210821020335
+139.47.91.210 1 148 19018482 20210804112450
+2a00:1fa0:26a:49ce:a8b1:f0a0:88f4:581e 2 70 12415138 20210801095422
+181.142.218.241 2 287 37801439 20210829125013
+2001:8003:2299:b100:68d3:5b59:5bb5:488a 1 138 18550406 20210801150425
+80.123.28.253 0 17 322130 
+187.109.157.32 0 1 3672 
+85.224.142.253 0 36 6978348 
+88.242.67.137 1 133 16612226 20210808183818
+85.171.101.112 0 5 16036 
+2a00:6020:408a:2500:b556:135d:5b8e:56d8 1 87 13348946 20210810171905
+83.125.16.71 0 3 616084 
+84.33.78.66 1 148 19018295 20210808095344
+193.138.54.191 1 105 9708481 20210806154844
+176.33.123.65 1 61 5129722 20210819192453
+90.229.130.207 1 64 8814940 20210806200608
+95.219.127.12 0 3 22690 
+2a00:23c7:2618:b601:94eb:66b:1c8d:d765 1 1 188508 20210819022546
+2a02:120b:c3fe:de10:c8e9:25fe:f612:41a3 1 137 18376626 20210819071231
+176.33.70.178 1 11 806160 20210808190132
+158.62.160.32 1 140 17156912 20210829003050
+79.115.35.1 0 1 154360 
+2600:1011:b157:868:5cc4:6567:8e0f:1b4b 1 126 18383732 20210830184033
+2a02:8109:b6bf:5934:a999:6e30:5588:a532 1 1 188508 20210826055513
+2607:fb90:6e3a:a3f7:a047:56be:838e:6c07 0 3 1971932 
+201.50.150.144 1 141 18558213 20210824025339
+42.60.253.246 1 148 19018112 20210817152155
+5.90.107.179 2 146 19010830 20210812135738
+78.174.96.30 1 136 18477369 20210820104832
+92.44.138.6 1 148 19018365 20210808214854
+46.97.176.56 1 139 18552259 20210808132120
+5.147.105.18 1 1 12818 20210822074304
+91.140.89.151 1 70 7281877 20210823180200
+161.230.101.11 1 5 263722 20210806165314
+37.188.248.244 1 140 18560846 20210824061904
+2804:14d:5c62:8317:311c:ad1e:428b:90b8 2 149 19030930 20210818014834
+94.204.35.23 1 149 19135428 20210831122520
+178.85.242.152 0 14 870606 
+24.209.243.83 0 117 18215152 
+112.134.156.73 0 2 5218 
+31.10.138.239 1 1 188508 20210806023308
+2003:d6:af43:f500:35a7:93c8:812c:54 2 51 7566007 20210822190325
+2607:fb90:6c24:1965:3599:7698:4cc3:b7dc 2 140 19336166 20210809222505
+2604:3d08:1581:7d00:65bb:fab6:4cd5:6a39 1 27 546705 20210804071709
+35.227.126.19 0 1 1546 
+212.252.142.185 0 91 13485036 
+98.100.6.22 0 1 1546 
+94.54.236.28 0 15 576703 
+2a02:6d40:340c:ec01:48ae:b3ba:c5c6:2085 1 3 219203 20210813013336
+2003:ee:8717:c100:4ce1:b868:91c3:648b 1 147 19017272 20210804060629
+88.150.19.167 2 2 201326 20210811122622
+2a00:23c4:8d30:e301:9f4:6886:d6a0:835f 1 1 12831 20210803081226
+2a02:ab04:3d2:fb00:74fd:b128:b8ff:6be1 1 138 18550267 20210812131542
+179.215.35.108 1 138 18550241 20210817221158
+204.12.226.3 1 1 12818 20210823071617
+90.167.86.183 1 161 19605585 20210802182605
+101.98.167.102 0 119 18106315 
+2.104.119.56 0 5 16036 
+85.31.131.49 1 1 188508 20210801090501
+2003:6:5109:b825:a5b8:d45a:9af0:63e 2 121 16617912 20210829160612
+91.53.115.183 2 2 80726 20210831175636
+188.230.151.177 2 305 36016716 20210810125159
+83.216.124.53 1 137 18548708 20210814011821
+2a02:2f0a:7101:f000:75ab:c0ce:d503:cd40 0 8 195755 
+37.15.110.28 0 4 268570 
+2a04:ee41:82:f0e6:41d0:6424:991e:b38c 1 142 19106236 20210827190514
+97.87.0.162 1 130 16235341 20210823172718
+103.116.59.225 0 12 78927 
+148.103.128.86 1 148 19018112 20210824204632
+78.173.70.2 1 134 16677499 20210810172945
+77.1.151.81 1 87 13348951 20210810211624
+92.108.131.79 1 1 188508 20210823072525
+2600:1700:3e31:2230:5df:4317:634:c4c5 1 23 453951 20210816030605
+91.235.223.84 1 77 10219948 20210806194247
+185.76.9.83 1 145 18985581 20210810090251
+2a03:ec00:b97b:40e9:430:c608:2703:b55f 1 147 19016566 20210812071051
+71.231.29.252 1 148 19018380 20210805222002
+190.101.145.243 1 139 18667557 20210829054823
+125.12.226.214 1 148 19018112 20210824073118
+178.114.153.166 1 1 12818 20210824140424
+5.76.212.194 1 1 188508 20210810234449
+89.172.250.201 1 69 6704048 20210805203058
+81.161.61.23 1 2 20224 20210806222431
+159.146.45.120 1 148 18538057 20210830223432
+2001:4bb8:18c:b72:795a:a1ea:23ba:41c2 1 50 5392821 20210822125216
+89.103.66.194 1 138 18550312 20210811113659
+2a02:8070:89a0:2900:f988:707f:eb8c:a884 1 1 67904 20210808163155
+79.160.54.22 1 139 18667557 20210830193057
+79.151.129.174 1 148 19122788 20210826165957
+24.133.122.19 0 1 119449 
+31.19.101.3 0 3 156105 
+68.228.75.63 1 120 18311250 20210827040813
+195.211.23.213 0 2 146504 
+168.194.186.104 1 148 19018112 20210815215951
+45.236.172.215 1 148 19018535 20210803043307
+2806:106e:c:bebe:8057:4d64:d83c:ceba 1 70 12750653 20210812155331
+94.102.54.138 1 32 2086609 20210805021413
+82.222.133.122 0 22 1556214 
+138.199.16.109 1 130 16752840 20210829064937
+91.129.101.104 1 147 19016800 20210802154226
+188.67.225.124 0 18 3898324 
+2a00:1028:83bc:288a:ed43:84b1:56d5:e990 0 36 1590370 
+176.232.63.45 1 149 19135428 20210825181223
+212.43.61.107 0 2 14997 
+212.252.140.250 0 7 214889 
+47.61.203.122 1 1 188508 20210815112028
+2001:871:22b:8341:cd4e:ec8e:a68f:b8b3 1 147 19129393 20210831172744
+2a02:a18:9042:b501:b825:5ed9:e1c1:8f17 0 15 1547300 
+2001:56a:f85d:8000:a408:dfee:49b5:f46b 1 148 19018316 20210806132649
+5.165.105.162 0 64 6261631 
+2001:16b8:a090:4100:4102:1bda:2e30:5f71 1 76 9701038 20210823213540
+2a01:c22:917c:6000:6da7:eafd:3c0:fe2b 1 21 4433586 20210819121230
+176.221.123.0 1 4 120996 20210808183500
+2600:1700:6a60:4f20:55a0:95a:8a0a:e6c4 1 148 19018137 20210815040450
+2003:ce:1f2b:ee00:b5cb:6681:6ecf:c0c7 1 56 8433257 20210820083712
+2a01:4c8:1408:c24b:1:1:a41e:f00 1 1 12818 20210818121347
+88.192.32.81 1 1 12818 20210824152609
+176.40.228.45 0 15 576703 
+2a02:2121:105:e506:cc14:4e27:c8dc:eaf1 1 1 188508 20210824095028
+190.2.130.168 1 1 67904 20210809224138
+88.15.240.180 1 1 188508 20210815000107
+212.85.93.182 0 4 2278966 
+113.22.140.245 1 138 18550413 20210802035620
+2a02:2f0e:71d:5f00:814c:8523:72e3:8ac9 1 7 380699 20210824170710
+5.121.148.183 0 2 242040 
+2003:c7:bf2c:2a00:35b6:dad0:559a:2d4 1 22 4438851 20210819134643
+188.230.182.25 1 146 19012292 20210801182547
+94.31.83.18 0 1 2064787 
+76.29.82.181 1 148 19018426 20210806125626
+2003:cd:6f1d:8800:c553:3115:563:991 1 1 188508 20210806104328
+90.186.56.137 1 147 19016776 20210809213338
+81.9.228.59 0 1 5028 
+188.26.182.146 0 16 581192 
+124.104.207.21 1 142 18675540 20210826131626
+2003:ec:573b:45c0:a02f:7907:a5dd:d632 0 1 2856 
+37.210.254.104 1 149 19135428 20210830144622
+89.22.64.6 1 138 18550319 20210810203338
+176.234.135.41 0 27 2162912 
+2800:200:e280:5469:8c62:1003:ec1a:f5c 1 148 19018252 20210808020000
+2a0c:5a80:8104:d900:6d0e:3c3:8443:a9b5 0 34 9673735 
+88.14.130.159 1 3 113860 20210804183726
+178.233.121.75 0 19 1725657 
+212.252.140.17 0 25 2279230 
+2a02:8109:1140:26e4:6c8e:227a:4410:89fa 0 1 44688 
+2001:8f8:1127:2c96:4d1c:a703:fe0b:ea29 1 77 5975458 20210824205701
+2003:c4:3720:5f00:963:bfd2:7f1b:91c0 1 88 14088355 20210808122426
+91.128.193.11 0 1 8279 
+2a02:1205:c685:cc00:79a7:7aa3:1c7b:3dda 1 148 19018112 20210818085635
+2001:8f8:1761:d76f:1053:2b10:9622:d6d5 1 139 18667557 20210830175342
+2003:ce:6f46:3100:e8b1:72f3:cccc:499e 1 88 14088407 20210808110118
+94.255.135.33 1 35 3564554 20210831173641
+77.219.4.104 1 137 18548695 20210814003021
+2607:fb90:9081:d95c:281b:81ce:feaf:c448 1 148 19018352 20210811163020
+217.69.146.250 2 2 377016 20210825131437
+190.128.232.166 1 146 19013684 20210820183712
+79.150.184.54 1 2 192180 20210820174749
+217.107.127.230 1 118 11574278 20210829185300
+82.3.4.74 1 129 16326950 20210824202834
+204.11.80.85 1 148 19018413 20210802011526
+88.97.76.6 0 5 16036 
+213.149.57.58 2 98 13738694 20210810175314
+113.31.145.168 0 1 2064787 
+83.30.78.195 2 3 257066 20210816103452
+188.127.172.204 1 1 188508 20210813163430
+46.196.81.137 0 10 365309 
+2003:6:4335:3b55:9c59:7517:5947:3ac0 1 90 14742090 20210831171505
+2001:8a0:e3fe:a601:ec23:f815:c7ac:7ec8 1 95 16494194 20210826073907
+2a00:23c6:9809:6701:e130:9cde:51a6:533e 1 1 188508 20210831015136
+64.188.179.153 1 127 17573509 20210816004430
+145.253.153.26 2 163 20077546 20210804082052
+84.250.75.165 1 148 19018137 20210815030120
+91.236.184.8 0 17 322130 
+2001:8f8:1125:4c46:ed8e:2c26:21ab:1038 1 149 19135428 20210829051621
+2.99.229.161 0 5 668161 
+2603:8000:2e01:530a:64ce:c2a2:494d:49eb 1 131 18394943 20210830034452
+119.18.0.39 1 60 12381450 20210815120347
+2003:eb:cf32:8e00:75ab:8d4:97b:17de 1 122 16881060 20210829102923
+83.34.14.164 1 1 12818 20210806210343
+2001:b07:6463:c1fc:c1d0:f48d:eb9:6410 1 135 17075225 20210824211053
+102.107.204.6 1 149 19135428 20210827122853
+151.80.62.224 1 4 436249 20210812192306
+79.45.58.227 1 138 18550241 20210823212325
+24.4.212.194 1 148 19018112 20210815015506
+213.55.225.28 1 87 14177044 20210805103442
+93.174.95.6 0 4 54532 
+73.60.147.24 1 148 19018112 20210816230119
+2604:3d08:ea84:ec00:186a:19ec:fb17:dcb4 1 23 454118 20210802160335
+31.208.67.86 0 13 8583635 
+5.90.138.101 1 67 12635533 20210812234123
+2600:1f18:65b9:df01:a188:d69d:9b99:d468 0 2 17330 
+81.203.185.201 0 17 3648860 
+86.32.35.19 1 58 6013736 20210805234702
+2a02:2f05:107:6900:adc9:6f7f:7ed7:de16 0 34 1999099 
+85.253.117.112 1 1 188508 20210801224755
+2601:602:8d80:6ec0:c94e:1798:104a:eba6 1 81 16071373 20210809223836
+2001:4bb8:11c:58d8:de5:e838:743a:b96f 1 48 4621628 20210804021940
+92.41.57.126 1 1 12818 20210804111023
+77.91.16.202 1 50 7930175 20210822180643
+2a02:8070:b5a1:6d00:8dcd:444:3aa8:efd 1 2 509633 20210811114754
+88.156.244.251 0 11 1756511 
+95.19.202.14 2 149 19206632 20210816084755
+2003:6:4335:3b49:4cf1:1113:b4a8:cf99 1 123 16913125 20210829224356
+186.79.12.17 1 148 19018457 20210801063321
+185.238.122.96 0 18 901192 
+2003:cb:572a:8c00:7d67:2389:a1b8:e4b7 1 49 7498662 20210822134639
+2003:d1:3705:c900:c54f:3032:ec55:d2d1 1 12 1945019 20210815132313
+93.150.80.193 1 137 18477916 20210802194028
+46.48.73.190 2 208 25294271 20210820215423
+176.234.231.88 0 42 2558173 
+5.15.170.236 1 152 19150171 20210817220548
+79.115.51.196 0 90 13480547 
+37.244.0.9 0 1 79583 
+196.75.138.38 1 145 19002233 20210813131024
+176.10.125.125 0 17 6220741 
+79.153.249.203 2 163 22575348 20210804183431
+2003:dc:6f44:5c6b:587:1459:b1e4:54 1 87 13349009 20210811105843
+169.0.201.32 1 138 18550403 20210803163349
+2a02:8388:1a00:ec80:5575:ca7b:40c1:400f 1 148 19111747 20210829194749
+176.22.219.63 1 1 12818 20210810221834
+2a01:36d:115:d39:b85d:385c:3406:7be0 1 1 188508 20210812235732
+2a02:908:1997:c5e0:a947:9559:aae2:9fbf 1 1 12822 20210829160609
+2601:602:77f:c280:5e3:fed1:913d:64c0 0 1 3672 
+2001:56a:f8c3:af00:91cc:2cc8:4f8b:d1e 1 138 18550448 20210802093554
+73.156.52.169 0 1 1841376 
+2a04:4540:5f0a:7700:b468:c30a:950f:4b43 1 37 5381685 20210818160353
+2a01:c23:6884:5200:df6:c9ae:c529:2c01 0 1 29188 
+2003:6:334f:90b2:b5c5:ad25:417e:9acd 0 4 1717954 
+190.161.2.242 1 148 19018112 20210819214505
+80.219.145.69 1 98 13627317 20210831122929
+79.109.67.31 1 10 730226 20210812010354
+85.229.173.221 0 1 1546 
+86.125.52.95 0 38 2921319 
+2600:1700:5e40:7670:2823:cf12:ece2:f750 1 147 18586832 20210801000530
+2a02:587:d419:b00c:29a5:7443:d445:6eec 1 87 12895249 20210808180023
+94.143.232.106 0 1 21752 
+2601:583:282:1650:b88b:7093:5522:66be 0 114 16465960 
+188.78.106.180 1 138 18550396 20210801134729
+86.26.166.127 0 5 16036 
+34.75.250.97 0 1 1546 
+2a01:c23:c463:f700:b029:fd05:1c0e:ba16 1 135 15918788 20210822191024
+85.85.224.182 0 10 32072 
+87.115.158.226 0 2 58507 
+79.115.137.42 0 26 2122165 
+2601:600:897f:28d0::6d3b 1 122 16765021 20210808002639
+2001:16b8:4db:d600:bc91:e02e:de3:53dc 2 82 11652908 20210825220914
+142.114.65.240 1 95 12546038 20210828013331
+2603:7080:b003:c715:15af:b026:2117:d076 1 148 19018112 20210813054317
+2003:d9:cf1a:200:c475:d30c:3831:4409 1 1 12831 20210802170617
+185.42.4.35 1 138 18550241 20210819155640
+2601:240:d100:5f0:ddb3:9c8a:bbef:2099 1 146 18584809 20210804154853
+2a02:c7f:64ac:6700:848a:2da1:de8f:361a 0 6 117309 
+2001:16b8:1297:c00:8413:7e2e:bb7f:e211 1 93 14319353 20210825093138
+2a00:23c5:f491:1a01:498e:4505:1063:e702 0 2 104350 
+2003:d0:772a:6599:d58b:1b63:9efc:2466 0 2 84926 
+109.42.113.89 0 1 7815 
+83.252.214.138 1 1 12818 20210824121424
+2003:cf:2f05:dd2e:30c7:9297:2cb3:e02e 1 123 17106584 20210829131640
+31.209.146.27 0 117 18100571 
+86.123.200.86 0 10 793342 
+109.42.1.85 1 1 188508 20210827080047
+70.176.121.10 1 139 18562881 20210820213241
+91.139.96.29 1 162 23137066 20210818161157
+92.85.171.59 0 1 7393 
+95.192.147.220 0 106 17930436 
+84.255.184.156 1 144 18575134 20210813050039
+2a02:aa12:d581:3e80:c9be:5173:b2e1:fd6b 0 3 1559891 
+88.243.137.29 1 131 16608118 20210804174533
+2607:fea8:7a80:e270:512b:9c8c:8c2a:490a 1 21 439997 20210820021118
+212.58.120.241 1 148 19018519 20210802121621
+2a02:8388:28c0:cd00:e5b3:80bf:b0c7:d180 2 92 13408272 20210801153439
+151.35.195.109 1 93 13424444 20210831213128
+185.2.243.172 1 4 590099 20210809052519
+217.23.3.92 1 1 188508 20210810195517
+92.11.235.227 1 131 16342573 20210825140632
+78.180.24.128 1 129 18028568 20210817131131
+178.164.109.40 0 5 16036 
+2a02:8108:1800:124:50cf:fdd:136c:4ebe 0 1 8794 
+46.114.34.190 1 54 7997941 20210820151134
+193.176.84.29 1 135 18525071 20210805150649
+124.126.78.193 0 2 6527 
+31.58.96.111 0 1 47889 
+155.186.179.177 0 114 18085693 
+95.5.185.164 1 133 16046083 20210806104653
+128.227.153.115 0 115 18096328 
+2003:ee:2f34:6a86:bd28:6dcc:8526:2933 1 87 13348962 20210811193735
+46.242.12.100 0 2 28832 
+46.103.31.132 1 58 7119518 20210825131327
+89.204.154.110 1 54 7997941 20210820055626
+94.102.63.84 1 106 17688424 20210823072030
+185.32.149.35 1 118 15041745 20210806233219
+2600:1f18:65b9:df03:56c8:3bb6:17af:4842 1 1 188508 20210818102415
+2003:dc:6737:1255:d0f1:21c0:9d35:ae0c 1 1 188508 20210805160413
+170.51.202.219 1 148 19018137 20210817061316
+2600:6c40:4a00:314d:844b:fbb7:941c:28f5 1 140 18556253 20210804143653
+46.196.77.48 1 1 188508 20210810064027
+87.244.124.139 1 14 1196869 20210827084048
+94.17.46.26 1 144 19008087 20210822122016
+95.147.228.190 1 1 188508 20210830124756
+217.155.34.73 0 2 174173 
+46.154.184.44 1 144 19120178 20210826124246
+176.42.31.129 0 17 1188780 
+2001:16b8:a062:7200:6489:1ef0:df3c:b944 1 1 188508 20210819134807
+84.33.106.212 0 71 13488904 
+91.126.198.25 1 148 19018158 20210811222659
+2601:280:4a80:4600:7886:d3d6:7bf3:265a 0 1 3672 
+2603:6011:d706:9b00:fd8a:2c57:9218:33c2 1 88 11998050 20210823002421
+62.231.72.163 0 28 2167376 
+179.14.73.145 1 148 19018138 20210815203223
+2a02:560:4c15:fd00:e8b2:5539:a070:aec2 0 6 386275 
+188.167.155.33 2 97 13270643 20210816191025
+200.83.73.21 1 148 19018558 20210803003826
+2600:1700:1fa0:a2d0:79bd:20e:75d8:8865 1 138 18645872 20210828025259
+185.198.243.230 1 107 16716036 20210818180332
+85.89.177.147 1 116 16385496 20210827094313
+185.128.25.74 1 1 188508 20210827153852
+98.43.128.163 1 36 868848 20210820042046
+2a02:1812:110d:4300:89d:8685:23da:c67a 0 1 44688 
+186.139.62.197 0 119 18106390 
+46.45.185.187 0 4 170873 
+2a02:1810:2919:5f00:4894:4d01:d8bc:be7b 0 2 123523 
+2003:dd:770e:5b00:3164:2b3d:2d65:fd6 1 100 14518260 20210825212633
+2001:b07:644e:2a15:808c:f1b4:5056:4ea2 0 3 18116 
+2600:1700:9c00:7ce0::554 1 118 17856192 20210826085505
+91.101.195.78 1 1 188508 20210824181411
+149.76.172.33 1 132 15996653 20210801052932
+185.96.129.93 1 137 18477938 20210802062301
+2001:1c05:2527:b700:1553:e248:e841:5c24 1 3 16636 20210813140617
+176.88.31.176 0 1 1411 
+2601:58c:c080:2070:4118:5fee:4d5d:54d9 1 148 19018112 20210813181112
+194.144.103.159 0 3 63284 
+50.66.166.50 1 23 454119 20210803092542
+46.101.29.244 0 15 711447 
+2003:e0:ff15:ddd:d464:8ab4:f120:cab3 1 1 188508 20210803193619
+200.68.187.199 1 147 19016566 20210818234842
+83.31.217.136 1 3 383602 20210817052721
+2a02:587:4637:d8c4:b909:253d:2a6e:2617 1 71 7364035 20210825164432
+2001:569:7c96:8e00:ac8a:1c1a:bf6d:85d3 1 149 19135428 20210830092021
+94.254.63.185 1 150 19252744 20210827130518
+173.244.209.63 1 1 12831 20210806100845
+91.116.35.99 1 12 547858 20210817094429
+2a02:8070:e1b0:f400:4927:db27:b545:f78f 0 79 9575325 
+69.34.150.231 1 137 18548695 20210825023751
+78.179.91.44 1 133 16632409 20210813082256
+24.120.215.202 1 124 18375028 20210831064757
+2601:702:3:5c30:80d5:c7e6:666:6bf5 1 138 18550241 20210820032029
+94.21.40.24 0 26 2058155 
+76.104.116.207 1 137 18229116 20210820194342
+188.212.244.176 0 1 105455 
+85.48.57.111 1 1 12818 20210824125106
+109.116.91.198 1 50 3571930 20210820174941
+2607:fea8:68e2:9100:6c90:17d4:946b:b1b0 1 1 188508 20210829194524
+77.106.147.134 0 5 256851 
+170.231.6.5 1 148 19018112 20210815073318
+50.216.235.98 1 85 7946960 20210810184527
+122.109.185.91 1 138 18550325 20210809032432
+24.225.121.135 1 139 18667557 20210830014249
+190.112.92.72 1 147 19121343 20210826205053
+88.201.25.117 1 141 18684686 20210826155325
+190.2.133.230 1 1 188508 20210809100129
+35.229.30.65 0 1 1546 
+2a02:2f0c:7207:db00:c59b:9bce:72ff:5e33 0 38 2921319 
+50.39.177.33 1 92 10605631 20210805141834
+85.153.224.39 1 138 18550241 20210813231421
+31.4.130.15 1 138 18550241 20210816135259
+85.153.225.224 0 21 2085358 
+95.127.254.88 1 10 738737 20210806192747
+79.26.89.108 1 112 18229197 20210812155238
+91.127.116.160 1 92 12094864 20210820223734
+2.139.91.133 1 27 3736782 20210805042413
+177.38.161.25 2 149 19086262 20210802134335
+5.24.35.56 1 137 18548755 20210811160436
+34.74.72.1 0 1 1546 
+185.183.146.17 1 97 11269464 20210806154841
+213.249.161.55 0 3 35554 
+139.47.121.95 0 1 39966 
+165.91.13.143 1 139 18667557 20210830200936
+2001:4645:5b1:0:b130:c226:9d07:f29 2 2 256412 20210825160640
+24.133.120.76 0 18 1721181 
+176.58.195.96 0 41 6080108 
+24.52.225.14 1 148 19018163 20210811171634
+2600:6c51:447f:89cf:ddb8:37a6:4fb4:aa17 1 8 1746139 20210816042846
+2001:818:dfa2:9a00:89a2:99a4:383d:4e2b 1 82 15758203 20210824133608
+2003:e7:6f3a:9900:c031:311f:2ad4:e50e 0 11 1756511 
+87.228.166.58 1 5 213555 20210813190627
+201.203.117.209 1 147 19016566 20210820220813
+95.90.255.220 0 2 10183 
+34.138.129.190 0 1 1546 
+76.27.125.222 1 148 19018532 20210802150050
+185.107.15.192 2 139 18563059 20210820080238
+2800:bf0:1c7:1104:8cc:fe4d:8145:dfa1 1 148 19018112 20210812174924
+2003:dc:c720:b04c:b06c:c32:e27a:a2f1 1 89 13352286 20210812104843
+47.196.15.62 2 292 38027539 20210819004711
+83.249.87.74 0 2 40811 
+113.31.115.135 0 1 39966 
+5.103.136.243 1 149 19135428 20210830180432
+2607:fea8:605f:5a20:3855:fda7:5a0f:7e63 1 132 17307039 20210821013502
+2003:f7:b709:2200:fa:abde:d2dd:5288 1 36 3934136 20210817145210
+2a02:2f0a:d002:8c00:e80d:f2aa:2d38:346 0 10 1359888 
+2600:1f18:65b9:df01:8600:854c:4617:cf77 0 3 19760 
+90.231.140.187 1 1 67904 20210802200439
+178.197.248.38 1 139 18554730 20210813044736
+2804:14d:5c20:57e9:c99d:9be8:bb52:d53f 1 144 19008197 20210808093620
+2604:ca00:13b:40e1::1060:14ae 1 135 16887460 20210818061959
+2a00:1028:919b:484a:909b:67c3:9fdb:b164 1 143 18566673 20210822113556
+181.114.102.15 1 148 19018112 20210819072546
+73.109.254.161 1 138 18597992 20210825213635
+103.252.201.152 1 148 19196682 20210831163540
+84.117.21.104 0 9 194589 
+2a02:8308:28f:2500:5826:204:fc71:c33a 2 143 18723255 20210829145715
+64.227.73.24 1 141 18571086 20210808190657
+81.197.111.179 0 74 13561024 
+5.165.211.223 0 42 4162394 
+2601:144:8100:f1e0:856a:4391:610e:82f1 1 138 18550475 20210802140751
+91.219.214.172 1 1 12831 20210803025332
+47.49.224.106 1 2 190054 20210805152644
+24.214.188.71 1 137 18539644 20210815225040
+2a01:cb10:3f0:3000:f0a4:7d9f:914e:73b5 1 146 19011898 20210802115848
+120.18.19.114 1 148 19018359 20210804042104
+2003:cb:c718:118f:f1ee:16:f219:78f1 2 76 11092346 20210825180439
+176.232.58.161 0 4 306557 
+103.134.204.8 1 143 6554117 20210831102328
+240d:1e:16f:1f00:ada9:7b90:5557:ef2f 2 149 19061967 20210806230840
+78.182.158.218 1 137 18661324 20210819210836
+2001:16b8:b402:5800:c124:6a1c:3a4c:c3d2 1 88 10307428 20210824122840
+93.12.135.37 0 5 300514 
+71.93.198.14 1 147 19017038 20210801084341
+2a02:aa17:217c:ee80:895d:23f9:1e4:6668 1 144 18837265 20210818211128
+83.30.236.224 1 116 16632082 20210827171451
+176.234.135.122 0 42 2887119 
+78.163.99.238 1 126 16163671 20210802123407
+108.26.155.69 1 140 18672046 20210830220004
+2600:1700:152:54d0:fccc:7ee5:8f23:e374 1 91 12272592 20210815210434
+76.171.182.2 1 130 16945582 20210810021023
+2a02:587:4f01:44bf:5119:4c48:fd5:7d38 1 1 188508 20210811155804
+2800:484:4586:3d50:156:ca71:704b:364f 1 147 19112164 20210830131617
+2003:ee:ef01:a867:81cf:2754:2601:8ef3 0 7 278321 
+2a01:cb20:4033:8200:b913:1abd:9376:8ce6 1 138 18550266 20210815112125
+2600:8800:2190:1b00:e18a:5e84:3998:a85f 0 113 18060581 
+2604:3d09:277c:fb00:743d:bfcd:2771:81e4 0 1 1546 
+176.227.224.39 0 69 13382060 
+2003:d4:2706:ed00:6889:4ef8:9f5b:b973 1 1 188508 20210824170251
+2003:ed:af17:5300:c542:39a8:6113:bf35 1 88 10307428 20210824141558
+2a02:ab04:2f43:a400:d69:3795:a5de:903f 1 113 17885822 20210816004010
+149.172.7.97 1 1 12818 20210809051112
+68.134.244.11 1 140 18680197 20210829174602
+88.112.115.242 1 95 8887194 20210827095756
+176.10.146.70 1 136 15406377 20210815152952
+2a01:598:8085:c15b:99e6:ad0e:24bc:5fe6 1 27 6543935 20210820165028
+209.126.103.114 0 1 361801 
+2001:8f8:132f:ea5e:d7f:88bd:cb0b:8000 1 139 18667557 20210829204702
+78.180.8.183 1 119 15907543 20210819145915
+154.28.188.236 0 3 99650 
+78.70.54.193 0 100 6093056 
+103.136.133.11 1 140 18557903 20210815164217
+176.33.226.96 0 11 1385434 
+82.36.29.93 0 7 533407 
+213.194.155.37 1 140 18555406 20210807010806
+83.25.168.146 1 120 15070461 20210809183601
+2a02:c7f:d048:5500:48a4:6783:683d:fe8d 0 5 415609 
+2600:8800:219e:f400:a11b:32b1:c476:daa 1 138 18904053 20210811111904
+83.250.39.183 1 25 1332404 20210825204307
+2a00:23c8:9904:7e01:1545:113b:8b36:f4af 0 3 141083 
+2600:8800:7128:ee00:9169:deba:3034:1c9e 0 118 18105030 
+84.46.7.154 1 1 188508 20210810150458
+77.248.159.234 1 53 3494726 20210819223203
+49.255.55.31 1 148 19018386 20210801111229
+188.120.165.255 1 138 18550241 20210817132436
+2603:8000:5b02:8b33:700d:4315:8c41:a372 0 1 12640 
+82.40.60.126 0 50 5385389 
+83.250.12.187 0 1 72508 
+2003:e9:7715:16b3:2c16:b5db:f650:918 1 4 215216 20210806200509
+2800:cd0:480b:5600:cd0:b9ca:aa7e:2ddc 1 137 18548695 20210819230746
+84.105.0.207 1 2 189162 20210812221246
+2003:d6:729:3147:2c20:c90b:5467:a617 1 23 3085111 20210816110305
+2001:999:2:582:9020:af8f:ca23:a039 1 138 18550266 20210817065649
+71.198.130.193 0 2 1632369 
+83.49.60.187 0 1 39762 
+2001:1715:4e21:d810:acc5:56e3:2bf4:1ccf 1 48 3901586 20210822133254
+94.172.120.62 0 4 86802 
+2800:484:977e:d100:38a2:35a3:9b02:5868 1 148 19018363 20210810231250
+74.89.144.57 1 139 18554741 20210803230149
+2003:d0:9f16:7fe2:1425:6935:591f:39f7 1 43 5619248 20210819083513
+2003:eb:6733:1900:c4dd:b48f:92c0:e150 1 112 15424896 20210831155012
+2a02:a58:8348:4c00:8d73:1c28:39a:df5 1 16 1409527 20210804125600
+2003:c1:8f33:aea0:81c0:a219:cff6:eba5 1 1 12818 20210809182836
+24.79.151.238 1 86 10136604 20210806065010
+97.120.19.65 0 18 100688 
+2a02:85f:e05a:4900:4831:c6c3:3096:5f80 1 63 6871358 20210819121908
+46.53.254.192 0 3 26475 
+85.230.152.189 1 60 7996993 20210806163915
+195.142.70.201 1 137 18548734 20210811175638
+2a02:8108:100:79f0:bdd1:ae4e:c3e0:5ff3 1 1 12831 20210802133531
+199.96.248.4 1 139 18667557 20210831195728
+109.189.87.102 1 1 12822 20210831190147
+2607:fea8:fa5:3900:551f:5ead:bca1:b71b 1 148 19018112 20210824075129
+2001:4c4c:14cf:900:75ad:cdcc:2398:99b2 1 118 14449158 20210818131228
+2a00:23c8:3d81:f201:2146:d6b7:7db3:2c7a 2 2 25636 20210819210829
+2601:192:4280:40d0:69e6:36cb:9c25:f139 1 148 19018112 20210820155603
+2001:8003:d968:f801:6c72:451d:c01d:7809 1 138 18550241 20210823051257
+2603:8000:d000:8140:89c:dedf:5ab5:76be 1 123 18362388 20210831235953
+35.231.146.200 0 1 1136191 
+2a02:c7f:7460:7b00:9c31:f949:4b17:de06 0 1 119449 
+62.73.121.236 0 1 9346 
+2a00:1028:9191:8a86:e17f:38d8:c7bc:8178 1 138 18550241 20210823110124
+180.190.147.189 1 148 19018112 20210817120434
+78.87.81.147 1 72 7366073 20210827073729
+2600:8801:6:5900:a023:4886:d4ce:9454 1 136 18514609 20210810061838
+91.110.187.22 2 35 6743425 20210807014036
+86.12.49.46 1 130 16444266 20210826143639
+98.34.128.121 3 296 38253701 20210831225632
+2001:999:62:b923:e8d4:5e37:dd9e:2f1 1 148 19018112 20210817135249
+2001:14ba:a08e:2000:6015:643a:2c6d:8a47 0 9 3112444 
+2001:569:7ecf:1300:5c90:d744:4b2:2e58 1 149 19135428 20210828021432
+176.43.106.148 0 98 12510184 
+2001:8f8:1335:1d84:75f2:7a59:5a6f:2d2c 1 149 19135428 20210829071109
+213.94.7.43 1 148 19018112 20210813090056
+2a02:908:124:940:5c92:44d4:660b:c970 1 1 12822 20210830144900
+2804:14d:ae81:8742:8820:e906:1132:7274 1 138 18550325 20210810223205
+82.164.173.238 1 1 188508 20210808195052
+148.252.129.119 1 1 67904 20210808165111
+2a02:2f0a:b403:7c00:d113:2113:cb63:35ec 0 38 2921319 
+2a00:ee2:6702:ad00:84a3:ee09:7865:b322 0 1 53661 
+46.172.28.90 1 148 19018112 20210818221723
+2003:f0:73e:da21:a4cc:c272:7873:52f8 0 4 1047676 
+2601:40d:4200:1c77:edaa:4460:903f:a3b0 2 133 16009495 20210802213136
+2601:641:c080:37d0:c9c1:c20b:9ad1:e38f 1 139 18552182 20210819231057
+2003:ed:af17:5300:196b:97d6:e356:5aaa 1 148 19018226 20210810213542
+2a02:8389:41b8:2200:b08f:245b:508:9dc0 1 39 5942787 20210806124859
+78.1.47.121 1 137 18548721 20210815172056
+199.127.56.236 1 135 18513046 20210808200336
+77.98.14.122 0 1 1551826 
+2001:16b8:18ab:5d00:896a:d93f:e99a:8bf3 1 54 7997941 20210820112129
+181.54.0.223 1 148 19018112 20210816024122
+2003:db:b712:e31:3da1:1bb0:40d6:bd5f 0 15 1383302 
+2003:e8:728:1d00:8041:620c:d603:df47 1 1 12818 20210811200444
+2a02:a03f:8b2f:ff00:e9b6:489b:bf91:78fa 1 1 188508 20210809102940
+178.233.43.82 0 18 1721193 
+149.248.177.35 1 148 19018421 20210809161550
+176.232.89.48 1 36 9952397 20210803093542
+188.170.78.96 1 19 1582588 20210804094809
+88.7.2.141 1 138 18550485 20210801105901
+94.79.130.202 1 1 67904 20210831111626
+79.43.246.38 1 148 19018112 20210823122855
+2a01:79e:7be1:a1bc:2801:4d19:6fbf:4108 1 1 12831 20210802192739
+31.217.3.207 0 10 377148 
+188.171.64.104 1 148 19018124 20210812104756
+50.80.140.91 0 2 25227 
+2a04:4540:b05:7c00:e9db:1c7f:e13b:fa24 1 15 2708930 20210802002214
+2001:8003:1d18:7200:7519:d3de:a3b1:b47b 0 1 75850 
+80.189.106.45 0 41 2646790 
+176.37.31.29 1 125 13461920 20210802144712
+83.49.139.98 1 139 18667557 20210830155404
+95.90.235.0 0 5 16036 
+2001:9e8:6362:3d00:75ef:a7e7:48f:4d6e 1 20 1591194 20210803234310
+69.244.174.176 1 130 16235341 20210825033745
+31.205.134.194 0 2 1078967 
+2a02:a460:953f:1:28b3:751f:515c:796c 0 5 16036 
+146.200.170.163 0 1 15919 
+86.91.193.49 1 1 188508 20210824160606
+2a06:4004:b03b:1:1c61:4ea2:7c88:8bd0 1 138 18550241 20210818185717
+2001:8f8:112d:6129:40a6:cd4f:81f:1c79 0 118 18104374 
+78.190.247.68 0 11 1212216 
+2003:e5:4729:6800:a0d9:2365:8b64:c0d3 1 59 8214469 20210823171346
+109.252.109.194 1 139 18667557 20210831105323
+2a02:1810:bc18:3200:adfb:8bca:93a9:8914 1 1 188508 20210808191556
+99.145.102.17 1 137 18539644 20210815194908
+91.64.225.181 1 18 1165081 20210812014911
+178.112.157.244 0 1 587006 
+64.201.203.13 1 149 19135428 20210828010638
+2601:18c:ce7f:9750:840d:7b8b:cfaf:4fb4 1 147 19016566 20210815004940
+149.62.203.55 1 137 18548695 20210819110240
+46.176.175.24 1 20 1643619 20210812220127
+2600:6c40:7d00:f055:154b:52f6:7c01:c3a 1 138 18550342 20210808135836
+27.79.230.161 1 147 19016654 20210808115813
+136.144.43.129 1 9 398775 20210803012207
+176.231.58.13 1 1 188508 20210829051158
+46.109.201.142 1 148 19018112 20210823182837
+108.1.96.164 1 148 19018112 20210823013846
+2a02:908:a60:acc0:3d0d:5fe7:8559:2993 1 1 12822 20210829160626
+178.233.20.168 0 38 2921319 
+79.146.62.73 1 148 19018307 20210805220344
+2003:d1:1741:7c01:cc65:8f57:d562:1759 1 10 2426846 20210804090132
+86.98.159.151 1 141 18556900 20210810153437
+2a04:4a43:4dff:b48:ed38:842:5ac6:4223 1 99 14797843 20210825053020
+37.223.243.253 1 140 18668855 20210829135415
+2003:c8:6711:1a7b:d73:a230:13d7:b44b 1 124 16973835 20210830222249
+2a01:cb10:551:2000:acd4:10df:4fc5:d7fa 1 39 2934137 20210813013414
+46.126.148.146 2 265 35165278 20210825081031
+147.78.30.233 0 1 39966 
+159.253.232.44 1 138 18550241 20210822175103
+2001:56a:f611:f900:7dda:27c1:78ea:71aa 1 139 18555962 20210816023103
+2a02:aa13:1101:1e00:d1e8:2070:b7d7:3208 1 148 19018112 20210815094229
+177.37.242.248 1 138 18550337 20210808223735
+174.91.92.63 1 143 18996311 20210812155400
+45.87.212.57 0 1 1136191 
+83.243.227.35 1 12 1306142 20210806082724
+92.203.248.34 1 148 19018303 20210802172409
+2003:e2:6722:c900:31ad:3a47:c512:c2c1 1 88 13780437 20210811035635
+2003:fa:bf06:433d:58b6:69c3:a01:607c 1 44 5835355 20210818164024
+2604:ca00:138:42a9::1060:3b77 2 268 32899545 20210830175140
+87.239.222.184 1 149 19135428 20210827145537
+193.125.6.135 1 1 188508 20210816001117
+193.29.105.78 0 27 2583827 
+90.186.52.2 1 127 18055193 20210827145237
+2001:1c00:1f10:c900:a96f:5377:f8f6:810b 1 1 12818 20210825130914
+160.20.146.148 1 1 67904 20210829233856
+93.67.39.19 1 138 18550313 20210808203426
+5.146.208.28 1 3 292858 20210809175405
+95.223.150.193 0 27 2444403 
+2003:d0:9f16:7fa0:4128:5ff3:25a:4b5d 1 14 3927926 20210813224529
+89.212.227.89 1 145 17234759 20210802153931
+82.131.189.58 0 38 2921319 
+83.11.81.96 0 23 1614945 
+2003:df:af4f:708:35d6:9dad:f44f:80a7 1 49 7498662 20210822164300
+188.138.135.139 1 18 1357201 20210801070225
+91.140.198.66 1 127 16615016 20210825010833
+82.21.185.177 0 2 62596 
+197.52.63.79 0 1 39966 
+91.207.174.50 1 148 19018112 20210815060513
+2a01:5ec0:e003:9f:1:0:fea7:59bf 0 21 1713956 
+2001:8003:e1e6:9401:1595:7a57:f231:a79a 0 118 18219350 
+2a01:36d:120:a53:14b2:1030:c915:9e79 0 27 1459179 
+85.80.245.10 0 5 16036 
+2a02:a460:f6cf:1:5833:d63a:49da:bd9e 0 77 10055612 
+92.218.138.237 0 24 4148626 
+2a01:c23:8cad:be00:504:d167:8346:7da 1 94 14346501 20210825081737
+185.183.146.234 1 1 12831 20210803100253
+174.92.247.105 0 119 18106315 
+188.148.23.170 0 8 410358 
+2a00:1110:201:9a6d:5def:f450:a549:c07e 0 2 53844 
+95.17.220.103 1 148 19246709 20210831141219
+2001:1670:c:73f1:7d6b:910e:9ec4:bd69 0 1 39966 
+51.174.86.163 1 148 19018138 20210817175049
+5.198.17.243 0 2 8933 
+62.216.60.177 0 118 11627099 
+51.89.187.118 1 55 9234758 20210810185417
+2605:a601:a38b:3600:109e:aae3:5bbc:8734 1 149 19135428 20210830164528
+2401:7400:c802:ea75:3002:32f2:e5f0:1b75 0 144 18392056 
+46.45.73.16 1 93 14342110 20210825183559
+178.7.151.41 1 1 12818 20210812090625
+2001:16b8:2cd5:7d00:8c60:d6c:1b92:5b00 0 3 53684 
+151.60.64.117 1 69 6828207 20210829220938
+213.112.71.97 1 1 12818 20210808073730
+103.136.133.14 0 114 15709540 
+116.88.1.135 1 138 18550293 20210806022742
+2600:6c51:717f:5c0c:f8a4:b8dd:1d2c:12db 1 2 190054 20210804175013
+78.26.46.9 0 27 2583827 
+85.221.232.238 1 118 16461783 20210830074017
+2001:8f8:183d:d950:d895:26e:46f5:387c 0 73 12965975 
+2401:4900:4e04:725f:3cc1:cbff:fe9e:6391 2 70 12389103 20210826113347
+2a02:2f08:e908:7100:94ac:408e:bfff:530c 0 18 1721181 
+65.182.60.92 0 14 795700 
+115.186.77.117 1 135 18516760 20210809005735
+2a02:6b60:e259:0:4cb2:9dbe:d477:aa8b 0 2 109621 
+81.164.104.93 1 37 2244382 20210827113653
+178.140.107.151 0 36 3119697 
+217.211.89.44 1 148 19018125 20210813203518
+2600:1f18:65b9:df03:7f8f:5d93:cdb:1df6 0 1 1810 
+130.226.214.210 0 1 8926 
+2003:c0:271f:27c:e8e8:d8cc:f2de:7ddb 0 2 150883 
+93.176.151.131 2 140 18742676 20210816025447
+67.4.46.222 1 144 19008105 20210810172838
+79.154.202.200 1 1 188508 20210818235749
+174.4.205.115 1 128 17542444 20210813171233
+109.249.184.190 0 2 8577 
+130.193.122.202 0 20 1622983 
+83.52.157.171 1 1 188508 20210811171053
+2001:8a0:ece2:f900:f096:2758:f13d:8d31 1 1 67904 20210819191819
+68.37.237.63 1 138 18519427 20210824120500
+2a01:e34:ec42:a470:edda:48cf:d04e:814 0 7 956278 
+2001:4c4c:1b98:7e00:605b:9c8d:f1af:fd8d 1 118 14449158 20210817112343
+2003:e7:3f02:6848:400:85ef:194b:6ea3 1 23 4749696 20210819152607
+2a02:810d:4c40:3728:acad:aed8:915d:babe 0 2 49510 
+83.52.252.218 1 139 18553123 20210823205546
+186.132.106.164 1 138 18550241 20210820070310
+2001:16b8:67ff:1500:9d8e:ee2a:dedc:37b2 3 57 8510176 20210820141601
+173.21.43.62 1 143 18688661 20210829205434
+2600:1012:b1b9:b671:3dce:3d82:bc83:4997 1 137 18527247 20210806175112
+2a00:20:1026:e442:0:4a:ed58:ac01 0 3 74146 
+2600:1700:1102:6240:146d:79f3:90a7:9b1a 1 61 8902310 20210805191740
+186.114.255.232 1 148 19018276 20210805211523
+2003:c3:172a:203:7015:e2f1:c934:d3b7 0 5 2097956 
+77.129.86.28 0 1 2038 
+84.17.63.56 0 63 12546173 
+78.101.91.73 1 147 19127956 20210831085933
+2003:d7:7f16:5f31:597d:d0ed:fdf7:ddcc 1 49 7498662 20210822210651
+2001:871:20f:5d8b:ac26:f8e8:dc33:f035 1 147 19129393 20210825213217
+2600:1016:b114:c7dd:a523:e364:e8f5:f978 1 148 19041671 20210812164815
+75.100.87.158 1 138 18550254 20210815171215
+94.44.231.215 0 11 763627 
+85.227.142.206 0 5 16036 
+83.37.222.180 1 1 12818 20210813104849
+2a01:cb10:5a3:6c00:c85:8926:2088:29dd 0 10 793367 
+5.173.9.242 0 77 14044124 
+84.203.98.207 2 297 38153540 20210831191831
+2003:e2:6703:8f8b:5de7:9603:32f3:3ad2 1 110 15929665 20210827195613
+213.127.14.107 0 14 870606 
+67.204.135.116 1 85 10125583 20210806005328
+96.33.162.135 0 1 78804 
+2003:c8:ff14:3e14:adc6:2c91:44e6:6fb7 1 9 1995308 20210804132025
+181.164.115.103 2 163 18846875 20210817171153
+83.255.173.135 0 1 15749 
+2a03:2880:21ff:9::face:b00c 1 36 5843655 20210802230026
+81.60.176.218 1 138 18550292 20210808231252
+220.236.81.173 3 338 42613622 20210805224337
+72.193.163.196 1 146 18982788 20210805165552
+184.155.38.247 1 140 11739287 20210820231213
+82.100.44.50 0 27 4176355 
+2a01:cb00:541:dc00:fdc5:7701:16a3:1840 1 1 188508 20210831201622
+85.107.79.187 1 129 16175846 20210802013607
+185.70.52.190 1 148 19018112 20210820212708
+198.29.34.155 1 113 16035094 20210808055116
+207.46.13.72 0 1 5280 
+2a00:fd00:9028:9e01:a58d:16b7:cfac:676b 1 1 12831 20210801204014
+109.71.177.70 0 115 11189676 
+138.201.147.250 0 2 2898 
+78.0.245.83 0 1 154360 
+77.75.244.15 0 1 13819 
+91.140.90.143 1 106 12482473 20210801134514
+47.62.236.142 1 1 188508 20210804124559
+85.153.238.197 0 38 2921319 
+2a02:2f0c:c30c:e400:5584:6c2a:a66f:f425 0 124 18318255 
+2001:4c4c:2256:800::1000 1 111 13269422 20210810045447
+95.14.43.90 1 132 16610969 20210806224920
+2600:8801:ac20:d800:60e5:c978:4266:473e 1 85 12909459 20210825215252
+2804:14d:72a9:80dd:2c14:bfb4:2bad:50d1 1 141 18558036 20210812153045
+79.44.130.254 1 135 17191096 20210827120142
+82.158.177.52 1 1 188508 20210816111734
+176.74.252.101 1 143 19108770 20210831123206
+77.141.79.36 1 1 188508 20210830115925
+213.133.88.211 1 148 19018112 20210824224317
+88.230.97.184 3 350 53256323 20210825192501
+185.219.177.94 3 250 35031055 20210804090930
+2a02:8109:9b80:25fc:4973:df14:e372:47f2 0 1 8279 
+155.4.132.186 1 14 2011432 20210815001616
+5.94.122.8 2 174 21971745 20210817193918
+82.46.244.13 0 1 13819 
+2604:3d09:a987:df00:25e8:32d8:890f:d250 1 138 18550241 20210820141829
+31.18.87.203 1 1 188508 20210812170937
+2600:8800:86a2:5100:cdcb:bfa8:f6db:ef95 1 132 18464333 20210812004758
+188.26.41.8 1 148 19134130 20210831154324
+95.171.114.161 0 14 622901 
+89.38.97.144 0 4 90541 
+2a02:1810:3407:7100:54ed:1a28:2f3e:418a 0 1 1429 
+2601:58b:700:9bb0:bc50:6ea4:8eab:52b0 1 143 18561972 20210801202758
+2a04:4540:6c0f:b500:14dd:cea3:f37f:8eb5 1 23 3085111 20210816151622
+145.255.3.36 0 1 75850 
+2800:bf0:8005:107f:101c:4de1:1083:6d27 1 148 19018112 20210817003816
+86.185.142.153 0 1 13819 
+2001:8a0:f860:4d00:fc0e:5db6:b210:a844 1 148 19133882 20210830142853
+89.176.232.22 0 46 2618160 
+86.120.66.16 1 1 12818 20210823125502
+78.82.164.149 0 32 3942117 
+194.219.39.96 0 3 26475 
+94.207.241.130 0 117 18215547 
+2a01:5241:25a:3a00:5c5c:2c2a:8aa0:7967 1 92 4385674 20210818191552
+189.203.206.27 0 1 2064787 
+77.69.47.54 0 16 1570304 
+90.255.46.228 0 34 2385665 
+2a02:587:211d:d1d8:6dc9:2100:77d4:8d42 1 106 12482464 20210802053826
+213.32.243.133 1 148 19018237 20210811123156
+81.225.80.81 1 80 10423271 20210805143239
+84.177.68.116 1 1 12818 20210807003752
+151.24.252.235 1 128 16732332 20210827132138
+2404:4408:67a4:b400:a486:88d8:5caa:b313 1 148 19133882 20210831135919
+2003:eb:2718:e1f6:400c:2c4d:e081:fcb 0 1 117316 
+2806:2f0:9260:6914:bdff:b342:c98c:ff80 1 138 18550241 20210822194012
+82.129.77.151 0 2 10331 
+71.223.19.233 1 139 18551686 20210822031222
+2001:16b8:491:ef00:5c4:c1da:cd05:99ff 0 4 190377 
+78.181.28.85 1 135 16682668 20210811165209
+2804:14d:4cde:8641:2d1a:afff:dd4f:3c2 1 148 19018544 20210805194829
+94.252.12.22 1 148 19018112 20210813201349
+82.16.238.185 1 57 9248863 20210810151257
+5.112.0.135 0 1 22405 
+2800:200:f540:35e2:bd5f:eddf:ea07:f2a2 1 147 19121242 20210826202123
+86.199.177.147 1 69 12455595 20210808000026
+37.8.192.73 0 3 1166790 
+2600:1700:3bad:510:3575:df18:6e6f:964f 1 149 19135428 20210829002137
+83.20.194.230 1 121 16441265 20210829172600
+80.208.79.18 1 12 2176409 20210806025228
+2a00:f41:cca:bf87:bc97:10bc:69e:3bec 1 144 18939021 20210809074059
+81.226.167.14 1 1 188508 20210805165356
+2003:eb:2700:e73c:d9a2:9eb3:c89d:a90a 0 4 2097277 
+2a02:c7f:e910:6300:ec3b:5599:2897:9be 0 3 598727 
+2601:702:3:5c30:d4ea:ffb9:5a07:ab26 1 148 19018198 20210809015232
+2406:e001:a:7800:9908:ee99:6e4d:3877 1 147 19016566 20210819051215
+213.211.212.239 1 1 12818 20210818141742
+2003:f0:70f:825f:3886:172:c5f3:7b95 1 1 188508 20210806115344
+207.248.207.80 1 149 19135428 20210831055420
+94.59.10.112 0 2 48041 
+2607:fb90:d053:bdbd:6d71:5358:6b2f:33cc 1 138 17631074 20210802164840
+2600:6c51:717f:5c0c:e9a3:6819:6429:d7a3 1 138 17311401 20210804164003
+188.220.248.228 0 2 6059 
+3.15.195.89 0 32 758031 
+83.249.94.171 1 1 188508 20210810200300
+61.135.15.162 0 2 432958 
+2601:188:c501:61e0:fd43:4610:957d:d036 1 93 13250896 20210827195644
+2001:16b8:2eb5:e200:11ee:92be:dd67:3e65 1 4 144747 20210829132143
+92.244.220.108 0 4 111580 
+68.224.94.130 0 112 12559797 
+173.93.90.20 1 146 19116358 20210829193722
+95.65.162.63 1 118 15706597 20210822192905
+62.57.19.232 1 1 188508 20210802093434
+107.21.253.49 0 1 226360 
+2003:c5:d717:808f:68e9:cca9:f07d:9a8d 0 66 12891573 
+2001:14ba:8f3:ba00:2cdd:18ac:9f2a:d9f0 0 9 3112444 
+2001:8c0:5504:1:e886:e94:239c:716a 0 11 1117634 
+77.48.27.77 1 148 19018345 20210802071022
+2a02:2f0e:da19:9400:3471:7795:9a70:e00e 0 38 2921319 
+128.199.197.182 1 70 11788016 20210824222826
+89.172.7.242 1 147 19013723 20210809202059
+2600:8801:ac20:d800:c1f0:7123:1c18:3c70 1 92 14572133 20210829044531
+2a0c:5a80:3b04:ec00:641c:57a7:7eda:c36d 1 1 188508 20210823165143
+79.18.120.162 1 116 18284798 20210816120833
+46.132.45.116 1 148 19018359 20210808171507
+91.128.162.183 1 1 188508 20210826070758
+2600:1f18:65b9:df03:b277:eab5:e7d:c0ae 0 2 35999 
+2a02:587:3f1a:8b42:f056:4ede:a79e:be11 2 41 3289289 20210812185436
+2a01:5ec0:d805:2757:28f9:7e62:3f95:6f84 0 20 1547219 
+2a02:587:1909:2dee:4cbd:5087:d9a7:2ffe 1 1 188508 20210830170718
+151.63.42.107 0 71 5914708 
+185.3.2.166 1 1 188508 20210820045355
+5.197.236.74 1 70 12849309 20210824152931
+2600:1f18:65b9:df01:1120:634f:520e:f504 0 1 7503 
+93.138.116.220 1 148 19018451 20210805142015
+78.190.178.234 1 132 18467247 20210817002629
+185.113.97.106 1 119 6140042 20210817154333
+2003:6:53a0:d915:c5fd:5f1f:8f50:2fc3 1 40 5521107 20210823163323
+94.187.1.171 1 112 18229197 20210813004304
+2600:6c44:767f:f9fb:f50e:4a4c:f33:de91 1 110 13313679 20210822074046
+2a02:3035:4:a9dc:1:1:ac04:adfa 0 1 3672 
+62.107.38.84 0 9 727756 
+46.45.185.183 1 1 188508 20210805125931
+77.101.115.112 0 2 10092 
+153.174.170.28 1 145 19121735 20210829123128
+186.154.118.29 1 149 19135428 20210826201507
+2403:6200:8847:cb03:40d3:eb2e:af4e:4c4e 0 9 622800 
+79.23.128.247 1 136 18618579 20210829215732
+176.42.31.197 0 1 154360 
+2601:2c6:4a7f:1140:6c2d:9458:41ea:12d2 1 78 9550213 20210816140412
+176.232.60.189 0 10 793355 
+81.207.166.146 1 1 188508 20210823031603
+37.4.225.55 0 25 2515119 
+2601:602:8d80:6ec0:e125:e5da:7720:77e1 1 23 454150 20210802042450
+23.95.81.224 3 3 38454 20210812175301
+2a00:1028:c800:1b2:653f:36cb:5471:742a 0 46 2618121 
+92.108.223.39 0 3 81858 
+79.144.123.54 1 9 698771 20210806202956
+2001:16b8:a570:f300:f856:3bb2:d721:ad25 1 103 14908159 20210826094806
+2607:fea8:85a0:8f70:dd0c:930e:fe9f:7af0 1 141 18683180 20210826030457
+176.23.103.249 1 148 19018112 20210823103914
+88.243.193.61 1 126 16163657 20210802155539
+2a02:2f0d:b707:1400:34c6:f922:390:ded1 0 1 1546 
+176.116.148.20 0 2 53919 
+81.99.77.21 1 145 17469313 20210826234842
+2a02:587:290f:c0c8:845d:206d:df51:7610 1 1 12818 20210810033750
+31.4.226.172 2 138 18561599 20210809124129
+178.143.177.255 0 1 1546 
+2601:243:1205:3890:d8:db4f:6681:9470 0 110 17569031 
+176.80.133.169 0 1 30719 
+2001:4bb8:122:2013::a6a:53b1 0 9 67172 
+62.74.16.121 0 2 932539 
+62.74.19.29 1 72 7286978 20210822213411
+72.133.193.241 1 139 18672624 20210829160041
+80.95.82.127 0 18 1721193 
+2a02:2f08:480d:b600:8c15:6969:32a:cc33 0 27 2162912 
+2800:484:9f8d:8485:29af:cf12:72e:6a3f 0 1 1546 
+190.217.142.217 0 46 7515200 
+83.72.120.183 1 1 188508 20210813095751
+176.114.240.35 1 47 7428999 20210805155720
+80.187.121.190 1 1 67904 20210822194729
+217.67.238.175 1 3 750325 20210803195006
+5.129.131.72 0 1 117316 
+2a0c:5a80:8001:8200:f481:db0:57ee:6072 1 4 299792 20210829140831
+86.127.76.124 1 120 15070524 20210809213720
+31.17.29.14 1 13 1480307 20210806094647
+2a02:c7e:ece:6c00:c096:8b61:9f:2f35 1 89 14228529 20210820185249
+83.47.98.184 1 1 12818 20210813114510
+2a00:23c7:5302:b301:2c32:6eb2:1604:986f 1 1 12818 20210810221203
+2001:16b8:13f9:d800:4498:d82b:b4d:a98 1 76 6257294 20210824144856
+2003:d4:5735:e800:8ccc:ff09:a578:7855 1 8 466816 20210806220316
+105.111.52.37 1 70 7246719 20210825113432
+161.132.234.232 1 150 19152540 20210826204840
+85.137.234.37 1 145 19001896 20210803091009
+100.34.122.83 1 138 18550312 20210811165458
+84.195.58.240 0 4 90541 
+91.125.78.88 0 1 558 
+212.129.87.78 1 39 2565873 20210827015044
+200.126.129.109 1 139 18656597 20210830183647
+90.227.231.103 1 1 188508 20210823155413
+94.31.89.15 1 36 3934136 20210817192437
+2003:e4:b732:aa99:21aa:96fa:3074:7083 2 285 37567373 20210802220024
+74.200.18.165 1 137 18548695 20210820203530
+94.109.49.229 1 8 583683 20210811153736
+197.200.72.37 1 5 213555 20210813180052
+109.230.57.183 1 28 2175717 20210806155635
+161.35.210.243 0 85 9615314 
+2a02:8108:100:79f0:d0b9:f52c:dc3b:4c15 1 4 73294 20210830142410
+46.45.185.185 0 1 27148 
+2001:4c4d:1186:6c00:b4e4:f0e6:3633:5e24 1 130 15511785 20210825223938
+87.4.20.89 1 138 18479350 20210804083016
+151.57.79.73 1 128 16732332 20210825193843
+181.14.222.21 1 121 18412139 20210830204452
+167.172.43.34 0 3 26475 
+5.89.65.47 1 127 16615016 20210825112029
+2003:f8:972a:2ee5:9a9:24cb:b73d:f1d1 1 2 34623 20210807011435
+2003:f0:170e:be00:cbb:c885:70e0:7482 1 90 10312676 20210824074804
+2a0c:5a80:3b04:ec00:b8d2:9723:397:839d 2 2 377016 20210820064714
+212.10.61.31 1 148 19018112 20210815152244
+2001:8a0:7a80:cd00:bc33:e9e8:dd10:3552 0 1 1546 
+92.239.237.41 1 15 1210688 20210827143336
+2003:e0:6709:de00:714a:eaa8:dc99:483c 2 149 19206620 20210812233624
+91.62.214.177 0 3 313879 
+2001:8003:2604:4701:e83f:d8f3:2660:a456 1 139 18667557 20210829000617
+73.63.184.99 1 135 13013748 20210815214622
+2003:ea:d73f:a273:e47d:39a:1128:ba19 1 123 16912978 20210830063504
+2001:14bb:698:f991:ac67:b099:300:cec3 1 35 3564554 20210831154607
+2603:7080:e301:192d:4d03:aaf4:f78f:fcd4 1 137 18548795 20210802231029
+2003:cf:ef15:19f5:b4a9:e49a:299d:4ace 1 49 7498662 20210822195717
+128.90.171.137 0 2 45483 
+2001:569:7ef0:a500:4814:e50:e98b:41bd 1 144 19008100 20210815051630
+2603:8000:3302:3410:3436:561b:a941:d522 1 137 18488866 20210813060342
+2a02:587:c425:e00:c51b:a04f:a50e:27ec 1 1 188508 20210813080432
+2601:549:4401:6ac0:7928:e024:8379:ce0e 1 148 19018174 20210811114826
+2a02:2f0f:6203:8500:481a:bbee:ec60:d936 0 15 576703 
+2a01:118f:804:be00:ed67:36ff:1f1e:c867 1 38 3012286 20210805011417
+2a01:540:8f06:a600:2988:ed8e:9968:98ce 1 56 6085532 20210822083253
+79.152.15.70 1 145 19111280 20210831161856
+2a02:aa12:3481:600:951:51e9:4698:fe7e 1 149 19041765 20210811134101
+161.132.234.226 1 146 19126964 20210825212605
+2600:1700:b574:28e0:8d2f:9f52:569e:3b48 1 138 18550241 20210819205019
+91.39.204.183 1 1 12818 20210824133120
+176.33.68.162 0 29 2395957 
+217.149.163.195 2 178 22538105 20210801175610
+2603:6081:8301:fa1a:b0e7:3d32:f68a:4b0c 1 139 18667557 20210828021755
+189.216.51.218 2 233 30601111 20210812204207
+2a00:23c5:4f03:8c00:340d:1ec0:a820:946f 1 1 12831 20210809114938
+84.241.198.137 0 14 870627 
+46.103.168.44 0 14 1317125 
+184.148.117.234 0 11 2171925 
+212.253.223.80 0 27 2162925 
+178.209.135.200 0 28 4760014 
+46.40.60.188 0 17 2244559 
+217.113.248.189 1 17 782557 20210805012518
+186.54.97.167 1 138 18666011 20210830174206
+2003:f0:7f02:59c6:2c07:bbb6:b7f7:f9a5 1 21 4433586 20210819101031
+87.207.156.251 1 1 188508 20210831174416
+178.155.239.74 0 1 8279 
+2001:16b8:2233:3900:cd65:2ce8:512f:d51f 1 89 10309369 20210824090337
+2001:8a0:e3fb:9e00:2c75:7ab3:7651:86f4 1 134 15635285 20210810104300
+185.229.154.247 1 1 188508 20210811210242
+2a02:810a:a80:22b:9469:83ff:3371:5e8f 2 108 12953479 20210801151913
+2001:999:50:48ca:b4f6:9af8:3fbe:b362 1 1 12818 20210802090427
+85.66.171.47 0 16 1570329 
+2a02:2f04:d1ff:ffff::6453:a3f1 0 15 1490046 
+2001:8a0:77e5:b01:942e:eec6:6459:2265 1 140 15652867 20210806230219
+2600:1f18:65b9:df01:3582:bab7:de5c:7075 0 1 12235 
+2001:1388:90:77d4:81af:1b32:1564:d6f5 1 148 19018125 20210818045528
+138.186.21.118 1 148 19018112 20210825001904
+2806:101e:9:5577:105f:8ff9:1411:878d 1 138 18550241 20210818215242
+5.18.187.215 1 61 6277705 20210825011302
+80.221.60.160 2 209 25295817 20210824062339
+109.161.103.141 0 74 7108602 
+92.55.172.49 0 1 98173 
+81.225.119.49 0 7 283781 
+79.146.124.36 0 2 33702 
+2600:1003:b1aa:c586:5c6a:b2fe:ebd3:2ac6 0 5 57147 
+2001:1c04:302d:b00:f9ed:4c86:9567:5ec8 1 59 11642022 20210802094628
+31.0.32.40 1 15 2708892 20210802162329
+86.124.31.127 0 7 346551 
+2003:cf:6f01:8319:29f9:10aa:30e4:402b 0 1 227278 
+97.118.186.141 0 1 8279 
+37.182.39.39 1 82 7113993 20210802124333
+109.71.213.51 1 142 18679557 20210827223823
+2003:d2:5f42:3201:edc2:10f2:3b39:4c67 0 114 16033751 
+83.254.205.19 1 144 18899990 20210809080104
+31.20.155.146 1 46 3052712 20210810095027
+147.175.181.6 1 1 188508 20210803135024
+2003:ca:2f30:af00:410d:21dd:a3ea:7543 1 45 4710822 20210818093508
+46.196.89.59 0 47 3115908 
+109.37.135.36 0 1 1546 
+82.209.216.203 1 107 15483426 20210826162500
+2001:8a0:74d5:1a00:8997:8bbe:44a7:c890 2 253 35428507 20210825115317
+2003:de:718:d13:51e6:3894:a92e:845 2 22 2783304 20210818201102
+31.223.84.127 1 146 19011192 20210802083304
+2003:d1:f0c:7800:d4a9:caec:87a:8696 0 3 377482 
+149.224.16.198 1 87 13348900 20210812122342
+86.25.145.121 1 1 12818 20210825125632
+81.233.11.192 1 35 3564554 20210831122427
+79.114.222.217 0 38 2921319 
+85.225.157.13 1 149 19135428 20210827132706
+71.211.231.101 1 113 16438112 20210827195754
+188.25.248.133 1 7 380699 20210824152407
+86.169.240.207 0 1 549177 
+65.154.226.165 1 74 10915889 20210806123521
+108.167.100.77 1 92 12935890 20210808032222
+2003:df:9f00:5a06:1849:23c3:f46b:bd92 1 17 329924 20210831201605
+2a02:1812:c61:1d00:192:1cd9:a2c1:5bf0 0 1 117316 
+2003:ca:3723:2800:84c:6fab:95c5:baa3 1 1 188508 20210825220553
+159.48.55.118 0 4 592715 
+89.38.227.142 1 1 12831 20210810185854
+2001:b07:6462:4553:b8c9:2aa4:443a:36e8 1 138 18550364 20210810200553
+2a0c:5a80:8104:d900:458c:664a:f3c5:642e 1 1 188508 20210815114126
+2003:d1:7f1e:d00:7926:6c8:77c1:1a75 0 70 9353804 
+2001:8004:16c0:393c:2142:1c71:636c:f487 1 137 16485454 20210815194837
+2601:47:4380:b780:950c:518c:6457:47f9 0 113 12798802 
+37.47.197.236 1 138 18550318 20210811171102
+82.77.127.240 1 1 188508 20210817210600
+2804:14c:173:5a39:6cf0:25a9:17c6:dbd3 1 138 18550426 20210801184202
+84.240.118.203 0 8 1678168 
+2001:14bb:6b9:4d64:d5c5:6133:f3b5:4167 0 27 2583827 
+2a02:aa13:3241:7300:8117:8759:41b1:3313 1 143 19110039 20210830221302
+31.201.18.51 1 32 2073954 20210827085913
+188.73.245.17 0 38 5946498 
+93.181.38.33 0 11 1756511 
+88.147.36.16 1 91 11579821 20210831163453
+93.102.210.138 2 139 18618196 20210804121042
+90.214.41.139 0 21 672532 
+54.204.20.249 0 2 3906163 
+2001:16b8:269:9800:9dee:f074:16f2:1c0e 1 1 12818 20210801190120
+212.109.220.65 1 1 12831 20210806153251
+73.19.15.118 0 11 1708331 
+207.46.13.28 0 1 5041 
+2a00:23c4:a2c:7600:84da:fb38:d7d:eb7d 1 1 188508 20210831060727
+86.103.163.6 1 143 18562684 20210818112252
+68.32.212.196 1 138 18550254 20210816040310
+2601:244:4900:9250:c13d:394f:f834:6105 1 139 18667557 20210831200717
+95.85.150.230 1 13 2576101 20210803112242
+2800:200:f180:29:d9b9:b18c:ee93:a75a 1 138 18550241 20210822173921
+2001:818:eaff:1600:41bc:aa8:2ac2:dfd8 1 106 11570917 20210812185438
+35.238.120.57 0 1 1546 
+98.215.57.93 1 123 14213295 20210831202203
+2003:f0:3f39:b74:7d09:276e:eeaf:8bf8 1 96 15525159 20210830155353
+2001:1c05:2201:800:806d:81bb:b1ec:d74 1 1 188508 20210831215404
+2800:cd0:df28:2e00:10fa:3aac:79c6:b1c4 1 148 19018358 20210801092204
+18.118.4.144 0 1 1551826 
+2a02:ab04:2f44:700:49b9:38ee:6670:656b 1 139 18555519 20210813111334
+62.94.205.190 1 89 13782500 20210806021209
+85.217.167.81 1 1 12818 20210824214809
+46.212.0.36 1 31 4371612 20210827091219
+5.164.11.59 0 37 6979907 
+47.215.93.126 1 137 16706891 20210826010309
+2a02:908:3033:eb20:f978:d09f:10f9:9331 1 1 12831 20210803200803
+81.25.184.228 0 2 430022 
+2a02:8109:2640:103c:395e:ba4e:3ec8:1635 2 2 25644 20210827193225
+91.140.89.131 1 105 12480867 20210803123214
+2603:7081:2003:ad5c:ac74:e915:340f:ea6a 1 139 18667557 20210827212051
+2a02:810c:cbbf:bff8:2d0b:c50b:90eb:ff13 0 1 37331 
+86.167.111.197 1 129 16326950 20210823150901
+151.251.245.41 1 129 17995754 20210809133648
+2001:16b8:2ea3:f000:48f4:60ac:fbdf:a94d 1 48 7353004 20210822093409
+50.2.15.121 1 1 12818 20210821004327
+83.209.156.241 0 28 2666785 
+83.43.211.42 0 2 110059 
+2003:e8:6f15:3150:b53d:9c01:ee75:f11f 1 23 3085111 20210816165321
+139.64.214.36 1 148 19018112 20210820124807
+77.28.213.12 0 120 18306122 
+2a02:3035:c03:b0fd:5954:da69:a809:e30c 1 80 8677820 20210831072632
+73.82.24.64 1 138 18550241 20210822224125
+73.14.126.122 2 120 8812725 20210823053543
+206.176.153.122 1 162 22099693 20210820211716
+83.30.120.155 1 87 13348950 20210810183016
+74.126.165.36 1 138 18550241 20210815002947
+183.82.96.220 1 148 19018200 20210810161822
+70.53.250.33 1 143 19006579 20210825133113
+93.123.218.17 1 77 6612150 20210827231510
+91.127.207.158 0 28 4446768 
+213.195.115.107 1 1 188508 20210815180919
+5.156.125.206 0 7 429415 
+95.103.70.183 0 25 3503863 
+197.95.152.9 1 147 19017044 20210805192545
+81.170.162.204 1 33 3252852 20210830211553
+173.95.200.67 1 136 18538098 20210816162248
+88.8.76.228 0 9 527568 
+78.171.228.13 1 48 3497738 20210817223425
+89.155.49.196 1 146 19012587 20210802173428
+5.186.120.46 1 1 188508 20210815114002
+2601:244:4081:63f0:70f7:dc05:ec75:5c04 2 131 16248159 20210824203023
+2a01:79e:7be1:a1bc:6cca:38f9:227d:76cd 0 13 1065145 
+86.97.26.188 1 78 13411601 20210817203028
+2601:204:c300:c130:2d33:19f8:bbf6:bad6 1 149 19135428 20210826223432
+2405:201:2003:306b:899a:ed2a:b84d:b25d 1 149 19135428 20210826171852
+2600:1f18:65b9:df01:e75c:80e7:991a:d46b 0 1 36684 
+213.254.69.28 1 1 188508 20210811195328
+212.187.15.199 0 2 67888 
+2a00:23c7:3a86:9b01:6039:e898:315f:632f 0 1 117316 
+24.27.61.145 1 1 188508 20210801182511
+74.12.204.66 1 148 19018124 20210813233904
+91.53.123.87 1 1 12822 20210829124402
+104.10.210.46 1 138 18550241 20210822014135
+46.197.5.192 0 13 540560 
+193.176.86.52 1 1 67904 20210812103201
+84.17.47.122 0 9 109693 
+197.94.93.32 2 137 17506966 20210810151405
+176.233.241.124 0 21 2249780 
+84.47.94.248 0 28 2908311 
+146.212.238.241 0 1 13632 
+2806:106e:23:acd1:e42c:98e2:a995:7ae1 1 1 188508 20210802221722
+37.210.233.57 1 138 18550241 20210818100750
+81.35.17.119 0 4 128699 
+46.155.26.248 1 12 735761 20210823133055
+78.96.80.187 0 23 1560690 
+111.65.45.43 1 148 19018112 20210813110309
+2003:c1:5716:2800:2db8:63d1:ecae:d03c 1 91 13787674 20210810144938
+132.147.111.128 1 142 18574346 20210823144220
+78.87.96.125 1 119 15043354 20210806204522
+176.232.59.186 0 6 192191 
+78.73.62.251 1 1 188508 20210813165527
+2a02:8108:9300:3de4:985e:e10e:ad00:e4b2 1 1 12831 20210813142056
+2a00:23c5:db0e:2e01:47c:d3b8:4e78:bf57 1 1 12818 20210805192220
+45.41.104.5 1 160 30553815 20210819194913
+83.8.52.154 0 3 185439 
+2607:fb90:62d8:6a21:5a20:9f78:256a:93e 1 138 18550292 20210809212130
+2003:fa:3f10:f200:d54a:9bef:fd6a:d810 0 15 1383832 
+2001:1ae9:29c:e800:d01c:108b:578f:29fe 1 146 19013048 20210810145139
+2600:1700:15de:4840:61b0:521c:6fd9:c2b0 1 127 17916525 20210801123757
+96.52.57.95 1 138 14746631 20210830191700
+2a02:587:362d:3c00:1965:412f:9ab:37e8 1 1 188508 20210811093214
+151.80.180.239 0 1 39762 
+193.91.128.174 1 1 188508 20210812231333
+90.242.135.211 1 1 12818 20210802134107
+49.145.51.56 1 148 19018226 20210811121753
+2001:4c4e:18c6:a400:7525:1fb3:3081:1a25 1 112 14202626 20210816090239
+18.118.27.180 0 1 47343 
+95.192.237.221 1 137 18548770 20210808171314
+79.166.95.240 1 13 734055 20210816011141
+108.188.235.31 1 144 19008087 20210815005026
+80.117.105.188 1 134 17193177 20210829170931
+82.72.208.218 1 8 499667 20210827214740
+46.1.241.120 0 16 1570329 
+195.213.237.77 2 50 11443044 20210823023742
+85.228.41.102 1 1 188508 20210827204021
+112.215.208.73 1 67 11282954 20210806020843
+2001:8a0:712c:2500:452:7db:36a6:a27b 1 102 11554169 20210813191612
+2603:6081:6b07:95b0::45b5:a4be 0 22 265613 
+2.180.79.24 0 2 46125 
+101.176.37.82 0 115 18096290 
+68.148.0.136 1 138 18666011 20210827082607
+83.92.97.123 0 2 80156 
+2603:7080:2a02:9442:31ec:f8d2:cc32:ec14 1 148 19018124 20210815224750
+86.132.79.252 0 2 5988 
+2a02:8388:ac0:1300:8458:8c57:10e2:f8ba 1 145 18940484 20210808111941
+91.114.213.52 0 5 16048 
+95.79.84.116 1 1 12831 20210801140921
+67.218.228.149 1 148 19018175 20210811171034
+2003:c8:ff04:f100:ace5:1c1d:bd2b:8f33 2 51 7513421 20210822224218
+2001:16b8:a0ce:e500:6dca:cfa1:aa9d:1fb5 1 45 5844281 20210818180054
+5.170.241.163 0 21 2982494 
+2a02:2f0e:520c:9f00:cc9a:bbbf:fdd1:1885 0 31 2855177 
+84.124.162.75 0 112 5868233 
+151.74.97.84 3 312 41420675 20210831135743
+212.252.139.150 0 31 1970981 
+2003:e6:8740:c6f3:fce8:b005:1904:dd69 1 32 3900490 20210817204611
+2603:7000:7500:7:5ce4:793c:558f:e9d5 1 148 19111747 20210829044306
+88.246.76.137 1 133 16612175 20210806184634
+92.75.51.220 0 1 1621 
+2600:8803:c401:4d00:9801:c81d:7028:36e5 0 43 3723481 
+2a01:79e:7be1:a1bc:ad84:e66f:cad5:a7de 0 21 3171700 
+2600:1f18:65b9:df01:56bc:e11:923e:5ca6 0 1 5721 
+2a02:1205:5070:92c0:e113:9ff6:9681:1528 1 39 3961108 20210804064706
+88.193.133.153 1 148 19018348 20210809161627
+2a00:6020:5082:4700:9b2:5c9e:a1ef:be69 0 10 2470023 
+5.90.36.57 1 148 19018112 20210820122153
+2.204.77.162 1 32 2073954 20210827134003
+201.185.232.89 0 1 321125 
+2a01:cb1d:403:8d00:bdfc:a9de:c1c0:f6fe 1 87 14316889 20210829150231
+89.204.130.118 1 51 8148211 20210819044742
+188.240.139.196 1 1 12818 20210818231932
+96.250.230.69 0 1 83557 
+68.148.97.214 1 126 17572211 20210817003702
+2003:6:318b:ae05:1408:1835:415:c25e 1 4 1701584 20210808215327
+188.27.50.107 0 22 1556188 
+34.220.182.55 1 113 16300848 20210808201413
+78.84.138.31 1 139 18667557 20210831100241
+85.153.203.103 1 153 19180938 20210816154156
+2a01:c23:7504:f00:d5b:fe9f:5542:8e6d 1 59 7879392 20210823131148
+141.8.79.44 1 82 7113991 20210802104759
+2a02:2f0a:d002:8c00:4821:374:876c:c7da 0 16 1570316 
+190.249.26.172 1 148 19018112 20210825030219
+138.199.7.154 1 1 12818 20210820061721
+89.128.105.84 1 167 19696059 20210823151308
+75.12.150.112 1 127 17916501 20210801034419
+88.201.0.251 2 289 37818568 20210827005107
+2603:6011:9d3c:255c:101f:520d:33a8:70bb 1 138 18550241 20210815213015
+105.108.58.147 1 1 188508 20210825053107
+2603:6081:7502:634:acfe:b7aa:3c2e:6902 1 148 19018405 20210806030420
+81.233.74.136 1 148 19018411 20210802132832
+185.134.125.21 1 1 188508 20210819125327
+62.168.73.74 1 140 18558000 20210812054526
+94.240.234.172 2 295 38034678 20210823201054
+2800:810:5e4:12fd:ad5a:f2de:47d3:95d7 1 58 11851782 20210831060224
+2a02:ab04:2f44:700:6821:fae4:5d79:d7d2 1 136 18526618 20210806135552
+2a02:aa15:3380:5c80:3936:3e55:169d:8ff2 1 50 3919374 20210822090256
+2003:d2:af04:1971:f92a:2f3e:1e9e:deb7 1 1 188508 20210809005008
+2003:d2:af04:1941:e091:e48c:da92:aa7f 1 47 7428999 20210805214924
+2a0a:f640:1003:8e2f:b1bb:9668:e437:2016 1 1 12818 20210805182704
+2a02:1810:a509:6300:483b:7aa3:8a43:9396 0 2 59583 
+178.137.31.174 0 28 2908311 
+31.183.205.107 1 112 16362623 20210827150656
+178.214.248.249 1 134 14426438 20210816015801
+77.226.162.218 0 2 47469 
+2001:16b8:b4a8:6600:f96c:67d:fee:2845 1 64 8596107 20210823160834
+2600:8804:8644:1500:952f:5238:78d2:1b50 1 148 19018246 20210811072514
+212.10.226.14 1 62 8936631 20210805105511
+78.171.48.49 1 136 18477369 20210819144513
+2601:246:8200:1ca0:a8b0:3c2a:852a:a4f4 1 136 16889006 20210817235634
+2003:cc:ef0e:a500:c0c3:3c5f:9641:b5f2 1 43 4707436 20210818113455
+2003:dc:b707:e869:51ab:38c4:6fc8:3889 1 6 423288 20210810060223
+2.202.6.40 0 6 174917 
+99.76.154.184 0 142 17469502 
+82.41.144.22 0 3 54573 
+87.98.154.39 0 4 191989 
+88.91.178.96 0 25 3183462 
+2003:6:219c:405:893:1c03:d1c4:3f67 0 1 132503 
+68.183.79.125 1 1 67904 20210801140108
+193.176.211.36 1 138 18550405 20210803033740
+2a02:8108:3c3f:f4fc:d4d8:4aec:ae7b:fb56 0 1 154360 
+2a04:4540:7107:ba00:ad19:ff89:62c7:a238 0 35 7071223 
+185.134.22.96 0 1 75850 
+46.2.135.56 0 15 576703 
+62.109.162.243 1 57 6202848 20210828022111
+213.7.52.71 1 1 188508 20210810153450
+2a04:cec0:117b:2c45:0:42:80e3:f901 1 84 13754049 20210817100831
+2a01:e0a:530:9bd0:e8cd:ed1b:bfcb:94bc 0 1 30719 
+2003:ce:174a:c0ea:f954:b005:b31:bef 1 50 7500603 20210822151446
+77.51.121.168 1 117 11456962 20210823181921
+94.143.240.238 0 103 10278505 
+2003:dc:6f3b:54fb:9016:346d:d4a8:d657 1 30 7348947 20210801103147
+83.248.188.212 2 2 256412 20210806164845
+2001:4c4c:1256:db00:e17e:777b:5d1f:e26f 1 157 19214497 20210823204405
+185.125.208.34 1 1 188508 20210820150559
+24.245.230.174 1 23 454120 20210802071640
+61.135.15.136 0 2 6527 
+195.142.85.165 0 2 158849 
+176.88.143.215 1 75 7703011 20210820120651
+2a01:598:d031:5133:1:1:2c35:8b27 1 11 2665090 20210803164607
+2600:6c51:447f:89cf:1015:d536:d8af:1900 1 123 18372217 20210811023131
+49.188.47.116 1 146 19118507 20210829154052
+2a02:2f0f:e200:e700:fda8:f4c2:afad:b8a2 0 5 33616 
+54.225.104.196 0 1 1546 
+93.34.161.158 1 1 188508 20210812162033
+82.40.204.85 0 1 154687 
+217.97.73.241 1 122 16900485 20210830152828
+188.148.224.67 0 5 129308 
+186.188.232.78 0 119 18106315 
+86.52.23.32 1 1 188508 20210826183805
+156.155.201.2 2 175 27695027 20210822213024
+46.224.89.32 0 1 597371 
+205.169.39.57 1 1 188508 20210803101719
+178.255.168.75 1 138 18550241 20210818212333
+68.131.30.111 1 148 19018163 20210811022208
+104.235.27.15 1 1 188508 20210816000806
+2603:7000:5001:f300:7d3e:5cc2:b5f:c0c 1 148 19018259 20210809053050
+169.159.173.36 1 248 35583205 20210811175232
+79.129.57.216 1 12 631144 20210815175444
+2a02:2f05:661b:8300:c081:69e0:101e:98da 0 1 154360 
+190.22.108.203 1 148 19018112 20210816005638
+2001:7e8:ccca:de00:7091:ae36:d4d:252a 1 78 13411601 20210824194132
+212.86.102.106 1 1 12818 20210824175659
+2003:f7:f730:5900:8c6a:2487:6a81:7917 0 11 1756511 
+2003:d0:970a:6600:bc35:5833:d4a2:81b7 1 47 7428961 20210806081233
+2604:2d80:4a00:1e00:5c1f:241b:4015:5b18 1 113 13795578 20210829022614
+88.90.113.20 1 148 19018187 20210808175304
+87.74.13.217 0 2 41656 
+213.24.135.118 0 34 2112575 
+2a02:2f05:6d07:4e00:45b8:ebc7:f355:121b 0 5 33616 
+2a02:810b:89c0:2698:bdf7:569e:44e4:524c 1 28 2632911 20210824064304
+93.191.203.216 1 1 12818 20210815214158
+2600:6c67:497f:80c7:2418:ca40:bdba:7bb4 1 117 16255572 20210810061608
+2a01:585:979:1:2cd6:b6d7:bece:52b4 0 3 936175 
+122.109.56.70 0 46 3074857 
+2001:1ae9:2b6:cd00:7d84:d6a3:276:b4a3 1 140 18557260 20210823185733
+94.201.112.156 1 148 19018527 20210803103559
+2a01:5ec0:d001:3fb9:247a:6b0f:f754:c95e 0 4 34742 
+2605:6000:2fc0:32:7518:e7a1:9973:254f 1 136 16715947 20210826232536
+2804:5c:4ddf:f400:2953:de5a:fb04:8e6c 1 139 18667557 20210831131601
+2a02:908:e940:f6e0:495a:2efe:e217:4306 0 6 687813 
+2001:818:dfa2:9a00:1155:7f67:6415:c922 1 29 918858 20210815204953
+62.102.173.3 1 148 19018112 20210820104405
+62.148.157.55 0 2 318559 
+144.2.102.4 3 277 37113467 20210811172634
+2003:d3:af28:2b34:99ad:2543:2e7e:66c1 1 54 7995716 20210820001852
+94.54.9.169 1 145 19112046 20210827193410
+109.7.244.80 0 3 68231 
+89.103.152.17 1 149 19135428 20210829230820
+174.21.61.159 1 145 19125651 20210827063834
+207.89.88.1 1 1 12818 20210817085708
+81.110.85.25 0 1 13819 
+79.17.135.125 1 138 18550241 20210818170958
+213.237.90.158 1 148 19018112 20210819221258
+83.22.203.67 0 2 25092 
+195.211.23.210 0 1 1546 
+151.54.136.200 1 147 19016667 20210812152945
+2a02:a310:c061:3b00:859f:425c:fbb6:55a3 0 1 17112 
+2003:a:c28:c300:acc7:116f:a9cc:d30a 0 7 331411 
+5.173.140.48 0 2 10516 
+2001:16b8:68d4:8e00:d868:b2a3:56fa:2d99 1 36 3934136 20210817170842
+84.215.117.162 1 1 12818 20210820031013
+35.229.42.208 0 1 1546 
+178.120.64.218 0 7 1719696 
+2.205.135.240 0 16 895755 
+91.115.135.111 0 5 16036 
+70.74.132.87 2 261 32330438 20210829080802
+2607:f7a0:f:3::273 1 148 19018124 20210815185710
+185.219.179.194 1 134 18472348 20210815194002
+37.19.42.120 1 56 5925931 20210805185552
+83.36.132.58 1 4 322818 20210812100925
+95.10.239.130 1 137 18561712 20210824114545
+173.95.200.78 1 136 18538098 20210815151218
+2600:1700:1150:6ae0:94da:556b:9a7:659e 1 148 19018486 20210805081342
+2003:dd:cf0e:3000:98ba:ae3f:e9f3:aa8a 1 89 14520022 20210808153445
+79.159.69.238 0 2 110263 
+176.232.75.118 1 33 3153463 20210801212447
+73.163.73.142 1 139 18554916 20210804050859
+2001:16b8:2d30:7100:2555:18cc:ea3:4abc 0 1 30918 
+95.5.97.239 1 136 18477369 20210816162545
+2001:8f8:1863:d419:f1a6:f1fc:b68:e3cb 1 139 18667557 20210830222021
+2003:cb:b725:3b0e:74b4:e294:e0ad:f5d 0 1 1621 
+2a02:3038:406:fcd8:1:0:66c:44b1 0 16 1235548 
+2a02:8070:e1b0:f400:65ba:c9a2:12b8:b818 0 50 6078378 
+62.248.8.150 1 148 19018112 20210822205941
+213.55.225.33 1 69 12321199 20210827050936
+2a04:4540:5002:f00:3c77:719d:86d8:b82 1 1 188508 20210817200834
+157.90.195.149 1 1 12818 20210823081716
+2001:a61:2437:6601:6d3d:aff4:51e:29f1 1 137 17384477 20210831130806
+2003:d2:8f22:ca00:f8fd:e1a6:7558:5935 1 3 58323 20210812230431
+209.226.177.74 1 136 16889019 20210817135813
+109.92.154.105 1 36 2619275 20210827185141
+2601:282:177f:b5c0:def:e741:1d08:8fc9 1 36 868848 20210822060928
+81.166.147.27 0 2 6838 
+2a0c:5a84:3102:4500:c0ad:d8af:64ec:2cb6 1 1 12818 20210808101842
+207.87.203.100 1 28 2183353 20210816115014
+2003:c6:4f10:b400:6d8c:d68b:b62b:9173 1 59 8245370 20210823113324
+104.220.185.239 0 90 14195016 
+2001:871:211:485:c462:ea9b:9a38:3f78 1 139 18552279 20210820084123
+46.35.213.159 1 128 16262944 20210826212337
+2603:6011:d706:9b00:fd:fc74:91a8:368e 1 138 18550241 20210822232632
+2601:147:c000:b640:90be:fae3:d87d:368f 1 137 18548937 20210801224532
+2001:8003:ac03:301:80d:54eb:2a9e:7956 1 139 18554044 20210812011312
+2003:cb:c70a:52bf:c5f4:e65e:2879:4e2d 1 85 14474007 20210831203134
+79.192.164.116 1 1 12818 20210817221207
+2a02:c7f:ce6b:5300:81a6:ef09:eb3f:72df 0 2 1557106 
+91.234.125.73 3 518 73553701 20210825184150
+2a01:c23:6dde:7f00:8932:4114:38ab:b236 0 1 654 
+85.224.5.195 0 38 3254860 
+82.27.78.119 1 1 12822 20210827182222
+2a02:587:7600:3a00:30c6:54c3:71ae:bc13 1 71 7364035 20210827122043
+181.226.198.227 1 148 19018405 20210802200645
+37.231.29.174 1 149 19135428 20210830045608
+85.221.243.66 0 10 2470023 
+80.161.170.217 1 1 12822 20210829174358
+176.240.98.210 1 143 18700558 20210831180155
+2a02:8071:ae7:b900:8de5:80bc:6561:2a6c 0 1 18524 
+95.5.123.183 1 140 18686611 20210830210808
+163.53.202.49 1 148 19018112 20210816135625
+119.18.1.205 0 119 18106364 
+77.172.144.7 1 1 12818 20210812091226
+2001:16b8:6427:9200:d81e:e9ce:6961:875 1 15 2708918 20210802185857
+83.248.74.140 1 1 12818 20210820163642
+176.54.208.189 1 27 2134983 20210805222156
+2001:871:25f:832b:3d8e:ef09:f791:bc08 1 137 18536422 20210818221452
+80.95.84.105 1 149 19135428 20210829134538
+82.24.38.62 0 6 78093 
+88.230.159.238 2 142 15961987 20210811232653
+80.219.173.198 1 148 19018223 20210808100241
+2001:8003:e007:2300:4943:36cc:f9c4:92d3 0 119 18106340 
+84.122.86.45 1 25 3730970 20210805075534
+78.67.43.23 0 1 75850 
+81.213.249.27 1 138 18599174 20210826145714
+146.113.247.220 1 148 19018112 20210823000047
+2804:14d:2a7b:86be:f05d:ead1:3b0f:69e3 1 138 18550241 20210816204500
+92.177.41.199 0 1 3672 
+88.244.93.113 1 107 15925552 20210811124915
+2a02:aa10:e37f:3300:b8bb:3324:c68:722e 1 147 19013623 20210823175126
+2001:16b8:66ed:7b00:3c48:8cba:6667:321f 1 67 10230371 20210812150918
+92.234.205.90 0 3 120297 
+149.172.80.123 0 32 4709742 
+5.122.171.162 0 2 109258 
+2a02:810d:94c0:19b4:48e4:9ac0:2fe3:bbdc 1 1 12822 20210826154917
+78.168.155.120 1 139 20945988 20210818173200
+179.6.170.42 1 148 19018430 20210809072754
+5.173.136.218 2 16 2776822 20210802122124
+2a02:908:214:6fe0:1563:ac5a:430c:ff27 0 14 212410 
+2a00:20:701f:2866:8191:fdeb:5523:33b9 0 38 3870245 
+54.221.199.147 0 3 208443 
+2003:d7:f21:bb00:e889:cabf:ee71:6b2e 1 58 7813857 20210823075224
+104.174.205.91 1 138 18550241 20210819010928
+85.166.181.232 0 6 370412 
+2a02:908:a37:7da0:c19c:3415:2c0d:4c52 0 25 4577626 
+2003:d5:b737:99b2:591f:556b:5e07:b89a 1 46 6275794 20210818185129
+83.21.160.103 0 27 2162886 
+2a02:8109:8a00:8ec:b4f3:d94b:fccc:6b2a 0 1 1551826 
+93.135.191.113 1 138 17700997 20210829115017
+2001:8003:e007:2300:b028:83d4:f913:ff3b 1 137 18548759 20210808121437
+81.90.168.32 1 1 188508 20210805081013
+240b:10:3062:4000:542b:7e55:be09:9e75 1 148 19018112 20210818063539
+2a02:810d:8cbf:c928:45c3:5748:1e22:8790 0 3 131442 
+2600:1003:b0a8:beb6:d58c:3eeb:bf90:b79 1 138 18550471 20210804161838
+77.240.103.179 1 15 2708918 20210802180502
+2601:ca:202:7aa0:c89a:3104:fb39:fc9e 1 140 18637575 20210826042409
+67.164.98.74 1 138 18550241 20210820034501
+190.22.151.211 1 138 18550241 20210816222419
+45.143.79.68 1 20 1870968 20210818061642
+2001:1c04:50c:8200:193a:f55b:82ad:8cc0 1 1 12831 20210802111001
+31.223.14.82 1 138 18550428 20210802111113
+82.148.182.13 0 10 1980241 
+2a02:a03f:e63a:cf00:34bf:c141:278c:ce78 0 2 77311 
+2003:df:c726:a74a:e48c:cb16:94fb:f469 1 88 14088367 20210808081121
+2600:8807:283:5100:4086:2f2d:6505:7ca0 0 135 17439112 
+110.141.152.19 1 150 19256817 20210824070443
+2.24.46.120 0 1 2373 
+80.104.204.64 1 148 19018112 20210813201418
+2003:d5:3f1c:200:213c:cb6b:92ef:f2cf 0 21 4126537 
+217.31.102.212 1 1 12818 20210812100014
+92.238.104.27 0 1 1621 
+2600:8804:a86:d200:1d34:a9a8:2612:dbd 1 139 18667557 20210829001429
+95.175.78.42 1 119 15043425 20210806152957
+49.12.51.141 0 23 1564767 
+96.31.195.93 1 118 17240408 20210811111933
+2a02:2455:aeb:5100:b5fe:a794:f04c:1264 1 28 5013700 20210830164816
+77.251.220.177 1 1 188508 20210829095955
+85.50.10.4 0 1 39966 
+65.255.178.70 1 84 10111068 20210806034541
+209.171.88.174 1 70 12849568 20210803084625
+83.128.162.150 1 1 188508 20210820170752
+88.201.58.195 1 65 12554873 20210810073451
+2600:1700:2320:4790:99b9:e769:6e16:1d0c 0 88 13871892 
+212.58.120.98 1 148 19018112 20210818143040
+2a01:598:b8b8:baa0:dc7b:d88a:56b1:32b3 1 13 1946960 20210815200357
+2a0c:5a80:3d04:1400:c1ab:9702:8043:3946 1 151 19028735 20210802151043
+2003:e7:870e:9578:fd95:a7e1:95b3:1a73 1 1 188508 20210806083626
+5.44.168.175 1 148 19018112 20210813110240
+2a02:1205:5007:4140:4ca1:f17a:305a:cb2f 1 137 18477886 20210803181122
+2001:56a:7970:8600:860:86a7:5ce:6e4b 0 9 67184 
+178.152.12.34 1 148 19018395 20210808073158
+93.33.29.95 1 139 18806485 20210817032637
+85.242.171.193 1 134 16463241 20210826001330
+176.21.227.227 1 1 67904 20210812003802
+2001:8f8:183d:d950:8819:7a9:25f5:3c0 2 168 19556205 20210829141612
+2600:6c44:767f:f9fb:99c7:4606:df8d:be93 1 133 18493094 20210825060234
+2601:585:4280:410:50c5:34c0:c81f:a0ec 1 147 19016603 20210809072625
+2003:d6:af18:1900:d4e7:f4cd:d029:4245 2 88 13361718 20210812165116
+2001:8a0:6074:b601:d896:21ea:9975:20f3 1 140 15652767 20210805120130
+2001:8003:4025:5701:4d02:44bc:5d04:4ce9 1 138 18550241 20210824135521
+2a00:801:2d3:5238:ec97:9077:2e22:d09b 1 148 19018112 20210824214605
+62.133.132.211 1 1 12822 20210829133736
+2003:e5:8710:3fc8:f518:791:dcff:f03f 1 15 2708905 20210802200136
+109.49.1.208 1 135 15636831 20210808100820
+83.250.69.55 1 138 18550241 20210813135648
+2a02:8108:48c0:30f4:a99e:4ff:9802:70cf 0 3 107757 
+2a01:598:b971:74da:f445:b5e:712a:9dc9 1 23 3085111 20210816114444
+73.167.130.127 2 250 31898075 20210831171934
+2001:8a0:ece2:f900:99e9:5ef0:d9cd:161 0 5 57147 
+79.130.97.176 0 3 26463 
+197.90.155.12 1 143 18721277 20210816073412
+80.221.84.71 2 107 12073058 20210827173506
+82.174.161.22 1 14 1760505 20210806010703
+81.236.251.250 1 1 188508 20210820203906
+2600:1f18:65b9:df03:ee5:501c:b387:74cd 0 1 4489 
+88.246.77.233 1 134 16840229 20210804112825
+2001:b07:645f:bbeb:894d:e6d4:961f:7776 1 136 18476418 20210802084546
+85.110.213.212 1 131 18047921 20210824131508
+88.156.136.182 1 5 623634 20210830223522
+92.118.154.97 0 1 23681 
+2003:ee:af37:7867:6031:4d7d:8354:b8ef 0 5 2097943 
+85.238.69.252 0 38 2267051 
+2a02:a420:2:a245:2:2:9eec:ff0d 0 5 16036 
+81.170.221.50 0 1 1546 
+2001:8a0:f981:bd00:bc4c:6c6:31aa:cc56 1 138 18550318 20210803165119
+185.175.19.237 0 28 2666785 
+2a01:cb04:b62:4d00:8c75:b868:f9ea:d694 1 1 188508 20210829171733
+2800:810:55a:388:4947:8b93:8c8e:e488 1 148 19018138 20210813143103
+2600:8805:ab05:dd00:d4eb:fe09:55f0:ac96 1 93 13250896 20210830005546
+2a02:c7f:d52:7600:1498:f74c:9b9b:1457 2 68 12717133 20210806044640
+62.42.133.41 0 1 13645 
+106.75.232.167 0 1 39966 
+2a02:587:4c01:1b0b:18ab:7897:59aa:71a1 1 35 3923967 20210827172148
+87.97.33.34 0 3 281011 
+2003:cb:c70a:528e:99c2:8505:f9b1:c508 1 100 16215865 20210830131942
+2a02:8108:8080:c48:b55b:e1ff:2412:e321 0 12 173650 
+2a02:a440:14d4:1:582d:4cdf:bca7:bb6e 0 1 2479 
+49.196.150.218 1 148 19018124 20210815003206
+79.161.169.206 0 8 1885255 
+73.58.4.22 1 93 12939655 20210809212654
+91.226.3.150 0 72 8718761 
+2.247.247.222 1 1 67904 20210831081154
+82.222.134.73 1 150 19068544 20210823182931
+159.196.14.101 1 139 18667557 20210825232325
+98.128.166.70 2 139 18618145 20210820214126
+14.251.31.245 0 121 18160243 
+128.90.171.148 0 50 3517589 
+2a02:908:955:98c0:c902:37db:de6a:c542 0 1 1810 
+82.197.250.76 0 1 1546 
+91.89.56.64 0 79 9575325 
+95.237.33.147 1 84 13730878 20210805162948
+218.212.92.229 1 148 19018509 20210801031648
+212.200.65.71 0 38 5929969 
+2001:4c4e:21cc:7b00:1d04:d898:259c:36e9 1 117 13387625 20210812221120
+179.6.204.29 1 138 18550462 20210804031737
+45.35.180.227 0 14 6604166 
+46.45.185.161 0 3 435680 
+93.152.154.97 1 148 19018150 20210812163603
+46.176.150.86 1 17 1758824 20210802071415
+2a01:cb01:2056:241d:ddc5:6fce:c5a8:b828 0 6 130515 
+149.202.22.5 1 1 188508 20210812143724
+78.176.121.202 2 267 33397950 20210811203644
+81.252.22.129 1 91 14237619 20210813115339
+85.137.56.32 1 2 280126 20210830025422
+80.134.227.242 1 1 67904 20210827164339
+94.102.54.166 1 4 2077149 20210817234148
+2605:a601:a739:af00:751d:c870:7b16:ccb 1 136 18514718 20210806051152
+81.110.245.192 1 98 14481651 20210815214842
+2a01:598:a837:9b92:e5e2:85cf:173b:e9 1 1 188508 20210809185457
+2600:1702:4eb3:710:14ee:d113:2993:f298 1 94 12274594 20210808062154
+2800:484:b281:9fee:f9c9:b609:55db:20e9 1 146 18991596 20210812222228
+2a02:587:b810:b54a:d94c:3222:e89f:a993 1 120 15070476 20210810010359
+138.68.180.18 1 1 12831 20210806053006
+87.243.132.196 1 68 7680157 20210801101022
+5.25.162.117 1 145 19010028 20210817124215
+86.144.118.235 1 1 188508 20210829134034
+89.182.101.168 0 1 52298 
+128.0.207.225 1 14 745302 20210816125044
+208.114.90.36 1 127 17916451 20210801181840
+2003:c6:f10:8700:e896:3139:d135:1db8 1 32 5026417 20210818235531
+51.178.5.203 1 15 1059122 20210802124910
+46.219.209.52 1 75 7339191 20210827000837
+178.155.243.87 0 18 4413746 
+2604:2d80:4a00:1e00:c73:9ff8:7ef2:5afe 1 1 188508 20210820222154
+173.3.148.33 1 143 19006466 20210824064153
+86.5.91.179 0 6 92535 
+2603:7000:7801:8c38:b94b:8d16:be00:4a7 1 149 19019671 20210818033345
+88.115.220.172 1 1 12818 20210820144926
+94.187.3.231 0 1 1429 
+2a01:e0a:af:2910:1101:b75a:f485:d0c3 0 3 50715 
+99.191.232.250 3 253 32358690 20210818190522
+212.112.153.61 0 1 12640 
+78.190.188.43 0 111 17782975 
+71.246.65.248 0 146 18828058 
+2600:1700:2370:6600:898a:a46c:2760:2b12 0 1 47343 
+78.71.171.57 1 148 19018112 20210818085254
+2806:103e:d:6cf9:897:3a8e:7956:408d 1 138 18550241 20210822193204
+2a02:2f09:3902:8700:5c45:8cc6:73e2:1b60 0 27 2162913 
+2a02:8309:3184:b00:60b6:c714:8b37:eb70 1 142 18676614 20210829013043
+190.232.106.191 1 140 18669498 20210827004147
+2a00:5400:e139:9e4:b001:99cb:4108:6808 1 148 19018112 20210823193642
+2a02:1388:84:d966:3bf5:a1c:19b5:6118 1 124 15059257 20210805200344
+2804:14d:8e8d:4677:c043:e5e0:e04c:40dd 1 58 11738345 20210810033931
+90.69.129.121 0 2 110059 
+185.182.212.189 0 2 53931 
+139.138.199.31 1 144 19008842 20210813094414
+76.73.183.107 1 147 19016566 20210825015113
+64.53.199.17 1 148 19018311 20210809015339
+2003:db:703:1100:cf0:a27d:ba85:e69a 0 4 79958 
+217.197.176.211 0 17 1188780 
+190.20.204.60 1 138 18550466 20210802045351
+41.227.93.88 1 148 19018112 20210815145555
+2003:c7:bf2b:b1fd:f471:9036:eaf2:e14f 0 11 1756511 
+213.7.147.215 2 55 6463721 20210830163706
+79.107.140.214 1 121 15071797 20210808042345
+2001:8003:5033:7a01:8dd5:72ad:7dc2:a6ce 1 148 19018200 20210811165319
+185.174.159.139 1 138 18550241 20210812213517
+173.178.193.131 1 138 18550253 20210815212146
+45.4.200.69 0 114 18085693 
+83.255.209.177 2 99 10393694 20210827113201
+193.188.113.5 1 148 19018112 20210822063903
+49.196.148.170 1 150 19060816 20210822064602
+2003:e4:b702:3c85:adc0:674b:fb43:dcae 1 148 19018112 20210817131023
+2607:fea8:a2de:de00:459e:e8a8:a246:6f7c 1 148 19018112 20210823233011
+2a01:c844:2045:ec00:b9a4:9830:a3a7:c3b8 1 136 18410372 20210825222933
+83.57.19.165 1 9 648361 20210825215314
+46.106.104.126 1 149 19135428 20210831205858
+116.15.201.58 0 1 921279 
+93.30.113.70 2 2 377016 20210831145357
+217.131.80.103 0 10 793342 
+217.17.232.130 1 148 19018404 20210806015839
+176.88.94.184 0 15 1396722 
+74.197.4.28 1 88 11970812 20210808162943
+208.98.222.117 1 136 18476187 20210824182712
+83.188.48.12 1 43 3116155 20210826165719
+2a02:587:f6c:41af:f41f:ecbf:199b:c33f 1 74 7371174 20210826050316
+134.93.202.161 0 1 14750 
+186.231.245.151 1 139 18667557 20210830231333
+2601:192:4280:40d0:4cba:4cb4:428a:ee7a 1 138 18666011 20210826051650
+2603:7081:743f:3300:d43f:7005:16f0:858 2 139 18563059 20210823183234
+2001:a61:5ee:f01:d518:6304:ef5c:fab2 1 118 14449158 20210817211036
+2600:1010:b10d:b68e:6d8c:7761:5310:6a38 1 123 17864255 20210825193526
+2003:d0:8f20:4f00:39c1:a7bc:8ea:10ac 0 4 79958 
+92.35.225.106 1 1 188508 20210828005150
+158.174.22.72 1 138 18550254 20210817185500
+2003:e3:ef0e:6700:fc40:ace7:609f:9d28 1 76 9923554 20210824172739
+82.20.184.31 0 27 1012440 
+95.39.231.242 0 1 39762 
+2a00:1028:83a2:57a:c80c:3716:1554:9785 1 138 18550241 20210815095805
+2.191.247.172 2 2 25644 20210826000550
+172.221.77.141 1 138 18666011 20210827162641
+2600:8801:b112:ba00:9874:fbd8:397:cfef 1 136 18514755 20210806011920
+31.217.13.163 1 69 12844820 20210823104305
+217.131.82.44 0 120 18107726 
+73.94.68.16 2 173 27708039 20210802123318
+2a01:cb0c:e0c:f500:9023:138b:4542:764a 1 1 12818 20210811155821
+2a00:1370:811d:172f:f0d9:c8b2:729a:c1dc 1 115 10933419 20210826163004
+14.192.203.216 1 159 17489606 20210830070827
+220.158.191.52 1 137 18474391 20210823231039
+85.210.162.33 0 1 13819 
+2607:fea8:bfdf:a740:d514:d9ae:e9d3:9909 1 139 18667557 20210829011107
+141.138.32.50 1 113 15936759 20210826124904
+188.119.17.109 1 138 18550241 20210820212106
+67.176.62.2 2 232 29317192 20210825143135
+37.5.244.69 1 1 12818 20210825144444
+24.45.214.51 0 115 18096290 
+91.122.146.4 1 43 3377024 20210819200752
+162.218.239.227 1 112 16264076 20210809040933
+2003:eb:2718:e176:4cf8:c7ab:dab3:3e43 1 118 16858683 20210829143840
+93.152.163.126 0 18 1721168 
+78.48.60.192 0 14 1700625 
+98.128.164.14 0 3 109282 
+2a02:8388:1a00:ec80:8536:7ace:245a:145d 1 149 19135428 20210826091008
+79.186.14.58 0 28 1729874 
+45.92.45.244 1 1 12818 20210809081541
+35.243.253.11 0 1 1546 
+2003:ed:af17:5300:29da:61b7:8afe:d2b1 1 32 3900490 20210817195001
+151.61.222.23 1 139 18667557 20210827195924
+90.227.41.121 0 2 48892 
+178.221.150.31 1 1 67904 20210827090214
+2001:16b8:32f4:b00:59c9:c26b:62b:2de2 1 147 19118299 20210826223330
+185.169.233.213 1 110 17112019 20210815152854
+2003:e2:6722:c900:7d17:a4d5:c5c3:cf00 1 1 188508 20210820232602
+79.17.15.73 1 112 18229197 20210813231743
+184.98.48.67 1 136 13026388 20210815144044
+94.201.121.234 1 148 19018247 20210809222037
+93.122.250.126 0 16 1570330 
+2001:999:220:7d1d:8b0d:7326:9cf:971e 0 1 15749 
+2001:b07:6473:425:d509:1a81:9cb7:ff1e 1 45 3555894 20210820122515
+46.197.172.47 0 17 887895 
+85.108.220.56 1 146 17508490 20210806195541
+174.246.131.171 1 67 8999820 20210805060307
+213.37.191.162 0 1 7503 
+81.42.204.107 1 11 848511 20210806115522
+89.151.42.83 1 46 6275794 20210818153102
+174.1.82.70 1 1 188508 20210808013150
+173.3.167.156 1 139 18551773 20210801204600
+2406:3003:2060:26cb:87b:f9c5:df71:6c5f 0 5 57147 
+2a0c:b381:305:3300:a1eb:6abc:8361:d1bc 0 3 174747 
+46.176.165.126 1 119 15043362 20210806180137
+87.156.246.131 0 1 2039 
+2a01:c23:5d6c:f400:adb1:3985:678c:24b3 1 16 2710350 20210803085944
+2.49.202.141 1 141 18557468 20210808144617
+2001:56a:fa6a:8d00:2954:1d98:3e0d:28e5 0 119 18106315 
+176.88.89.203 0 26 2283719 
+213.76.246.113 2 2 256412 20210803194311
+176.40.230.141 0 22 1556201 
+94.114.133.94 0 1 1621 
+109.160.19.174 1 2 342868 20210816175943
+80.147.234.240 0 80 10075533 
+2a00:f41:2884:b4f6:8d5e:d2c2:44ad:f256 1 87 13320172 20210811223704
+89.164.211.245 1 92 12079761 20210814001210
+77.47.27.32 1 160 23156936 20210806005754
+158.140.212.52 1 140 18553711 20210805125516
+178.40.121.27 0 28 2908311 
+46.114.5.226 0 1 7393 
+2001:8a0:f39c:2100:24d9:51c5:e16c:757 2 139 18563118 20210802124734
+95.178.215.98 1 18 1995519 20210819153056
+85.230.21.61 1 1 188508 20210810205607
+79.153.249.200 2 146 19023454 20210831174900
+50.238.232.145 1 136 16518447 20210819221145
+92.100.46.236 1 98 9665887 20210819221121
+176.40.17.68 2 180 26983646 20210831104007
+2001:1711:fa43:8040:41f0:c58c:92f5:41a6 1 136 18476396 20210803133654
+2800:bf0:2301:1015:f979:9c7d:a0ae:581f 1 148 19018209 20210809170658
+2001:16b8:1454:e900:353a:78a0:af5e:6287 0 47 8940913 
+173.23.130.204 1 267 37124808 20210801012052
+78.10.211.165 1 87 13348933 20210811090814
+81.233.143.231 1 67 8474896 20210807012906
+2a02:c7e:136f:4800:10ef:4dbf:550a:350d 1 39 9848189 20210815194554
+80.223.57.117 1 95 11261186 20210805165309
+76.66.116.6 2 247 34914665 20210811175501
+107.131.72.218 0 95 14144285 
+2601:19b:8280:9440:6cbe:3d3:9f50:5cf1 1 139 19097524 20210826003215
+5.13.91.113 1 11 981863 20210808171347
+2a02:8108:100:79f0:19e6:d9f1:e22:29eb 0 27 2444403 
+128.68.71.164 1 85 10865458 20210805102725
+2603:8001:103e:500:2c92:d722:cb81:6ef9 2 114 12816209 20210815051952
+2003:ea:72a:f000:f198:87a7:c7e0:c9f9 1 47 7351063 20210822104909
+190.237.10.115 1 148 19018112 20210822044917
+92.35.202.97 1 1 188508 20210824111232
+138.199.16.15 1 85 13733823 20210806203721
+71.233.151.241 0 22 5143825 
+2001:16b8:60a0:6f00:b541:dfd0:b424:d6aa 1 81 10130153 20210824185507
+2a02:1388:8c:b662:731e:61bb:41f:46c8 1 120 15070553 20210809110649
+2a02:908:2053:74c0:58e5:9232:d80d:934a 0 14 1381891 
+2407:7000:81db:2b00:8c9f:1159:d79b:6a94 1 149 19135428 20210829144447
+80.71.142.101 0 2 74449 
+2600:1012:b02f:ff9f:4428:a826:1b81:b31e 1 21 1787307 20210817011118
+2601:193:c301:b030:7ce9:e65f:b3b:9844 1 148 19018207 20210808191347
+176.42.25.123 0 24 2046620 
+93.38.64.33 1 146 19009063 20210815191206
+78.190.108.251 1 2 190054 20210820212355
+2a00:23c6:fc1e:1901:cda4:cce8:9fd2:f115 0 2 48549 
+138.199.59.146 1 1 12822 20210828025036
+193.16.45.68 0 43 3769252 
+216.241.135.227 1 138 18550241 20210813132127
+172.83.13.6 0 111 16867042 
+109.42.114.180 0 5 170428 
+2a02:1205:34e1:6560:60a3:6eaf:5e00:d1bc 1 128 16732332 20210825174950
+172.56.7.219 1 135 16703555 20210831214838
+177.91.253.98 2 372 66548738 20210801022228
+2a01:5ec0:9018:6cd7:eb44:9774:fd23:e4c6 0 30 2195565 
+2a02:8108:8ec0:360:48a6:df41:c491:325b 0 5 16036 
+2a02:8388:1780:3680:31a6:b238:36c4:8f4d 1 108 13057344 20210824225041
+82.196.111.21 1 137 18548620 20210819211404
+2800:484:1887:384e:7d98:c7b:b52a:b4c6 1 146 17384812 20210812120317
+79.35.139.135 1 128 16861856 20210827142501
+80.82.77.199 1 1 188508 20210812104903
+2a02:2e02:3b90:1f00:5126:43c4:93fc:7b35 1 148 19018112 20210824094155
+2001:1711:fa43:8040:9ee:184:345a:6b1c 0 114 18026006 
+204.76.113.51 1 145 19010914 20210813022607
+195.174.54.112 0 26 2122166 
+31.17.181.171 1 148 19018112 20210819105316
+78.190.154.43 1 144 19142695 20210801200602
+181.208.70.31 1 143 18565194 20210810100707
+49.180.19.101 1 118 18290592 20210806024056
+190.157.251.70 2 277 37333568 20210831151711
+151.177.21.122 0 1 75850 
+2a01:cb08:381:7700:9dc4:df26:be3c:f3cb 0 4 108197 
+2a0c:5a84:340c:d400:c9ed:3f17:5e6a:ed00 0 5 16036 
+46.7.21.179 0 1 5028 
+2003:cc:ef0d:f300:b177:baa7:3e29:1290 1 110 15929665 20210827180158
+2a02:810c:cbbf:bff8:90d3:9549:fe41:f920 0 3 1642965 
+77.234.227.77 1 142 18809311 20210816175726
+2405:6e00:1f0c:1d00:6cd0:55f7:9cdd:c76f 1 144 19123958 20210831010131
+172.102.162.103 1 146 19009820 20210819210610
+68.194.42.220 1 148 19018237 20210809164508
+82.27.66.70 0 5 494408 
+2601:440:8300:5100:ddc9:60ff:c9e1:25b5 1 105 12672972 20210820082407
+151.67.58.106 1 137 18477931 20210804164021
+95.94.112.192 1 3 22092 20210808132008
+91.114.209.192 0 5 16036 
+95.232.25.140 1 27 3339346 20210804135327
+77.219.9.13 1 143 18571190 20210810133544
+92.114.38.4 0 15 1396709 
+2601:154:c201:29b0:84c3:dd2f:2ce:5a08 1 148 19018212 20210811120856
+95.70.233.65 1 163 16230550 20210810140033
+2a02:2f0b:bcff:ffff::6474:988 0 10 199078 
+2601:647:4201:7b20:a8b4:dd05:2fde:57ce 1 139 18377414 20210805191715
+70.95.167.171 2 124 18375210 20210831141359
+47.60.44.150 1 160 19467261 20210823173121
+2806:2f0:70e0:1986:3c57:9b05:398c:8496 1 148 19018112 20210818005819
+103.76.247.175 1 148 19018554 20210805054318
+83.35.64.145 1 139 18667557 20210828011523
+95.89.98.63 1 2 228270 20210803135059
+86.60.136.52 1 138 18550241 20210815104637
+18.116.33.50 0 1 1841376 
+2604:fa00:10d:11:d0e3:25d4:5d87:272e 1 148 19134774 20210828011859
+87.248.13.40 0 5 16048 
+212.125.11.73 1 148 19018112 20210816030856
+145.239.172.119 0 5 281370 
+46.208.250.152 1 1 12831 20210803124812
+2001:999:80:8491:4989:a411:1b89:25ea 3 150 19043866 20210811173359
+2a02:587:c43d:4f00:adc9:5930:c8e:e5b0 1 1 188508 20210810123233
+83.32.156.172 1 1 188508 20210815235914
+2a02:2455:6a0:6d00:dc40:97cf:5978:cf0d 0 16 1708746 
+212.241.105.131 0 1 321125 
+159.146.72.103 2 153 19247691 20210826014537
+79.21.123.24 1 112 18229197 20210813165416
+51.77.204.76 1 64 13360667 20210825182634
+83.30.89.246 1 80 9391427 20210811231818
+2604:2d80:ed0a:e600:1114:22d8:bc34:b735 1 100 12843954 20210821024136
+2a02:587:492e:19a5:6186:bda5:9f15:65b8 0 56 6942565 
+2a02:3035:c02:f56b:327:ac1d:28d6:87f3 2 80 8728966 20210831113657
+152.65.53.223 0 5 16036 
+2003:f8:7713:7a48:c963:cc75:753e:84f5 1 15 2708930 20210802021150
+81.213.97.66 1 137 18481858 20210823220316
+125.253.28.193 1 138 18550241 20210823092916
+176.234.129.123 0 4 29450 
+92.200.109.158 1 1 12818 20210808081645
+74.230.6.204 1 142 18564731 20210815144048
+207.46.13.59 0 1 8926 
+68.169.135.244 1 139 18667557 20210830232653
+178.152.172.7 1 148 19018112 20210817222409
+113.31.112.65 0 1 2064787 
+184.74.35.147 1 148 19018112 20210816120911
+89.151.37.243 2 36 3977714 20210817214627
+62.4.42.212 1 143 18216824 20210830160056
+85.100.70.59 2 141 17006681 20210801161842
+84.31.2.239 1 2 1324699 20210813130116
+176.234.32.168 0 91 13485036 
+185.151.34.70 1 132 17172669 20210827204414
+2a02:a03f:e409:d300:10a0:73ad:64a0:bccc 1 1 188508 20210808124605
+82.18.26.55 0 1 117316 
+2003:c5:b703:d64f:c5cb:5e7a:fa51:ad36 1 36 3934136 20210817101514
+85.186.3.237 1 5 378436 20210825193430
+176.88.44.2 0 4 29450 
+159.146.28.235 1 140 18555489 20210816111442
+120.29.18.143 1 139 18667557 20210831045032
+2a02:a03f:c9c4:2900:84be:4527:9e83:8bf6 0 3 177086 
+2003:d8:8f09:9800:809b:9fca:10db:fd63 0 17 458652 
+78.87.18.224 1 70 7362489 20210826193512
+158.174.37.195 1 35 3564554 20210831092118
+2a02:2f0d:504:9400:ac6f:5b9:9b9b:a474 0 27 1938756 
+24.143.155.176 1 138 18550304 20210811210929
+2600:1f18:65b9:df03:72b8:eb0f:40de:6df1 0 2 69215 
+130.25.224.141 1 132 18116864 20210806181253
+178.233.208.87 0 24 1625343 
+2001:8f8:112d:635a:c889:83e4:936:8cff 2 149 19030969 20210817203549
+212.10.163.9 1 1 188508 20210825182714
+79.112.44.18 0 22 1556188 
+45.86.202.30 0 1 39966 
+2001:8a0:f39c:2100:100e:e0e:61f:6172 1 137 18548784 20210802192552
+84.125.79.100 1 142 18560350 20210811220235
+39.45.155.232 0 143 18809885 
+77.53.234.206 0 10 32084 
+157.157.203.231 1 149 19135428 20210827000035
+91.180.128.204 0 1 549177 
+43.251.255.39 1 138 18550292 20210811005650
+79.80.127.206 0 3 163112 
+176.30.76.247 1 133 16612365 20210801102145
+5.173.194.195 1 121 16579857 20210827125949
+169.0.244.104 1 132 18324945 20210817163829
+142.160.122.38 1 138 18550267 20210816175253
+2601:603:4a7f:7fde:5072:683f:6b58:8c02 1 136 14759848 20210830015703
+81.19.209.114 0 11 1212216 
+2a02:8108:1400:9b8:38aa:b19e:6c44:9ab5 0 2 66753 
+46.5.4.25 0 2 49510 
+85.227.158.239 1 138 18550241 20210819161930
+2600:8802:3300:4a00:25d6:efaa:12a2:ccdd 1 138 18550398 20210802042849
+199.247.210.115 0 69 11627460 
+2800:484:447f:c420:7589:b773:5a42:6669 1 153 19034148 20210816193628
+191.55.15.100 1 138 18550293 20210809010616
+87.248.17.16 1 2 193801 20210803205331
+85.58.219.103 0 2 115658 
+213.129.60.95 1 1 12818 20210810114851
+151.192.159.221 1 151 19031091 20210810054111
+178.233.152.104 0 1 39966 
+79.115.133.7 0 16 731063 
+5.154.21.127 1 3 122881 20210830214506
+37.19.195.130 1 1 12822 20210830155312
+90.240.96.0 0 2 6194 
+2a03:ef42:4005:2781:3c39:c398:4c04:bde6 0 10 1359875 
+176.198.174.130 0 1 1621 
+2407:7000:9072:6e00:b12c:458f:872f:d9e8 1 146 19011326 20210817043851
+163.49.213.114 2 153 22704182 20210801004254
+78.68.33.141 1 1 188508 20210813132014
+94.147.90.54 0 10 628482 
+78.180.77.211 1 140 17332726 20210808123112
+2001:16b8:b4ea:2d00:945c:dbac:5b7d:ecd1 2 32 3363503 20210818215657
+46.45.185.164 0 2 558523 
+2a01:cb00:f54:c600:a19d:e136:2a7c:5272 0 2 60934 
+69.11.2.46 1 148 19018233 20210808063221
+91.153.65.225 2 285 37566869 20210813141301
+176.40.37.124 0 7 639003 
+46.45.185.182 1 1 12818 20210805125934
+37.130.100.86 0 4 29450 
+88.245.254.166 1 136 16927512 20210809113454
+2600:1f18:65b9:df03:e6d1:9004:3428:67e2 0 1 1621 
+2601:5ce:4480:c20:14e1:439e:36d7:c052 1 148 19018112 20210815023406
+109.166.128.112 0 1 3672 
+71.83.198.92 1 121 18313191 20210827003726
+2800:810:4e5:294b:d516:f714:91b0:1c2f 1 148 19133882 20210827111925
+109.60.34.125 1 7 1281051 20210804074504
+2a02:1388:2087:38c:8849:567b:80fa:317c 1 5 213555 20210813155619
+212.58.120.91 1 148 19018554 20210806130757
+2a02:a03f:c4dc:9800:c8d9:cddb:de00:3a37 1 79 13424241 20210823100954
+78.3.7.64 0 3 281011 
+109.42.115.39 1 1 188508 20210808165235
+92.34.96.16 1 135 14660253 20210815101853
+84.112.31.244 0 1 44688 
+2607:fb90:98dc:9e68:f955:5fa8:b983:c05c 1 143 18567442 20210810201610
+88.244.228.153 1 135 18475331 20210825005705
+89.7.111.112 0 1 39762 
+109.93.144.84 0 7 2114626 
+90.26.74.161 1 7 111830 20210805042955
+2a02:8108:9340:3b54:3975:dbe6:3bcb:691e 0 71 9384604 
+2a00:f41:589a:8996:a503:6cc3:8c2a:1282 0 1 1546 
+2a00:d420:11:8c00:21b1:d8ea:d43c:622c 0 63 6461482 
+185.195.232.145 2 61 9586208 20210811171215
+67.60.30.46 1 89 11983061 20210808120101
+2a02:908:4b31:59c0:15ea:89d6:9722:2de4 0 70 9353871 
+88.224.165.23 1 133 16701246 20210801223906
+2001:8a0:de64:4501:eca2:b67e:31dd:c699 1 139 18671732 20210831172613
+2003:e9:df0f:1200:c41c:e8f4:eedf:fdea 2 18 3210420 20210801220524
+195.155.171.200 0 3 281011 
+31.221.151.188 1 11 514085 20210806002821
+37.6.161.26 0 53 6387443 
+2a02:908:1653:66e0:a52f:c2c0:677c:f66 1 1 12822 20210826010736
+24.45.254.237 0 119 18106315 
+2a00:5400:e052:3aea:64:ca9d:df71:836a 1 148 19018260 20210806211751
+195.242.193.53 1 134 17263672 20210830201437
+73.102.159.204 1 2 208500 20210822081107
+100.0.78.50 1 144 17063219 20210827152856
+2603:8080:a408:b9df:f041:76e:2134:f584 1 77 10911137 20210806183744
+84.121.178.127 1 107 20548697 20210803162327
+91.110.247.230 1 50 9567654 20210818230242
+2a02:8108:8600:1360:3954:d9ab:80ee:9919 0 1 11260 
+177.36.185.138 1 148 19018150 20210811195301
+92.220.161.84 1 138 18550275 20210813092534
+217.209.223.237 1 144 18998345 20210818131602
+82.81.29.64 0 5 16048 
+2600:1f18:65b9:df01:419:7b3a:850c:3ab 0 1 17112 
+115.186.77.40 0 2 31973 
+2001:871:24d:2f10:5940:e749:4cec:532d 1 60 12381438 20210818183448
+176.33.90.9 0 1 154360 
+135.19.156.112 1 149 19135428 20210828030354
+2a02:2f05:6d07:4e00:cc95:50e4:d9e8:f148 0 35 2003588 
+49.245.103.69 0 117 18102034 
+213.177.214.214 1 153 19034148 20210822085020
+217.62.1.57 0 1 39762 
+186.115.70.99 2 277 37333568 20210830011726
+2001:16b8:1820:7400:d064:4465:2fdd:3a27 0 2 45505 
+178.164.119.78 0 30 4183104 
+2.230.219.36 2 284 37393192 20210819112934
+81.167.118.142 0 7 263480 
+2601:83:4280:f210:cd1e:4f61:a337:582c 1 148 19018112 20210825130026
+109.95.143.2 1 154 19243973 20210802215603
+95.236.113.233 2 172 19319532 20210810145042
+2001:818:eb54:a800:3c25:4478:a32a:6da2 1 138 18550301 20210803224113
+96.236.201.225 1 136 18543688 20210813094040
+83.42.210.218 2 29 923069 20210820143912
+23.240.98.86 1 86 10723911 20210803155400
+2.153.231.152 1 148 19133487 20210827120832
+2600:387:a:15::9c 1 1 188508 20210819231212
+85.108.198.125 1 143 19119821 20210817213425
+79.147.104.28 1 1 188508 20210803084127
+5.16.126.162 1 125 13461862 20210804143226
+112.215.208.58 0 3 2186175 
+176.33.224.104 0 10 793368 
+108.20.202.22 1 148 19018226 20210809164131
+112.215.253.48 0 25 3639858 
+2a02:1205:5024:f1c0:759f:c5d2:5faf:8a74 2 130 17242281 20210815214527
+162.253.71.26 1 148 19018112 20210823060742
+31.150.22.212 1 1 67904 20210820232621
+81.2.166.160 1 1 12818 20210816181442
+176.232.63.50 0 39 2925808 
+2a02:8108:14c0:24e4:3d1e:57ac:9868:bf77 1 1 12831 20210805145331
+84.250.93.211 1 80 7398095 20210830134413
+2600:6c56:4908:289:b0f5:c781:590b:eb99 1 78 9550213 20210815231837
+62.43.161.77 1 139 18553426 20210802123042
+85.139.8.202 2 150 19246382 20210818203659
+42.118.94.202 1 138 18552696 20210801183220
+2600:1f18:65b9:df03:1bc3:e1a7:b8d5:ecaf 0 1 14085 
+77.134.42.104 0 5 398364 
+95.169.233.53 1 1 188508 20210811193824
+85.149.58.54 1 14 758396 20210819104734
+2a00:23c7:db03:1d01:2cb7:c014:a398:e68b 0 1 8279 
+205.250.155.176 1 148 19018112 20210819220034
+2003:d1:4f04:937f:bddd:2388:f964:85d1 2 100 14918534 20210825202822
+83.53.168.247 0 5 16036 
+49.179.65.255 0 5 57147 
+2601:983:201:bd70:7107:30af:24a:1bb9 0 1 75850 
+2a04:4540:1500:1600:f1a2:c02a:eb87:716a 0 3 17990 
+2a02:587:b448:c400:eced:4ace:4635:91ff 1 69 7256492 20210820214812
+88.230.5.174 2 271 35593214 20210810124508
+2001:4646:1496:0:b4b9:2257:d20c:66fb 1 143 18992465 20210812153020
+47.12.49.200 1 137 18491518 20210811080028
+2a00:23c7:6994:b800:241e:f0e9:e87:3a52 0 1 57977 
+181.234.131.199 1 139 18667557 20210827214205
+83.34.200.24 1 147 19016869 20210803122033
+98.35.155.42 1 148 19018112 20210825014013
+2a02:587:6c05:f341:d997:4023:4505:b968 1 70 7281877 20210823010120
+83.255.137.144 0 5 16036 
+78.2.91.9 1 148 19018197 20210809072836
+98.16.41.241 1 66 4992368 20210815210221
+2a01:e0a:a38:b5a0:7937:1d62:d3b4:2cf4 0 1 75765 
+81.17.30.212 1 1 12818 20210823121239
+185.93.161.21 0 8 410358 
+2003:ca:2f2f:af8d:98c0:49a7:c14c:bef1 1 145 18997180 20210822165705
+82.5.147.123 1 1 12818 20210803210049
+178.237.219.173 1 108 13024562 20210815062140
+212.224.224.166 1 6 409980 20210826081058
+85.54.125.68 1 1 188508 20210809212457
+185.56.100.227 2 23 4540330 20210819084621
+188.233.167.50 0 89 8833218 
+2a00:23c4:de3c:df00:8478:4789:5eea:c5ae 0 5 16048 
+190.16.20.20 1 145 18698638 20210826205111
+2a00:1028:96d1:d3de:181d:7b6b:c6f5:574c 1 138 18550241 20210823135950
+93.99.142.87 1 138 18550241 20210823155837
+78.184.237.234 1 134 16698904 20210809220620
+2a0a:a546:d0a1:0:b4ad:18f:a0e9:947 0 4 92130 
+2804:5740:5019:3a00:b1cd:d0b1:2787:4abd 0 115 18096290 
+176.88.130.79 0 38 2921319 
+24.200.203.32 0 117 18102083 
+2.199.27.81 1 58 10932049 20210829082342
+98.128.167.215 0 41 3261179 
+2804:1b2:a986:a93d:6185:1402:b12:f22c 1 137 18548720 20210816131323
+2003:ea:c70c:e158:cdf0:37b0:a873:dfef 1 15 2708894 20210803120351
+86.190.122.248 0 1 558 
+92.82.91.55 0 1 8926 
+2.247.242.133 1 144 18995882 20210823224832
+216.56.49.67 1 118 17240356 20210816194828
+2001:999:81:485:406d:fd4a:b697:be72 1 97 11269381 20210806220552
+149.90.120.197 0 5 16036 
+87.48.10.95 1 148 19018208 20210806213429
+78.182.229.142 1 137 17625232 20210817120133
+2600:6c67:317f:9b92:d137:f7f1:a3b3:1d96 1 149 19135428 20210830233323
+178.84.200.236 0 3 156105 
+87.221.84.103 2 139 18563059 20210822171933
+2001:16b8:66a6:d200:851a:4660:d7c4:d86c 1 84 13968713 20210808175258
+2a02:c7f:76ec:6600:904e:9610:6053:1442 0 1 39966 
+68.8.10.95 1 142 18543259 20210809052916
+2a02:8388:a002:6580:f947:1cc6:9d30:ea71 2 267 34416709 20210804155313
+2804:14d:4ca5:9b74:9048:486c:e02e:d4ff 1 137 18548695 20210816204657
+2001:b400:e3d7:7763:8c2f:44e2:98e7:a76 0 117 18100583 
+217.216.82.22 0 1 9911 
+93.182.109.79 1 77 6903389 20210801135910
+2a02:8388:1780:3680:b109:e84:f71a:f8ec 1 143 22169229 20210831035403
+2a00:102a:5006:e3a4:914e:8a40:e75d:8f0f 1 138 18550241 20210820122427
+98.128.128.194 1 6 234538 20210831233225
+2003:cd:7710:7200:6c68:c035:6b98:564e 2 2 201326 20210816152753
+2a02:c7f:5848:7e00:b96e:a23c:ee95:8362 1 88 14329529 20210830201123
+2601:282:1680:33d0:3d1d:791f:e14b:47ee 1 36 868848 20210822231111
+2001:9e8:2174:dc00:d1a:9d3b:dcb9:f864 1 101 14902911 20210826113739
+198.245.101.97 1 149 19135428 20210829132458
+54.39.105.144 1 148 19133882 20210827152307
+142.182.12.16 0 136 18360208 
+84.247.50.62 1 1 188508 20210811143759
+2a02:a45d:f0bb:1:3dd4:1b37:9c5b:6fbf 1 78 13411601 20210823183702
+2a01:e0a:aab:5d30:d87d:1769:b357:5a40 0 4 106279 
+87.221.206.41 2 3 380688 20210825153923
+79.155.174.185 3 296 38273154 20210830181405
+2.203.139.18 1 148 19018112 20210816154401
+37.48.50.239 0 46 2618199 
+79.153.25.110 1 1 12818 20210823125523
+99.234.1.203 0 118 18102562 
+95.106.225.69 1 56 6085532 20210822052947
+79.134.140.96 0 3 259508 
+2600:6c58:7900:11f6:842e:e0e9:101f:91a5 1 148 19018112 20210820003332
+75.157.102.57 1 146 19013583 20210820120318
+2003:cb:b725:3b0e:f17b:306e:1694:9d8e 2 2 256412 20210812095521
+95.250.96.102 1 136 18356582 20210818165845
+94.229.108.251 0 1 29453 
+178.245.89.45 1 16 614806 20210819215640
+2a02:560:4118:9d00:310b:b23c:985:292b 1 86 10213139 20210824170054
+2001:b07:ab5:8a6d:29b0:cfe9:a3f0:39b0 1 129 17229463 20210815162418
+45.135.187.167 1 148 19018112 20210820222230
+31.223.48.70 1 148 19018226 20210809180645
+68.194.69.22 1 149 19135428 20210829033002
+2a02:8388:6982:f180:5116:ee22:76be:503c 1 11 9307191 20210818193543
+121.216.194.183 2 147 21089890 20210822042005
+85.100.115.102 1 129 16362091 20210806115759
+46.172.12.17 1 139 18668049 20210829233715
+2800:810:5e4:12fd:ecc9:8314:adef:1cd5 1 60 12215129 20210830233131
+2a02:8109:a180:23ac:118a:e482:e9a5:62ac 0 4 427172 
+149.167.130.42 3 156 19707485 20210827124429
+190.43.84.74 1 149 19135428 20210826162613
+84.216.136.11 1 1 188508 20210803082604
+2003:ce:1f2b:ee00:61b7:9827:2896:e991 1 68 6528961 20210831075402
+2a01:5ec0:d803:f5c:c0fa:66f1:98d4:8a26 0 94 13924211 
+81.214.163.133 1 139 15613799 20210813190954
+78.128.48.178 0 10 793355 
+194.143.235.113 0 1 14750 
+27.33.89.28 2 275 37098996 20210813071316
+2a02:587:c415:8b00:81cf:59a:60a9:6eb 1 53 6269966 20210829164914
+163.158.130.57 0 1 1546 
+24.50.204.31 2 286 37568353 20210825055815
+2a02:8084:921:4980:71c2:5426:2357:b406 0 4 205666 
+2601:281:cc81:7540:5453:9e90:d910:7ec9 1 1 188508 20210801232457
+2001:8003:25ce:3200:49ef:84fd:ba51:f73f 1 148 19133882 20210825230841
+91.158.30.128 1 1 188508 20210817151239
+174.130.171.103 1 148 19018173 20210808123529
+94.222.134.166 1 146 19014163 20210805185814
+2001:b07:6469:3f0c:4dc6:75ec:14cb:f10e 1 127 16615016 20210825140701
+81.37.85.127 0 1 39762 
+2001:171b:c9ae:f3b0:c019:a393:4af5:f229 0 1 1621 
+2a00:23c7:7d0c:1901:30ed:86b4:d6e5:dc36 0 2 82627 
+178.164.249.122 0 9 194589 
+85.226.156.238 1 1 188508 20210816223133
+2a01:c23:5c18:c600:2485:dd5e:1022:ed88 1 4 221011 20210801123041
+89.212.222.94 1 149 19135428 20210829172449
+107.214.9.27 1 87 11969515 20210809162542
+88.89.208.134 1 1 188508 20210808014837
+2803:d100:e260:eba:b862:b9e8:a29a:9788 1 148 19018225 20210806224348
+2001:56a:f8c3:af00:a897:d528:b688:1606 1 148 19018369 20210802004408
+142.134.183.147 1 149 19135428 20210825165416
+2a00:f41:58d3:f2f:8fe0:d1a6:ce7:f90b 0 5 57147 
+137.101.215.165 0 2 138580 
+176.88.74.75 0 3 31338 
+2003:f2:7734:334:215b:4b52:8fbe:a03f 1 1 188508 20210809210723
+2001:8f8:132f:13f0:2e:f27:3b6e:4798 1 138 18550290 20210810181902
+94.245.30.126 1 138 18550241 20210820130123
+91.110.223.65 0 1 53661 
+173.66.223.165 1 145 18870861 20210816041328
+2600:1f18:65b9:df03:cada:6cf3:4e86:e74a 0 1 7815 
+2607:fea8:4d20:e7b0:357f:17d2:eb1a:5a3f 1 140 18556231 20210803072030
+46.235.183.9 1 1 12818 20210810103300
+81.232.5.131 1 1 188508 20210802155328
+176.20.218.122 1 2 201148 20210810130317
+178.243.217.144 1 123 18175301 20210811182740
+178.40.24.136 0 78 12884655 
+113.31.118.71 0 1 2064787 
+105.106.63.66 0 58 7048326 
+2a02:908:1576:5e00:fc85:244d:2ac:9060 1 1 12818 20210801105753
+2607:fea8:45e4:1500:78eb:824c:a6f2:941b 1 140 17771427 20210819145452
+50.86.79.56 1 11 11069397 20210808000003
+2a00:23c7:c3a7:fb01:7cd3:df5f:65e3:1400 1 1 188508 20210810093556
+2a00:1028:9191:8a86:2c:1cd8:7125:35a2 1 139 18668049 20210827183941
+149.0.196.236 1 138 18550363 20210810174453
+92.220.108.197 0 8 305947 
+84.216.43.76 1 8 1946930 20210825072856
+2001:8003:25ce:3200:e48c:54d:8f2:d6fe 1 148 19018457 20210801022401
+2a02:a44d:b6f:1:7429:3018:bb72:1d0 0 1 45951 
+190.175.15.166 1 139 18551720 20210804040602
+5.122.89.133 0 1 361801 
+178.159.171.77 1 6 295646 20210806223714
+168.245.155.49 1 148 19018209 20210809222117
+2600:4040:1307:301:6a:5607:ddfb:b598 1 186 30172746 20210808140830
+94.201.112.223 1 149 19135428 20210829000128
+176.230.72.24 0 2 94814 
+2a02:8109:480:6efc:357a:bcdf:8c2:e70e 0 5 16036 
+2601:18c:ce7f:9750:d4e1:8307:71e3:2652 1 140 19099070 20210827003706
+176.88.132.243 0 14 1408144 
+135.180.81.30 1 138 18550241 20210819073816
+1.42.89.92 1 278 37356520 20210803113047
+178.147.149.141 1 1 188508 20210810234958
+2001:1c03:4e0f:7f00:cc91:25bb:b52:6f9f 1 1 12822 20210830231817
+2600:387:f:4b1b::1 1 145 19009927 20210809173544
+51.89.187.117 1 130 16444266 20210827123933
+213.148.212.237 2 127 18244108 20210803154400
+212.102.54.181 1 117 18286357 20210808222503
+193.173.219.44 0 3 424964 
+203.96.242.11 1 148 19018150 20210816060839
+2a02:2f08:6406:8000:9415:15e2:d007:257 0 38 2921319 
+82.43.127.7 0 3 115304 
+83.11.1.211 0 11 547253 
+79.186.86.88 0 7 277901 
+5.23.187.157 0 2 5711 
+2001:1970:599d:b100:758f:c1d:ab0f:cdf7 1 114 13808218 20210826032048
+94.255.254.9 3 149 19157736 20210831221857
+87.57.184.124 1 1 188508 20210808095632
+73.59.76.205 1 135 14605161 20210829023420
+94.242.183.215 1 61 6277705 20210824132643
+2a02:8388:2885:f200:acba:e845:3ecb:3e99 0 75 11858404 
+2a02:8070:184:d440:fc65:38d6:60e1:6405 1 1 12818 20210820214723
+82.9.232.216 1 1 188508 20210810200437
+2800:200:e500:115:c18b:64e8:d94:2bec 1 138 18550241 20210816230158
+213.249.60.25 0 97 14616463 
+2a02:8109:8ac0:f208:555a:6a18:e608:414c 0 1 21752 
+47.151.32.36 2 137 18527426 20210810175234
+62.113.188.200 1 1 188508 20210829165502
+71.34.160.62 1 147 19016662 20210808191225
+46.30.238.123 0 2 45505 
+2a03:2880:21ff:75::face:b00c 0 22 4398329 
+24.87.154.178 1 87 10149218 20210806162634
+165.16.50.140 1 20 1643619 20210813062105
+85.53.36.207 1 54 14855665 20210806152115
+86.143.216.93 0 5 16036 
+217.210.131.206 1 138 18550372 20210810190523
+72.69.11.74 1 149 19135428 20210825190014
+98.164.124.134 1 87 12013433 20210813033152
+2001:4c4c:20af:2d00:75a6:9044:ccd0:3289 1 62 11259124 20210801091435
+109.121.243.175 1 1 12818 20210823084837
+188.93.190.143 1 1 188508 20210820160840
+75.71.239.238 0 53 8667790 
+2001:818:eb54:a800:5d4d:17d3:fb29:dc32 1 148 19018200 20210803230240
+94.114.104.171 0 79 9575325 
+18.117.226.25 0 1 921279 
+178.237.219.57 1 117 13387625 20210813131108
+2800:810:42d:332d:4a6:3cbf:adc8:eb0b 0 1 1546 
+5.18.206.230 1 138 18550293 20210810030924
+2600:1700:8878:8830:84d4:1f3c:813f:65b7 1 147 19016566 20210817151650
+82.222.96.224 0 49 3468572 
+95.245.21.240 1 138 18550280 20210811155043
+176.59.107.44 0 28 2666785 
+145.255.180.8 1 48 6147767 20210827054334
+194.96.5.33 0 3 185786 
+217.209.32.208 1 35 3564554 20210831072521
+103.247.151.57 3 3 38454 20210812193847
+78.68.162.86 1 144 18678082 20210829184223
+2.47.97.47 1 143 18994761 20210819110440
+95.12.117.207 0 2 89711 
+2001:a61:50c4:6a01:6945:687e:f7d5:63a3 1 116 15262655 20210803100615
+5.146.88.204 1 1 12818 20210822143628
+94.54.60.3 0 91 13485036 
+95.10.154.143 1 255 34874300 20210813232216
+2001:8a0:f39c:2100:7807:c188:b53c:22d1 1 137 18548732 20210803072825
+92.223.89.73 0 115 18017322 
+37.190.37.137 1 149 19135428 20210830141604
+102.39.232.139 1 148 19018361 20210801095455
+99.227.166.68 2 400 55694810 20210827021757
+109.49.48.186 1 149 19135428 20210829091255
+93.182.107.138 2 130 15578143 20210827110222
+93.65.54.186 0 2 2068654 
+2001:464c:632a:0:d54a:3816:43dc:d212 1 1 188508 20210801211844
+82.40.90.240 1 1 188508 20210808135402
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20210801 307 7403 975852105 69
+20210802 330 7906 976659169 80
+20210803 306 4955 638623559 61
+20210804 192 4598 581953852 44
+20210805 245 5449 671623143 57
+20210806 327 7572 966715257 83
+20210807 32 394 48067469 6
+20210808 324 7987 1061579090 84
+20210809 350 7793 1002987710 69
+20210810 420 7966 1007452206 85
+20210811 334 7922 1029388880 77
+20210812 305 6229 765371523 73
+20210813 284 6769 852855583 67
+20210814 26 814 105947066 6
+20210815 312 9176 1152526208 76
+20210816 325 7472 955647925 70
+20210817 301 5838 720785514 60
+20210818 287 6604 840898601 68
+20210819 272 6036 747881411 61
+20210820 325 7462 948427216 82
+20210821 28 969 136476095 7
+20210822 280 5571 689145896 61
+20210823 331 7656 964399874 74
+20210824 319 6121 769480256 68
+20210825 351 8348 1058374393 78
+20210826 286 6566 809232500 61
+20210827 330 9082 1141229184 84
+20210828 40 1226 153883331 13
+20210829 371 9298 1160888571 79
+20210830 330 8861 1135728077 72
+20210831 382 9013 1140104374 83
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 33
+15mn-30mn 5
+1h+ 49
+2mn-5mn 13
+0s-30s 1847
+30mn-1h 2
+5mn-15mn 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 13
+/ 6736 92751658 216 264
+/assets/vendor/ionicons/fonts/ionicons.ttf 1746 328781670 1717 1651
+/assets/vendor/ionicons/fonts/ionicons.woff 46 3123584 25 43
+/phpmyadmin/ 46 311747 0 0
+/assets/vendor/bootstrap/dist/css/bootstrap.min.css.map 21 2235251 0 0
+/assets/vendor/hammerjs/hammer.min.js.map 15 208929 0 0
+/assets/vendor/popper.js/dist/umd/popper.min.js.map 15 551920 0 0
+/assets/vendor/bootstrap/dist/js/bootstrap.min.js.map 15 744138 0 0
+/mail.php 4 1796 0 0
+/vstats/2021-08/ 3 35118 0 0
+/vstats/2021-06/ 1 11573 0 0
+/vstats/nav.html 2 1736 0 0
+/vstats/ 2 1420 0 0
+END_SIDER
