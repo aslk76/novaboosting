@@ -2,7 +2,7 @@
     @if(!$sliderImages->isempty())
         @foreach ($sliderImages as $image)
             <div class="nk-image-slider-item">
-                <img src="{!! $image->image('slider_image', 'default') !!}" style="max-height: 100%" alt="" class="nk-image-slider-img">
+                <img src="{!! $image->image('slider_image', 'default', ['fm' => null]) !!}" style="max-height: 100%" alt="" class="nk-image-slider-img">
             </div>
         @endforeach
     @else
