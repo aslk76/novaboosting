@@ -16,7 +16,7 @@
                             <h2 class="nk-post-title h4"><a href="https://discord.gg/H4ZdEFgPjx"
                                 target="_blank">{!! $news_item->title !!}</a></h2>
                             <a class="nk-post-img" href="https://discord.gg/H4ZdEFgPjx" target="_blank" class="nk-post-img">
-                                <img style="max-width: 100%;" src="{!! $news_item->image('news_image') !!}" alt="{!! $news_item->title !!}">
+                                <img style="max-width: 100%;" src="{!! $news_item->image('news_image', 'default', ['fm' => null]) !!}" alt="{!! $news_item->title !!}">
                             </a>
                             <div class="nk-gap"></div>
                             

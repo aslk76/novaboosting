@@ -23,7 +23,7 @@
                                 <div class="nk-gap"></div>
                                 <div class="nk-blog-post">
                                     <a class="nk-post-img">
-                                        <img src="{!! $tab->image('service_banner', 'default') !!}" alt="{!! $tab->title !!}">
+                                        <img src="{!! $tab->image('service_banner', 'default', ['fm' => null]) !!}" alt="{!! $tab->title !!}">
                                         <span class="nk-post-categories">
                                         </span>
                                     </a>
@@ -35,7 +35,7 @@
                                             <div class="row vertical-gap">
                                                 <div class="col-lg-3 col-md-5">
                                                     <a class="nk-post-img">
-                                                        <img src="{!! $detail->image('service_image', 'default') !!}" alt="{!! $detail->title !!}">
+                                                        <img src="{!! $detail->image('service_image', 'default', ['fm' => null]) !!}" alt="{!! $detail->title !!}">
                                                         <span class="nk-post-categories">
                                                         </span>
                                                     </a>

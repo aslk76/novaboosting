@@ -10,7 +10,7 @@
             <div class="nk-tabs" style="width:100%;">
                 <div class="nk-blog-post">
                     <a class="nk-post-img">
-                        <img src="{!! $flash_deals[0]->image('flash_deal_banner', 'default') !!}" alt="">
+                        <img src="{!! $flash_deals[0]->image('flash_deal_banner', 'default', ['fm' => null]) !!}" alt="">
                         <span class="nk-post-categories">
                         </span>
                     </a>
@@ -28,7 +28,7 @@
                             <div class="row vertical-gap">
                                 <div class="col-lg-4 col-md-5">
                                     <a class="nk-post-img">
-                                        <img src="{!! $flash_deal->image('deal_image', 'default') !!}" alt="{!! $flash_deal->title !!}">
+                                        <img src="{!! $flash_deal->image('deal_image', 'default', ['fm' => null]) !!}" alt="{!! $flash_deal->title !!}">
                                         <span class="nk-post-categories">
                                         </span>
                                     </a>
