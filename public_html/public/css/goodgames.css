@@ -9537,19 +9537,3 @@ div.nk-error {
     opacity: 1;
     z-index: 1;
 }
-
-/* ===Christmas=== */
-
-/* // Snowflake */
-.snowflake {
-    padding-left: 15px;
-    font-size: 14em;
-    line-height: 24px;
-    position: fixed;
-    color: #FFFFFF;
-    user-select: none;
-    z-index: 1040;
-}
-.snowflake:hover {
-    cursor: default;
-}

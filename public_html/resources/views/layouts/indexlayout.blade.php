@@ -64,7 +64,6 @@
 </head>
 
 <body>
-    @include('home.partials.snowflakes')
     <div class="nk-main">
         <img class="nk-page-background-fixed" src="
         @if(!$layoutImages->isEmpty())
