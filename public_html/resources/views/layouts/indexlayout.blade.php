@@ -77,7 +77,6 @@
         @endif
         " alt="">
         @include('home.partials.nav', ['layoutImages' => $layoutImages])
-        @include('home.partials.christmasLights')
         <div class="nk-gap-2"></div>
         <div class="container">
             @include('home.partials.imageslider', ['sliderImages' => $sliderImages])
